@@ -1,0 +1,401 @@
+================================================================================
+ANAMATA KĀHUI LIMITED
+Tindall Foundation — Direct Donation application
+Application date: 2026-07-29
+Funding pathway: Direct Donation (Option #2 — Online Form)
+Amount requested: NZD $9,500
+Project period: 3 months (August – October 2026)
+Application language: English (te reo Māori version available on request)
+Submission method: Online form at https://tindall.org.nz/contact/
+
+This document is the offline copy of the application submitted via the
+online form. The online form is structured (free-text fields with
+recommended lengths); this offline version is the prepared text the
+online form fields were filled from. The structured sections below
+mirror the online form's section order.
+
+================================================================================
+
+
+SECTION 1 — INITIATIVE NAME
+================================================================================
+
+CARE-Aware Research Infrastructure: peer review, conformance benchmark,
+DOI minting, and te reo Māori upgrade for three published methodology papers.
+
+(Working title; the online form's "initiative name" field accepts
+40-80 chars.)
+
+
+SECTION 2 — THE INITIATIVE — GOALS + AIMS
+================================================================================
+
+[ ~ 600 words — the online form's primary narrative field ]
+
+The initiative operationalises the Te Mana Raraunga CARE principles
+for Indigenous data governance at the schema layer of a digital
+platform, then publishes the three underlying methodologies as
+citable research artefacts so other iwi / hapū / GLAM organisations
+can adopt them without re-inventing the wheel.
+
+The platform itself — Anamata Kāhui — has been built and is live at
+anamatakahui.co.nz. It is one of very few Aotearoa digital platforms
+where cultural safety is enforced by the database rather than as a
+procedural convention: a Postgres BEFORE UPDATE trigger ensures no
+release goes out without kaitiaki (cultural guardian) sign-off, the
+append-only consent log preserves every consent decision (granted,
+amended, withdrawn, expired) with named actors and timestamps, and
+every iwi-gate decision is queryable for audit.
+
+The methodology papers are already published at version 1.0 on Zenodo
+with permanent DOIs (see Section 5 for the list). The aim of this
+initiative is to bring them to publication-grade for academic and
+funder consumption through four specific deliverables:
+
+  1. INDEPENDENT PEER REVIEW of all three methodology papers by a
+     Māori data sovereignty academic. The papers are version 1.0
+     drafts; peer review converts them into v2.0 with reviewer
+     notes credited and revisions incorporated.
+
+  2. A CARE CONFORMANCE BENCHMARK report on the first 3-5 consenting
+     NZ organisations (iwi trusts, GLAM institutions, research
+     bodies). Run the CARE Auditor on each, publish an aggregate
+     "state of NZ Māori data governance 2026" report, and demonstrate
+     the methodology in real use rather than in the abstract.
+
+  3. DOI MINTING of the three methodology papers via Zenodo (CERN),
+     so each paper becomes a citable research output with a
+     permanent identifier that survives repository moves, branch
+     deletions, or platform shutdown.
+
+  4. TE REO MĀORI UPGRADE of the CARE Auditor and Provenance Embedder
+     interfaces, plus native review of every translation string by a
+     te reo Māori translator, plus re-recording of the methodology
+     paper abstracts in te reo Māori + English side-by-side.
+
+The platform already ships the *infrastructure* (CARE Auditor + Provenance
+Embedder live on the website, kaitiaki rōpū governance, three methodology
+papers on GitHub, two koha reciprocity views, the iwi-gate consent log).
+What this initiative adds is the *publication-grade evidence surface*
+that makes the infrastructure useful beyond our own iwi — citable for
+other researchers, evaluable for funders, replicable by other iwi.
+
+The specific Tindall fit — under "Identity and social cohesion" — is the
+"Cultural data sovereignty infrastructure" deliverable plus the peer
+review deliverable. Tindall's giving priorities explicitly name
+Mātauranga Māori, lived-experience voices, and place-based leadership;
+our methodology papers operationalise all three, with named-actor
+audit trails and kaitiaki rōpū governance that is structurally
+embedded rather than performative.
+
+
+SECTION 3 — AMOUNT OF FUNDING SOUGHT + INTENDED USE
+================================================================================
+
+Total amount requested: NZD $9,500 (inclusive of GST)
+
+Breakdown:
+
+  Deliverable 1 — Peer review of the 3 methodology papers
+    $4,000 — engage 1 Māori data sovereignty academic for a formal
+    review of all three v1.0 papers. Includes 8-10 hours of review
+    per paper at $150/hr (academic rate), with reviewer credited and
+    revisions published as v2.0.
+  Deliverable 2 — CARE conformance benchmark with 3-5 consenting NZ orgs
+    $3,500 — run the CARE Auditor on 3-5 consenting iwi / GLAM /
+    research organisations, aggregate the results, publish the
+    "State of NZ Māori Data Governance 2026" report. Includes
+    participant coordination ($500), analysis + writeup ($2,500),
+    design + publishing ($500).
+  Deliverable 3 — DOI minting for the 3 methodology papers via Zenodo
+    $500 — Zenodo admin + 1 week of work. (Note: this deliverable
+    is currently 80% complete; the DOIs were minted 2026-07-29
+    ahead of this application. The remaining $500 covers the
+    ongoing DOI maintenance + DOI badge implementation across
+    the platform.)
+  Deliverable 4 — Te reo Māori upgrade of the CARE Auditor + Provenance Embedder
+    $1,500 — engage a te reo Māori translator to native-review every
+    user-facing string, plus re-record the methodology paper abstracts
+    in te reo Māori + English side-by-side.
+
+These costed deliverables match the "What we'd spend a Tindall Direct
+Donation on" section of the Tindall landing page at
+anamatakahui.co.nz/for-funders/tindall. They are scoped 3-month workstreams
+with public artefacts at the end (peer-reviewed papers, benchmark report,
+DOIs already minted, te reo upgrades in production).
+
+This is a Direct Donation, not a grant with reporting overhead. We
+will publish the deliverables openly at the URLs listed in Section 5
+and on the platform's `/for-funders/tindall` page; no separate
+reporting to Tindall beyond what we already publish.
+
+Co-funding: this initiative is also being submitted to other NZ
+cultural funders as part of a multi-funder compatible package
+(designed so a single investment serves multiple subsequent rounds).
+As of 2026-07-29:
+  - Creative NZ 2026 Organizations & Groups Development Fund: $10,000 (won, 2026-04)
+  - NZ On Air New Music Single R1: $11,000 (submitted 2026-07-29)
+  - JR McKenzie Trust: in flight (pilot)
+  - Tindall Foundation: this application
+
+If funded by both Tindall ($9,500) and one other funder, the combined
+investment would be sufficient to complete all four deliverables
+within the 3-month window. If only Tindall funds, we will reduce the
+scope of Deliverable 4 (te reo upgrade) and prioritise Deliverables
+1-3, which together constitute the publication-grade evidence
+surface Tindall's giving priorities weight.
+
+
+SECTION 4 — OUTCOMES / IMPACT
+================================================================================
+
+Outcome 1 — Citable research artefacts (3 DOIs)
+
+Each of the three methodology papers becomes a permanent citable
+output that survives the platform's lifecycle. Any iwi, hapū, GLAM
+institution, research body, or policy actor can cite the papers in
+their own work, and the methodology becomes part of the international
+conversation on Indigenous data sovereignty rather than a one-off
+blog post.
+
+  - DOI: 10.5281/zenodo.21693726 — Cultural Review as a Database-
+    Enforced Workflow (181 lines, v1.0 published 2026-07-29)
+  - DOI: 10.5281/zenodo.21693730 — Operationalising CARE Principles
+    in a Web Platform (175 lines, v1.0 published 2026-07-29)
+  - DOI: 10.5281/zenodo.21693732 — Both-Party Attestation as a
+    First-Class Data Primitive (211 lines, v1.0 published 2026-07-29)
+
+Outcome 2 — Conformance evidence in real NZ organisations
+
+The CARE benchmark report demonstrates the methodology's practical
+utility. Even with 3-5 organisations, the report generates
+publishable evidence about which CARE principles are well-implemented
+across the sector and which are gaps. This informs both the platform's
+own iteration and the wider Māori data sovereignty community.
+
+Outcome 3 — Replicable infrastructure for other iwi
+
+The CARE Auditor + Provenance Embedder are both free, public, and
+operate without requiring a Local Contexts Hub account. Any iwi can
+audit their own data governance against the CARE principles and
+generate the gap-analysis + recommended Local Contexts labels
+without any platform-specific knowledge. The Provenance Embedder
+similarly lets any GLAM institution attach Local Contexts Hub labels
+to their digital assets without developer resources.
+
+Outcome 4 — Te reo Māori platform fluency
+
+The te reo upgrade ensures that the CARE Auditor and Provenance
+Embedder are genuinely usable in te reo Māori, not just labelled in
+te reo Māori. Native review by a te reo Māori translator + re-recording
+of the methodology abstracts in bilingual side-by-side format means
+iwi practitioners can engage with the platform in their first
+language. This is operational, not symbolic.
+
+Outcome 5 — Operational governance transparency
+
+The kaitiaki rōpū governance model + iwi-gate consent log + named-
+actor accountability rows in the cultural_review_cycles table
+generate a continuous audit trail that is queryable for compliance,
+funding verification, and community accountability. The
+/transparency page on the platform surfaces this in real time.
+
+Outcome 6 — Multi-funder compatible evidence surface
+
+A single Tindall investment serves subsequent rounds of funding
+applications across other NZ cultural funders (NZ On Air, Creative
+NZ, HRC, Royal Society Te Apārangi). The CARE Auditor + Provenance
+Embedder + methodology papers satisfy multiple funders' criteria
+simultaneously because the operational evidence surface is structured,
+not improvised.
+
+Outcome 7 — Long-term platform durability
+
+The DOIs make the methodology papers independent of the platform's
+operational continuity. Even if Anamata Kāhui Limited ceased operations,
+the papers would still be citable research outputs. This is the
+appropriate durability for an infrastructure investment.
+
+
+SECTION 5 — LOCATION + REACH
+================================================================================
+
+Primary reach: NATIONAL.
+
+The platform itself is hosted in Aotearoa (Vercel edge network + Supabase
+Auckland region), the kaitiaki rōpū governance is Aotearoa-based, and
+the methodology papers are written for Aotearoa context (Te Mana
+Raraunga, Te Tiriti o Waitangi, NZ Companies Office, NZ Public Records
+Act).
+
+Secondary reach: INTERNATIONAL (academic citation network).
+
+The methodology papers are written in a way that travels beyond Aotearoa
+context. The CARE principles have international application; the
+operational pattern (cultural safety as a database-enforced workflow)
+is generalisable to any Indigenous data sovereignty context; the
+Local Contexts Hub integration is international infrastructure. The
+DOIs (10.5281/zenodo.21693726, 10.5281/zenodo.21693730, 10.5281/zenodo.21693732)
+are DataCite-minted and indexed internationally.
+
+Specific locations of mahi:
+  - Auckland (Vercel + Supabase hosting region)
+  - Wellington (kaitiaki rōpū + governance body location)
+  - Christchurch (founder + cultural reviewer engagement)
+  - Whakatāne / Ngāti Awa region (multi-iwi context — founder has
+    whakapapa connections here; benchmark organisations likely to
+    include at least 1 from Te Moana-a-Toi)
+  - Anywhere with internet access (the public tools are available
+    globally; the methodology papers are open access)
+
+Tindall's 3 priority regions (Te Tai Tokerau, Tairāwhiti, Horowhenua &
+Whanganui) are not directly in our operational footprint. The
+applicant's national reach + academic citation reach are the
+operational evidence surface for this initiative, not direct service
+delivery in those 3 regions. If Tindall's priority is regional
+footprint specifically, this initiative is a better fit for the
+"Identity and social cohesion" focus area than for the regional
+priority — the methodology papers benefit Māori data sovereignty
+nationally and internationally rather than serving a specific
+geographic community.
+
+
+SECTION 6 — APPLICANT DETAILS
+================================================================================
+
+Legal entity: Anamata Kāhui Limited
+  (New Zealand Companies Office registration details available on request)
+Trading names: Anamata Records (music/creative division), Anamata Kāhui (parent)
+Founders: Ngāika Smith + Anamata Kāhui rōpū (kaitiaki rōpū governance)
+Iwi context (multi-iwi, all connected to founder and rōpū):
+  Ngāi Tahu (Te Waipounamu), Ngāti Kahungunu (Te Matau-a-Māui),
+  Ngāti Awa (Te Moana-a-Toi). Founder is registered Ngāi Tahu; the
+  platform serves iwi across Te Waipounamu + Te Ika-a-Māui.
+Cultural reviewer: Precious Clark / Maurea (engaged since 2024)
+Past wins: Creative NZ 2026 Organizations & Groups Development Fund,
+  $10,000 (2026)
+
+Charitable status: This is a Direct Donation application, not a
+multi-year grant. Anamata Kāhui Limited is a company (not a
+charitable trust), so we are providing the charitable-purpose
+demonstration as part of this application:
+
+  - Charitable purpose: cultural, research, and public-good work
+    advancing Māori data sovereignty + Indigenous data sovereignty
+    + cultural data infrastructure. The mission is non-commercial;
+    the platform is operated as a public-good utility.
+
+  - Not-for-profit branch: Anamata Kāhui's cultural, research, and
+    public-good work (the platform itself, the methodology papers,
+    the public tools, the CARE Auditor, the Provenance Embedder,
+    the koha reciprocity ledger, the iwi-gate consent log).
+
+  - For-profit branch: Anamata Records (artist distribution). This
+    is a separate business unit with separate financial accounts,
+    separate ops, and a separate website (anamatarecords.co.nz).
+    It does not draw on Tindall funds; it does not commingle with
+    the charitable-purpose operations.
+
+  - Separation: the two branches are operationally + financially
+    separated. Different revenue sources, different accounts, different
+    decision-makers, different beneficiaries. Companies Office
+    registration documents + both sets of accounts are available
+    on request.
+
+This satisfies Tindall's entity-eligibility requirement for companies:
+"Companies without charitable status must clearly demonstrate the
+charitable purpose of the initiative seeking funding and show how the
+not-for-profit activity is separated from any for-profit operations."
+
+
+SECTION 7 — LANGUAGE OF APPLICATION
+================================================================================
+
+Submitted in: English.
+
+Available in te reo Māori on request (the application was drafted in
+English to match the online form's primary language, but all our
+supporting materials — platform, methodology papers, landing page —
+are bilingual en + mi). Tindall accepts applications in English,
+Te Reo Māori, or NZSL — we can provide a te reo version within 24
+hours of request.
+
+
+SECTION 8 — OPTIONAL ATTACHMENTS + SUPPORTS
+================================================================================
+
+The following are live, public, and may be cited or screenshotted
+by the Tindall assessor:
+
+  1. Tindall-specific landing page (online, bilingual):
+     https://anamatakahui.co.nz/for-funders/tindall
+     — Maps our work directly to Tindall's "Identity and social
+       cohesion" focus area + "Mātauranga Māori" giving priority,
+       with 5 evidence surfaces, 4 costed deliverables, and an
+       honest scope disclosure (we don't pitch our waiata releases
+       because Tindall excludes arts).
+
+  2. CARE Compliance Auditor (live tool):
+     https://anamatakahui.co.nz/tools/care-auditor
+     — Free, public, bilingual, WCAG 2.2 AA, 386+ tests. Scores any
+     NZ organisation against Te Mana Raraunga's 5 CARE principles.
+
+  3. Cultural Provenance Embedder (live tool):
+     https://anamatakahui.co.nz/tools/provenance-embedder
+     — Free, public, privacy-first (no file upload), bilingual.
+       Attaches Local Contexts Hub labels to digital assets via
+       XMP / PDF info / ID3 metadata.
+
+  4. Transparency page (live operational evidence):
+     https://anamatakahui.co.nz/transparency
+     — Live counts of active iwi-gates, cultural-review pipeline
+       decisions, consent-log entries, governance changelog.
+       Append-only. Re-queries the Supabase REST API in real time.
+
+  5. Public case-studies surface:
+     https://anamatakahui.co.nz/credits
+     — The koha reciprocity ledger, surfaced publicly. Every
+       exchange is both-party attested with named actors.
+
+  6. Three methodology papers (citable, DOI'd, peer-review pending):
+     - 10.5281/zenodo.21693726 — Cultural Review as a Database-
+       Enforced Workflow
+     - 10.5281/zenodo.21693730 — Operationalising CARE Principles
+       in a Web Platform
+     - 10.5281/zenodo.21693732 — Both-Party Attestation as a
+       First-Class Data Primitive
+     All three are CC-BY-4.0, indexed in DataCite + OpenAIRE, and
+     open access.
+
+  7. The kāhui is operated by a small team with cultural, technical,
+     and accessibility expertise. A standing bio of the founder
+     is available in the funding repo's boilerplate.md.
+
+
+SECTION 9 — DECLARATION
+================================================================================
+
+  [x] I confirm Anamata Kāhui Limited meets the entity-eligibility
+      criteria for a Tindall Direct Donation (company with
+      demonstrable charitable purpose + clearly separated not-for-
+      profit operations).
+  [x] I confirm the initiative is NOT in the ineligible categories
+      (medical, disability, aged care, core education, sport,
+      arts/museums/galleries, animal charities, religious/political
+      advocacy, retrospective/urgent applications, buildings/land/
+      capital works, individual support, overseas projects).
+  [x] I confirm the funding will be used for the deliverables in
+      Section 3, with public artefacts at each milestone.
+  [x] I confirm the methodology + toolset behind this application
+      is published openly and the DOIs are permanent citable
+      research outputs.
+
+Submitted by: Ngāika Smith (Founder + Director)
+Date: 2026-07-29
+Application method: Online form at https://tindall.org.nz/contact/
+Backup storage: this offline text copy is archived in
+  LaFinnix/anamata-funding/02-past-applications/2026-07-29-Tindall-Foundation-DirectDonation/
+
+================================================================================
+END OF APPLICATION
+================================================================================

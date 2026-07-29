@@ -102,15 +102,15 @@ round.)*
 > Ngāika Smith is a researcher and music producer with whakapapa to
 > Ngāi Tahu, Ngāti Kahungunu, and Ngāti Awa, with a dedicated
 > commitment to the Māori futurism movement in Aotearoa's music
-> sector. Founder and director of Anamata Kāhui Limited (NZBN
-> 9429052960734, company 9350922).
+> sector. Founder and director of Anamata Kāhui Limited
+> (registration details available on request).
 
 Re-use as-is, or adapt only the role (Project Manager / Lead
 Researcher / Founder / Director).
 
 ## Organisation details (canonical)
 
-- **Legal entity:** Anamata Kāhui Limited (NZBN 9429052960734, company 9350922)
+- **Legal entity:** Anamata Kāhui Limited (New Zealand Companies Office registration details available on request)
 - **Trading names:** Anamata Records (music/creative division), Anamata Kāhui (parent)
 - **Founders:** Ngāika Smith + Anamata Kāhui rōpū (kaitiaki rōpū governance)
 - **Iwi context (multi-iwi, all connected to founder and rōpū):** Ngāi Tahu (Te Waipounamu), Ngāti Kahungunu (Te Matau-a-Māui), Ngāti Awa (Te Moana-a-Toi). Founder is registered Ngāi Tahu; the platform serves iwi across Te Waipounamu + Te Ika-a-Māui.
