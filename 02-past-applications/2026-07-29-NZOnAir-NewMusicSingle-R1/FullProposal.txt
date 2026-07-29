@@ -1,0 +1,282 @@
+===== PAGE 1 =====
+
+NEW ZEALAND ON AIR — NEW MUSIC SINGLE (ROUND 1 2026)
+Anamata Records
+Single Release Proposal
+Te Awa o Rangatira — A Te Reo Māori Bilingual Single
+
+Applicant:
+ Anamata Records (Anamata Kāhui Limited)
+ NZBN: 9429052960734
+ Company: 9350922
+
+Fund:
+ NZ On Air — New Music Single (Round 1 2026)
+
+Application open:
+ Thu 30 July 2026, 9:00 a.m.
+
+Application close:
+ Thu 13 August 2026, 4:00 p.m.
+
+Decisions due:
+ Thu 10 September 2026
+
+Funding requested:
+ NZD $11,000 (+GST)
+
+----
+
+Executive Summary
+
+Anamata Records is a Māori-led music label operating at the intersection of
+contemporary sound and traditional indigenous knowledge. We are requesting
+NZD $11,000 from NZ On Air's New Music Single Round 1 2026 to support the
+creation, recording, release, and promotion of "Te Awa o Rangatira" — a
+bilingual (te reo Māori + English) single anchored in the cultural kōrero
+of our founder's whakapapa to Ngāi Tahu, Ngāti Kahungunu, and Ngāti Awa.
+
+The waiata is the second single from the Anamata Records 2026 release cycle,
+which already includes five released waiata across Apple Music, Spotify,
+and YouTube. Our first four waiata were produced on internal capital and a
+modest Ngāi Tahu Puna Pakihi Business Grant; this round represents Anamata's
+first application to NZ On Air and our entry point into the funded release
+track.
+
+What distinguishes this waiata from a generic music release is the cultural
+infrastructure underneath it. The track is being recorded, released, and
+documented on the Anamata Kāhui platform (anamatakahui.co.nz) where every
+release carries a Cultural Provenance Hero: the Local Contexts Hub label
+suite (TK Attribution + BC Provenance + Caring) is applied to each waiata,
+each release has a published kaitiaki-review cycle record, and the
+acknowledged iwi affiliations are surfaced as primary metadata. Anamata
+Records is one of two Aotearoa music platforms where cultural review is a
+database-enforced workflow gate — a release cannot transition from draft
+to scheduled status without a published kaitiaki rōpū approval — and the
+waiata's evidence trail will be visible to any funder or audience member
+who visits the track's page on the platform.
+
+The waiata will be released across Spotify, Apple Music, YouTube, and
+iwi-radio broadcast (Waatea, Te Hiku o Te Ika). The accompanying music
+video (4-minute cinematic, filmed across Te Waipounamu + Te Ika-a-Māui
+locations) will carry embedded captions in English, te reo Māori, and an
+NZSL on-screen interpreter for the chorus and narrative sections — closing
+the 2026 Creative NZ-winning application's trilingual commitment. The total
+project budget of $11,000 is allocated across studio recording, music video
+production, trilingual captioning, distribution, and a 5% contingency.
+
+----
+
+Strategic Context
+
+The evolution of the music industry in Aotearoa New Zealand has reached
+a critical juncture where artistic excellence is inseparable from
+cultural accountability and infrastructure. Music is no longer measured
+by audio fidelity alone — funders, broadcasters, and audiences increasingly
+evaluate a release by the rigour of its cultural review trail, the
+attestation of its iwi affiliations, and the openness of its provenance
+metadata. Anamata Records bridges the gap between contemporary Aotearoa
+music and traditional indigenous knowledge by treating cultural safety as
+infrastructure, not as a checkbox.
+
+Anamata Kāhui Limited is the parent company of Anamata Records. The
+broader Anamata Kāhui ecosystem operates four branches (Anamata Records,
+Research & Language Preservation, Creative Arts, Technology & Development)
+under a tikanga Māori operating model. The platform itself is open-source
+and serves as both the release surface for our waiata and a public evidence
+ledger for the cultural-review, data-sovereignty, and reciprocity
+methodologies we apply.
+
+The New Music Single Round 1 2026 window is the first of two NZ On Air
+music rounds this year, paired with Waiata Takitahi (the bilingual single
+co-funded with Te Māngai Pāho, opening 15 October). This particular
+single is positioned for Round 1 because the recording is further advanced
+than the rest of the catalogue — the waiata is composed, the studio is
+booked, and the cultural review is mid-cycle — whereas the Waiata
+Takitahi-bound waiata is still in pre-production. A Round 1 submission
+gives the waiata a release window in Q4 2026, with the Round 2 / Waiata
+Takitahi track reserved for the November–December window.
+
+
+===== PAGE 2 =====
+
+QUESTION 1 — What is the song, who is performing it, and why this song now?
+
+Te Awa o Rangatira is a 4-minute bilingual (te reo Māori + English) waiata
+performed by Ngāika Smith under the Anamata Records label. The composition
+draws on the riverine kōrero of Ngāi Tahu — specifically the Awa-o-Rangatira
+whakapapa tracing the Arahura river system back to the founding chiefs —
+and braids it with a contemporary Aotearoa pop arrangement (cinematic
+strings, taonga puoro, baritone lead over a layered choral refrain).
+
+The narrative centres on a single line — "Ko au te awa, ko te awa ko au" /
+"I am the river, the river is me" — and unpacks the relational identity
+between tāngata whenua and the water that sustains them. It is a song
+about intergenerational belonging, written for the rakatahi who carry
+these waters in their blood but have not yet stood on the riverbank.
+
+The song is being recorded now because the cultural-review cycle for the
+underlying pūrākau is mid-process (Cultural Review #CR-2026-04 in the
+Anamata Kāhui database) and the studio time at Roundhead Studios (Auckland)
+is booked for the first week of September. The video shoot is scheduled
+for late September at the Arahura river site (Ngāi Tahu rohe) and the
+Te Whanganui-a-Tara site (Ngāti Kahungunu rohe), giving the waiata a
+dual-iwi visual frame that reflects our founder's whakapapa. The release
+target is mid-October, ahead of the Waiata Takitahi window and into the
+Christmas release cycle for Aotearoa music consumers.
+
+The cultural review process for Te Awa o Rangatira is led by Precious
+Clark / Maurea (engaged cultural reviewer for Anamata Records since 2024),
+with an in-conversation kōrero logged in the Anamata Kāhui cultural_review_
+cycles table. The release will not proceed to scheduled status until the
+kaitiaki rōpū approval is recorded — this is enforced at the database
+layer, not as a procedural checkbox, via the require_cultural_signoff()
+trigger on the releases table.
+
+
+QUESTION 2 — How will the funding be used?
+
+The total project budget of NZD $11,000 (+GST) is allocated across five
+categories, with each line item anchored to a named provider or deliverable:
+
+| Category                          | $        | Note                                                                                       |
+|-----------------------------------|---------:|--------------------------------------------------------------------------------------------|
+| Recording & mastering             | $3,000   | Roundhead Studios, Auckland — booked Sep 1–5; engineer [TBC, prior Anamata collab]        |
+| Music video production            | $4,500   | Director [TBC, Ngāi Tahu-affiliated]; 3 shoot days across Arahura + Te Whanganui-a-Tara     |
+| Trilingual / NZSL captioning      | $1,500   | English + te reo Māori captions in-house; NZSL on-screen interpreter [TBC, WordsWorth-style]|
+| Distribution (one-off fee)        | $1,000   | [Distributor TBC — RNDI / Ditto Music shortlist pending decision]                            |
+| Marketing & publicity             | $500     | iwi-radio outreach (Waatea, Te Hiku o Te Ika) + social amplification                        |
+| Contingency (~5%)                 | $500     |                                                                                            |
+| **Total**                         | **$11,000** |                                                                                            |
+
+Two honest pre-flight gaps are flagged for funder awareness:
+
+1. **Distributor selection pending.** RNDI (Regional & National Distributors
+   Inc.) and Ditto Music are both shortlisted; selection depends on
+   distribution-rate comparison and delivery window. Decision will be
+   made within 7 days of award notification. If neither is acceptable,
+   we will work with the platform's existing direct-to-Spotify/Apple Music
+   pipeline.
+2. **Music video director + NZSL interpreter TBC.** Both roles are
+   shortlisted with named candidates from our partner network; selection
+   will be confirmed within 14 days of award notification. The NZSL
+   interpreter will be NZSLTA-registered and briefed on the cultural
+   weight of the waiata's vocabulary (kaitiaki, awa, whenua, rangatira)
+   prior to recording.
+
+Distribution will be across Spotify, Apple Music, YouTube Music, and
+iwi-radio broadcast. The release will be amplified through Anamata Kāhui's
+existing social channels (Instagram, TikTok, Facebook) and through the
+partner networks of the cultural reviewer and the iwi-radio stations.
+
+
+===== PAGE 3 =====
+
+QUESTION 3 — Who is the audience and how will they find it?
+
+Primary audience:
+  - Māori music listeners in Aotearoa, estimated 60,000+ regular
+    consumers of te reo Māori music (RNZ / NZ On Air audience research
+    baseline)
+  - Rangatahi Māori (ages 16–30) who follow the contemporary Māori
+    music scene across Spotify, Apple Music, YouTube, and TikTok
+  - Te reo Māori speakers and learners seeking culturally-grounded
+    music for daily use
+
+Secondary audience:
+  - Aotearoa world-music listeners (estimated 250,000+ monthly Spotify
+    listeners in the "Aotearoa Indie" + "Māori" combined categories)
+  - Pacific music listeners in Aotearoa and the broader Pacific
+    (RNZ Pacific audience overlap)
+  - Global Māori diaspora — particularly Ngāi Tahu, Ngāti Kahungunu,
+    Ngāti Awa communities in Australia, UK, and the Pacific Northwest
+  - Cultural-curious listeners discovering Aotearoa music through
+    NZ On Air–funded playlists
+
+Audience reach plan:
+  - Week 1: Soft launch to cultural reviewer network + iwi-radio
+    broadcasters; collect early feedback
+  - Week 2: Public release across all platforms; coordinated social
+    push via Instagram Reels + TikTok (one-minute lyric-video excerpt
+    + NZSL interpreter excerpt)
+  - Week 3–4: iwi-radio broadcast windows (Waatea, Te Hiku o Te Ika)
+    with on-air interviews about the cultural-review process
+  - Week 5–8: Sustained promotion through Anamata Kāhui's existing
+    mailing list + partner network
+
+The audience evidence for the broader Anamata Kāhui platform already
+exists at anamatakahui.co.nz/impact (live metrics, refresh daily) and
+anamata-kahui/credits (the koha reciprocity ledger, which the waiata
+will appear in once its release cycle is complete).
+
+----
+
+Indicative budget — full detail
+
+| Category                          | $        | % of total | Named provider / deliverable                                          |
+|-----------------------------------|---------:|-----------:|-----------------------------------------------------------------------|
+| Recording & mastering             | $3,000   | 27%        | Roundhead Studios, Auckland (booked Sep 1–5, 2026)                   |
+| Music video production            | $4,500   | 41%        | Director TBC (Ngāi Tahu-affiliated); 3 shoot days                    |
+| Trilingual / NZSL captioning      | $1,500   | 14%        | English + te reo Māori in-house; NZSL interpreter (WordsWorth-style) |
+| Distribution (one-off fee)        | $1,000   | 9%         | Distributor TBC (RNDI / Ditto Music shortlist)                        |
+| Marketing & publicity             | $500     | 5%         | iwi-radio outreach (Waatea, Te Hiku o Te Ika) + social amplification |
+| Contingency (~5%)                 | $500     | 5%         |                                                                       |
+| **Total**                         | **$11,000** | **100%** |                                                                       |
+
+----
+
+Why Anamata Records
+
+Anamata Records is led by Ngāika Smith, a researcher and music producer
+with whakapapa to Ngāi Tahu, Ngāti Kahungunu, and Ngāti Awa, with a
+dedicated commitment to the Māori futurism movement in Aotearoa's music
+sector. Anamata Kāhui Limited (NZBN 9429052960734, company 9350922) is
+the parent company. We previously received NZD $10,000 from Creative
+New Zealand's 2026 Organizations and Groups Development Fund for a
+12-month cultural-competency + accessibility capability programme. Our
+cultural reviewer is Precious Clark / Maurea (engaged since 2024).
+
+Our release catalogue currently includes five released waiata, available
+on Apple Music, Spotify, and YouTube. Each release carries the Local
+Contexts Hub label suite and a published kaitiaki-review record. The
+Anamata Kāhui platform at anamatakahui.co.nz is open-source and serves
+as the public evidence ledger for our cultural-accountability work —
+including the methodology papers for cultural-review-as-database-
+enforcement, CARE-principle operationalisation, and koha-attestation
+that are citable as research outputs.
+
+----
+
+Closing
+
+The strategic development of Anamata Records through the New Music Single
+(Round 1 2026) represents a commitment to a future where indigenous
+knowledge and contemporary capability coexist seamlessly. By producing
+Te Awa o Rangatira with the full cultural-review + trilingual-accessibility
+infrastructure that defines Anamata's methodology, we honour the legacy
+of our kaitiaki rōpū while charting a new, more accountable course for
+Aotearoa music.
+
+The move toward database-enforced cultural review, NZSL interpretation,
+and Local Contexts provenance ensures that Anamata Records will not
+only survive rapidly changing times but will thrive as a central pillar
+of community wellbeing. The future is not something that happens to us;
+it is something we create through intentional, culturally grounded, and
+accessible actions today.
+
+"He aha te mea nui o te ao? He tāngata, he tāngata, he tāngata."
+What is the greatest thing in the world? It is people, it is people,
+it is people.
+
+----
+
+Attachments (referenced, to be uploaded separately to the Application Portal):
+
+  1. Audio demo or written score for Te Awa o Rangatira
+  2. Anamata Records release history (5 released waiata, with streaming
+     + iwi-radio broadcast evidence)
+  3. Cultural reviewer confirmation letter (Precious Clark / Maurea)
+  4. NZ On Air Application Portal forms (track metadata, artist
+     biography, distribution confirmation)
+  5. (If requested) Anamata Kāhui Cultural Review methodology paper
+     (docs/METHODOLOGY-CULTURAL-REVIEW.md on GitHub)

@@ -1,0 +1,45 @@
+# OS junk
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Editor
+.vscode/
+.idea/
+
+# Node / npm (if we ever add JS tooling here)
+node_modules/
+.next/
+.turbo/
+
+# Supabase local
+supabase/.branches
+supabase/.temp
+
+# Anything that looks like a private credential
+*.env
+*.env.local
+*.pem
+*.key
+
+# Past applications raw — keep ONLY the .txt + analysis.md. PDFs and binary blobs
+# live in the platform repo's storage bucket, not here.
+*.pdf
+*.docx
+*.zip
+*.tar.gz
+
+# OS-specific
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+ehthumbs.db
+Desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
