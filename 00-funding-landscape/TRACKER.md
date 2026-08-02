@@ -64,6 +64,31 @@ Each row represents one round. Status moves through:
 | **Going Global** (export) | Twice yearly | $5k–$30k | For international touring / promotion. |
 | **Showcase** (international conferences) | Twice yearly | varies | For showcasing NZ music overseas. |
 
+### Poutama Trust — https://www.poutama.nz
+
+| Round | Frequency | Typical $ | Eligibility note |
+|---|---|---|---|
+| **Māori Business Capability** | Rolling | $5k–$50k | Capability building, training, systems, marketing. Direct fit for Anamata's tech platform + music label. |
+| **Māori Enterprise Scale-Up** | By invitation | $50k–$250k | For established Māori businesses scaling. Eligibility requires revenue track record — likely 12+ months in. |
+| **Whenua Māori Fund** | Rolling | $5k–$100k | For whenua-based enterprise. Direct fit if we frame Anamata as a whenua-data enterprise (cultural provenance, kaitiaki-carbon). |
+
+### Kānoa — Regional Strategic Partnership Fund (MBIE-administered)
+
+| Round | Frequency | Typical $ | Eligibility note |
+|---|---|---|---|
+| **Māori economic development stream** | Rolling | $100k–$500k+ | Co-investment with iwi/hapū/Māori orgs in regional economic projects. Strong fit if partnered with an iwi pilot. |
+| **Regional infrastructure stream** | Rolling | varies | For physical infrastructure — not a fit for Anamata's software platform. |
+| **Place-based investment** | By region | varies | Region-specific. Worth checking if Anamata's Ngāti Kahungunu grounding opens Hawke's Bay/Wairarapa region-specific pots. |
+
+### MPI — Ministry for Primary Industries
+
+| Round | Frequency | Typical $ | Eligibility note |
+|---|---|---|---|
+| **Sustainable Food & Fibre Futures (SFFF)** | Rolling | $100k–$several M | Co-investment in primary-sector projects. **Direct fit for kaitiaki-carbon / ETS tools.** The carbon-revenue projector in particular maps to forestry-future scenarios MPI funds. |
+| **Productivity & Innovation** | Rolling | $50k–$500k | For primary-sector innovation. Fits Anamata's tooling if framed as "Māori-led primary-sector digital infrastructure." |
+| **Whenua Māori capability fund** | Rolling | $5k–$100k | For Māori agribusiness / forestry capability. Direct fit. |
+| **Trees for Carbon / forestry-related programmes** | Varies | varies | kaitiaki-carbon + carbon-revenue align with forestry-ETS outcomes. Worth checking what's open. |
+
 ### Other (lower priority — flag if relevant)
 
 - **Te Puni Kōkiri** — Māori development funding. Worth checking for
@@ -114,6 +139,15 @@ Style guide: `past-applications/style-guide.md`. Boilerplate:
 | **Outward Sound Round 5** | NZ Music Commission | (already open) | Mon 12 Oct 2026 | matched investment | borderline | Same as Round 4. Later deadline gives more prep time. |
 | **Te Reo Matatini** (te reo Māori revitalisation content) | Te Mātāwai | rolling | rolling | varies | eligibility unclear | Te Mātāwai's funding mechanism is ā-kāhui (collective) routed; eligibility for a single label unclear without web confirmation (site JS-rendered + slug-opaque to data-center IPs). **Not actionable this week.** |
 | **Māori Development Fund** | Te Puni Kōkiri | rolling | rolling | varies ($40.21m pa pool from 1 Jul 2025) | not eligible in practice | Accepts single NZ legal entity but priorities are iwi-asset productivity + marae infrastructure + export revenue. Off-fit for music without iwi/marae co-applicant. |
+| **Māori Business Capability** | Poutama Trust | rolling | rolling | $5k–$50k | identified | Capability building for Māori business. **2026-08-02 flagged by Fin.** Strong fit for Anamata's tech platform + music label dual identity. Need to confirm exact application window + co-funding requirement. |
+| **Māori Enterprise Scale-Up** | Poutama Trust | by invitation | by invitation | $50k–$250k | identified | **2026-08-02 flagged by Fin.** Requires established revenue track record (likely 12+ months). Poutama invites applicants — passive opportunity. Add to past-applications/analyse-after-CNZ-feedback. |
+| **Whenua Māori Fund** | Poutama Trust | rolling | rolling | $5k–$100k | identified | **2026-08-02 flagged by Fin.** Direct fit if Anamata is framed as whenua-data enterprise. Cultural provenance + kaitiaki-carbon = whenua-data products. |
+| **Māori economic development stream** | Kānoa (MBIE-administered) | rolling | rolling | $100k–$500k+ | identified | **2026-08-02 flagged by Fin.** Co-investment model. Strong fit if partnered with an iwi pilot (RMA Triage tool = iwi partnership). Likely requires iwi/hapū co-applicant. |
+| **Place-based investment** | Kānoa (MBIE-administered) | by region | by region | varies | identified | **2026-08-02 flagged by Fin.** Region-specific. Worth checking if Ngāti Kahungunu grounding opens Hawke's Bay / Wairarapa region-specific pots. |
+| **Sustainable Food & Fibre Futures (SFFF)** | MPI | rolling | rolling | $100k–$several M | identified | **2026-08-02 flagged by Fin.** Direct fit for kaitiaki-carbon / ETS tools. Carbon-revenue projector maps to forestry-future scenarios MPI funds. Co-investment model. |
+| **Productivity & Innovation** | MPI | rolling | rolling | $50k–$500k | identified | **2026-08-02 flagged by Fin.** For primary-sector innovation. Fits Anamata's tooling if framed as "Māori-led primary-sector digital infrastructure." |
+| **Whenua Māori capability fund** | MPI | rolling | rolling | $5k–$100k | identified | **2026-08-02 flagged by Fin.** For Māori agribusiness / forestry capability. Direct fit. |
+| **Trees for Carbon / forestry-related programmes** | MPI | varies | varies | varies | identified | **2026-08-02 flagged by Fin.** kaitiaki-carbon + carbon-revenue align with forestry-ETS outcomes. Need to check what's currently open — some MPI programmes run specific rounds vs rolling. |
 
 ## How the cron uses this file
 
@@ -216,3 +250,31 @@ not be verified.
   Anamata is not eligible (scripted/AV, not music).
 - Creative NZ Development Fund for Artists and Practitioners opens 27 Jul
   — read eligibility rules carefully Monday to decide.
+
+### 2026-08-02 — Fin flagged three new funders
+
+Fin asked to add Kānoa, MPI, and Poutama Trust to the tracker — "we don't let any opportunity slip." Done as `identified` status rows in the tracker table; full eligibility analysis pending.
+
+**Added 10 new rows:**
+
+Poutama Trust (3):
+- Māori Business Capability (rolling, $5k–$50k)
+- Māori Enterprise Scale-Up (invitation only, $50k–$250k)
+- Whenua Māori Fund (rolling, $5k–$100k)
+
+Kānoa / MBIE Regional Strategic Partnership Fund (2):
+- Māori economic development stream (rolling, $100k–$500k+, co-investment)
+- Place-based investment (by region)
+
+MPI (4):
+- Sustainable Food & Fibre Futures (SFFF, rolling, $100k+)
+- Productivity & Innovation (rolling, $50k–$500k)
+- Whenua Māori capability fund (rolling, $5k–$100k)
+- Trees for Carbon / forestry-related programmes (varies)
+
+**Eligibility work needed (next audit pass):**
+- Confirm programme-specific eligibility for each (some require co-applicant iwi/hapū, some need revenue track record, etc.)
+- Web verification of opening dates (some programmes rolling, others have specific windows)
+- Co-funding requirements — most are co-investment; need to know what % Anamata contributes
+
+**Recommended next step:** the existing funding cron will surface eligibility flags on its next Monday run. No new outreach until we know which programmes are eligible without an iwi partner.
