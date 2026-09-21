@@ -1,7 +1,7 @@
 # Anamata Records — Funding Tracker
 
 **Legal entity:** NZ Company (Ltd) — Anamata Kāhui Limited, trading as Anamata Records
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-21
 
 ## What this file is
 
@@ -155,7 +155,7 @@ Style guide: `past-applications/style-guide.md`. Boilerplate:
 ||| **Creative Impact Fund 2026 – R2** | Creative NZ | Mon 17 Aug 2026 | Thu 17 Sep 2026 1:00 PM NZST | varies | closed (missed) | Closed Thu 17 Sep 2026 1:00 PM NZST, not submitted. Live calendar re-verified 2026-09-18 lists it under Closed rounds, results due 2 Dec 2026. Round 3 expected 2027. |
 ||| **Creative Fellowship Fund 2026 – R2** | Creative NZ | Mon 17 Aug 2026 | **Thu 24 Sep 2026 1:00 PM NZST (6 days)** | $25,000 (up to 6 months) or $50,000 (up to 12 months) | eligible (personal capacity) | **OPEN NOW.** Detail page IS curl-able (122 KB, not a JS shell). Individual artists and practitioners only; arts organisations and groups CANNOT apply. Sole traders and companies still apply AS AN INDIVIDUAL, and the grant can be paid into the company bank account. Activities window 2 Dec 2026 - 31 Dec 2027. No budget required. 3 questions for $25k, 5 for $50k. Results 2 Dec 2026. |
 ||  **Early Career Fund 2026 – R2** | Creative NZ | Mon 31 Aug 2026 | Thu 1 Oct 2026 1:00 PM NZST | varies | not eligible | **OPENS TODAY (31 Aug 2026) — 31 days remaining.** For "early-career artists in their first 5 years of professional practice." Fin founded a company in 2026 — does not meet the early-career definition. Decisions due 9 Dec 2026. |
-||| **International Arts Impact Fund 2026** | Creative NZ | Mon 24 Aug 2026 (Stage One EOI) | **Stage One EOI closes Mon 21 Sep 2026 1:00 PM; Stage Two closes Thu 1 Oct 2026 1:00 PM** | up to $75,000 per year, for 1, 2, or 3 years | eligible (needs international evidence) | **OPEN NOW, 3 days left on Stage One.** Open to established artists and practitioners (NZ citizens/PR) AND NZ-based arts organisations and groups. Requires demonstrated international experience, evidence of international demand, and a current international strategy. Fund period must start 1 Jan 2027. Artists and practitioners prioritised in 2026. Cannot apply if offered 2027 Arts Organisations and Groups Fund money, or if the Creative Fellowship Fund was applied to for the same period. Results 9 Dec 2026. |
+||| **International Arts Impact Fund 2026** | Creative NZ | Mon 24 Aug 2026 (Stage One EOI) | **Stage One EOI closes Mon 21 Sep 2026 1:00 PM; Stage Two closes Thu 1 Oct 2026 1:00 PM** | up to $75,000 per year, for 1, 2, or 3 years | **STAGE ONE SUBMITTED 21 Sep 2026** | **OPEN NOW, 3 days left on Stage One.** Open to established artists and practitioners (NZ citizens/PR) AND NZ-based arts organisations and groups. Requires demonstrated international experience, evidence of international demand, and a current international strategy. Fund period must start 1 Jan 2027. Artists and practitioners prioritised in 2026. Cannot apply if offered 2027 Arts Organisations and Groups Fund money, or if the Creative Fellowship Fund was applied to for the same period. Results 9 Dec 2026. |
 ||| **International Engagement Fund 2026/27** | Creative NZ | Mon 17 Aug 2026 (Stage One EOI) | **Round 1 closed Thu 10 Sep 2026 1:00 PM; Round 2 closes Thu 3 Dec 2026 1:00 PM** | up to $25,000 | eligible with a confirmed invitation | Close dates now published (verified 2026-09-18): R1 closed 10 Sep, R2 closes 3 Dec 2026, results by 28 Jan 2027. Needs an offer or invitation to an international opportunity for amounts over $5,000, plus a confirmed third-party contribution that includes payment for the artists. Kurokoru/JP engagement is the live fit. |
 | **Outward Sound R4 2026** | NZ Music Commission | (already open) | Mon 27 Jul 2026 (passed) | matched investment | borderline (missed) | Closed last Monday. Pre-tour state + need commercial export plan. Plan for R5. |
 | **Outward Sound R5 2026** | NZ Music Commission | (already open) | Mon 12 Oct 2026 5pm | matched investment | borderline | Same as R4. 14 weeks to prep export plan + commercial case. |
@@ -651,3 +651,54 @@ crons inherit, so the next tick (Mon 21 Sep 09:00) should recover.
 **Rolling / direct-inquiry only (no published windows):** Poutama Trust Māori Business
 Capability + Whenua Māori Fund; TPK Māori Development Fund (off-fit without an iwi
 co-applicant). Kānoa DNS still does not resolve; MPI/MBIE still Incapsula-blocked at page level.
+
+### 2026-09-21 — IAIF Stage One EOI submitted
+
+Submitted by Ngaika Smith on the morning of the Stage One close (1:00 PM NZ time,
+Monday 21 September 2026).
+
+**What was filed:** the Expression of Interest for the International Arts Impact
+Fund 2026, filed by Anamata Kāhui Limited as a New Zealand based arts organisation,
+requesting $75,000 per year for three calendar years ($225,000 total) over a fund
+period of 1 January 2027 to 31 December 2029.
+
+**Substance of the filing:**
+- International experience: two released bilingual waiata with the Japanese artist
+  Ryo Suzuki (Not over yet, One Voice), a third in production, Ryo Suzuki now a
+  partner to the organisation, and the wider Kahungunu catalogue.
+- Structure and ownership: a single member godo gaisha held 100 percent by Anamata
+  Kāhui Limited, with masters, publishing and trade marks retained in New Zealand
+  and the Japanese entity operating under an exclusive Japan territory licence.
+  No Japanese entity is claimed as established.
+- The waiata slate: eight waiata (two released, six in development), each with its
+  own focus and each shaped to carry its own future production application.
+
+**Verified before filing (2026-09-18 to 2026-09-21):**
+- Catalogue titles checked against `catalog/catalog.md`. Finding: **Te Whakamātautau
+  (The Diver's Test) is a real release but is missing from `catalog.md`**, which
+  counts five released where the site deploy checklist lists six. The catalogue
+  build script needs a look; do not hand-edit the generated file.
+- Founder's name corrected to **Ngaika** (no macron) across 22 files, 71 occurrences,
+  including both live application drafts. The earlier instruction in this workspace
+  had it inverted. `Kāhui` retains its macron in `Anamata Kāhui Limited` and
+  `Te Kāhui Anamata`.
+
+**Next deadline, and it is nearer than Stage Two:** CNZ **Creative Fellowship Fund
+2026 Round 2 closes 1:00 PM Thursday 24 September 2026** (3 days from this entry).
+The application is drafted at `applications/2026-CNZ-CreativeFellowshipFund-R2/`.
+
+**Stage Two:** closes 1:00 PM Thursday 1 October 2026, results due 9 December 2026.
+Mandatory support material, of which only one item exists:
+- Current international strategy: **does not exist as a standalone document.** The
+  three year programme in the EOI is its substance.
+- Evidence of international demand: partial. A written invitation or confirmed
+  Japanese presentation is the strongest addition.
+- Artist or organisation profile: can be assembled from the boilerplate.
+
+**Open item:** confirm whether the eligibility email about holding the IAIF
+application (as the company) and the Creative Fellowship application (as an
+individual) was sent to funding@creativenz.govt.nz, and keep the reply.
+
+**Files:** `applications/2026-CNZ-InternationalArtsImpactFund/` (EOI, submission PDF,
+Microsoft Form answers, `JAPAN-STRUCTURE-RIGHTS-OWNERSHIP.md` advisory memo).
+Archive: `github.com/LaFinnix/anamata-funding`, `04-in-flight/`.
