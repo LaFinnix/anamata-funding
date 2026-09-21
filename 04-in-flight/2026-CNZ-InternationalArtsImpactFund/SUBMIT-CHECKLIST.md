@@ -21,6 +21,7 @@ The draft is written to be submitted as-is, with no placeholders. Five details c
 3. **The Japanese entity wording**: the form says "a Japanese entity that will hold the label's international rights and act as our contracting counterpart in market". If the vehicle is a specific structure, name it, and if formation has a completion date, add it. Specificity scores.
 4. **The two Japanese partners are named: Ryo Suzuki and Hikaru Yamaguchi.** Ryo Suzuki is presented as both a partner and the collaborating artist on the bilingual catalogue; Hikaru Yamaguchi as the second partner. If Hikaru Yamaguchi is affiliated with an organisation or company, naming that organisation is the strongest remaining upgrade, because both partners currently read as individuals.
 5. **Your title** now reads "Composer, Producer and Lead Practitioner". Change it if you would rather lead with something else.
+6. **Name spelling is settled:** Ngāika, with the macron. The platform repo's own agent rules read "Never `Ngaika`", and the funding boilerplate and style guide use Ngāika. The only place using Ngaika was this archive's README, now corrected.
 
 ## The eligibility risk you need to close, in writing
 

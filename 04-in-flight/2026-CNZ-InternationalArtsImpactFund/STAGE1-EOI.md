@@ -1,5 +1,5 @@
-# Creative New Zealand International Arts Impact Fund 2026
-## Stage One: Expression of Interest
+# Building a permanent Māori presence in the Japanese music market
+## Creative New Zealand International Arts Impact Fund 2026, Stage One Expression of Interest
 
 **Filed by:** Anamata Kāhui Limited, trading as Anamata Records
 **Lead practitioner:** Ngāika Smith, Composer, Producer and Lead Practitioner
@@ -95,7 +95,7 @@ Three things are converging in 2027 and will not hold for long. The Japanese ent
 | 2028 | Inbound residency hosted in Aotearoa | One residency, three or more Japanese practitioners hosted on whenua |
 | 2029 | International release in both markets | Full length collaborative album released |
 | 2029 | Pathway published and transferred | Protocol framework published, adopted by one or more other Māori acts |
-| All years | Cultural integrity held | Every release reviewed and signed off by our cultural reviewer |
+| All years | Cultural integrity hold | Every release reviewed and signed off before release |
 
 ### What this investment changes
 
