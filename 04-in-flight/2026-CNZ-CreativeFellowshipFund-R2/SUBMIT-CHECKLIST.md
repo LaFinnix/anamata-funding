@@ -7,7 +7,9 @@
 **Activity window:** 2 December 2026 to 31 December 2027.
 **Results due:** 2 December 2026.
 
-**Project:** Ngā Wiri o te Tinana. Somatosensory composition and vibrotactile waiata.
+**Project:** Ngā Tono o te Tinana: Somatosensory Composition, Vibrotactile Waiata, and the Decoupling
+of Sound from Hearing. Title as specified by Fin on 2026-09-21; the reo needs checking before it goes in
+(see item 1 below).
 
 ## Before you start
 
@@ -16,8 +18,9 @@
 - **Choose the Ngā toi Māori funding pool.** That pool is assessed by Ngā toi Māori peer assessors.
 - **No budget is required.** The $50,000 figure is fixed and how you manage it is up to you. The budget in
   `APPLICATION.md` is marked as a planning annex, so do not paste it into the form.
-- **The project title field needs one decision.** The working title is Ngā Wiri o te Tinana. Confirm the
-  reo with Maurea or a reo advisor before it is typed into the form.
+- **The project title field needs one check.** The specified title is in `APPLICATION.md` and in the
+  answers file header. Confirm the reo with Maurea or a reo advisor before it is typed into the form, and
+  see item 1 below on the two phrases worth reconsidering.
 
 ## The answers
 
@@ -40,10 +43,12 @@ and the answer gets cut to fit without losing a claim.
 The application claims a notation system, a tactile test programme and a published protocol. The working
 documents behind those claims are:
 
-- `/opt/data/anamata/somatosensory/PRACTICE-BRIEF.md` — the rig, the twelve phase one tests, the session
+- `/opt/data/anamata/somatosensory/PRACTICE-BRIEF.md` , the rig, the twelve phase one tests, the session
   architecture, the phase alignment method, the writing rules, and the roles table.
-- `/opt/data/anamata/somatosensory/TACTILE-NOTATION.md` — notation v0.1 with fields, body channels, a
+- `/opt/data/anamata/somatosensory/TACTILE-NOTATION.md` , notation v0.1 with fields, body channels, a
   worked bar, reading rules and the versioning plan.
+- The twelve month timeline, the budget ledger and the collaborator table are Sections 3, 4 and 5 of
+  `APPLICATION.md`.
 
 These are what the protocol document and the release kit grow out of. They are also the honest answer if
 an assessor asks how the method will actually be developed.
@@ -59,9 +64,12 @@ an assessor asks how the method will actually be developed.
 
 ## Three things to sort before you submit
 
-1. **The te reo title.** Working title Ngā Wiri o te Tinana. Sign off from your cultural reviewer, then it
-   goes in the title field. The alternative in the original outline, Ngā Tono o te Tinana, was dropped
-   because tono reads as a request or a bid rather than a sensation.
+1. **The te reo title.** The specified title is in place. Two phrases are worth a second look before it is
+   submitted: *Ngā Tono o te Tinana* reads as the requests or bids of the body, because tono is a request
+   rather than a sensation, and *the decoupling of sound from hearing* describes something that does not
+   exist, since sound is vibration. My recommendation was Ngā Wiri o te Tinana (the vibrations of the body),
+   with the subtitle stopping at vibrotactile waiata. One line each if you want them changed, and the reo
+   should be signed off either way.
 2. **Collaborators.** No Deaf artist, NZSL poet or tāngata whaikaha Māori performer is named in the
    answers, because none has been approached for this project yet. The draft discloses paid co-composition
    and selection within 30 days of award from networks already in place. If any conversation has started,
