@@ -16,10 +16,10 @@ https://www.creativenz.govt.nz/funding-and-support/all-opportunities/internation
 
 The draft is written to be submitted as-is, with no placeholders. Five details came from instruction rather than from the record, so confirm each one:
 
-1. **Ryo Suzuki is the collaborating artist named throughout.** Kurokoru has been removed entirely. If the two released waiata are credited to a different artist name, say so and I will separate the release record from the Ryo Suzuki collaboration.
+1. **Ryo Suzuki is the collaborating artist named throughout.** Kurokoru has been removed entirely. The form now reads "Working with the Japanese artist Ryo Suzuki, we have released two waiata". If those two releases are credited to a different artist name, say so and I will separate the release record from the Ryo Suzuki collaboration.
 2. **"A third collaborative work is in production."** Confirm, or I will delete it.
 3. **The Japanese entity wording**: the form says "a Japanese entity that will hold the label's international rights and act as our contracting counterpart in market". If the vehicle is a specific structure, name it, and if formation has a completion date, add it. Specificity scores.
-4. **The two Japanese partner organisations are deliberately unnamed** (no placeholders was the instruction). Naming them is the single strongest upgrade available to this EOI. Send the two names and I will put them in.
+4. **The two Japanese partners are named: Ryo Suzuki and Hikaru Yamaguchi.** Ryo Suzuki is presented as both a partner and the collaborating artist on the bilingual catalogue; Hikaru Yamaguchi as the second partner. If Hikaru Yamaguchi is affiliated with an organisation or company, naming that organisation is the strongest remaining upgrade, because both partners currently read as individuals.
 5. **Your title** now reads "Composer, Producer and Lead Practitioner". Change it if you would rather lead with something else.
 
 ## The eligibility risk you need to close, in writing

@@ -35,7 +35,7 @@ Anamata Kāhui Limited is a registered New Zealand company, NZBN 9429052960734, 
 Our international practice runs artist to artist rather than through agency representation. Two bilingual waiata, まだ終わっちゃいない (Not over yet) and ただ声一つ (One Voice), hold te reo Māori and Japanese inside the same recording and are released to international platforms. Our collaborating artist is Ryo Suzuki. The catalogue also carries *Te Tinihanga (The Cunning)*, *Wairua Piri Ta'i (Mita o te Hauāuru)* and *Te Whakamātautau (The Diver's Test)*, each composed from Ngāti Kahungunu kōrero tuku iho. A third collaborative work is in production.
 
 **Evidence of international demand.**
-Demand shows up in three places. A Japanese collaborator who has stayed across repeat releases rather than one session. A Japanese entity now in formation, which gives the label a contracting counterpart in market and the standing to hold its own international rights. And two Japanese music organisations already engaged across recorded music and live presentation. We are building the structure in Japan that this programme will run through, and we are doing it ahead of any funding decision.
+Demand shows up in three places. A Japanese collaborator who has stayed across repeat releases rather than one session. A Japanese entity now in formation, which gives the label a contracting counterpart in market and the standing to hold its own international rights. And two Japanese partners, Ryo Suzuki and Hikaru Yamaguchi, already working with us across recording and live presentation. We are building the structure in Japan that this programme will run through, and we are doing it ahead of any funding decision.
 
 **Current international strategy.**
 Our international strategy is written as the three year programme set out below: a Japanese market built on bilingual waiata, a formal entity, named partners, a live pathway, and a published cross Indigenous creative protocol. A standalone strategy document with market analysis, partner detail and a full budget accompanies our Stage Two application.
@@ -62,7 +62,7 @@ Making those records taught us what international collaboration actually costs a
 
 ### What we are building in Japan now
 
-Anamata Kāhui Limited is establishing a formal Japanese presence. I am in Japan as this Expression of Interest is filed, working through the formation of a Japanese entity that will hold the label's international rights and act as our contracting counterpart in market. Alongside the entity, two Japanese music organisations are engaged across recording and live presentation, and those partnerships are the route by which our catalogue reaches Japanese audiences, rooms and release channels.
+Anamata Kāhui Limited is establishing a formal Japanese presence. I am in Japan as this Expression of Interest is filed, working through the formation of a Japanese entity that will hold the label's international rights and act as our contracting counterpart in market. Alongside the entity, two Japanese partners are working with us across recording and live presentation: Ryo Suzuki, our collaborating artist on the bilingual catalogue, and Hikaru Yamaguchi. Those partnerships are the route by which our catalogue reaches Japanese audiences, rooms and release channels.
 
 That is the difference between this application and a proposal on paper. The entity, the partners and the working relationship exist. We are building the structure with our own resources, ahead of any funding decision, because the music only travels as far as the structure allows it to.
 
@@ -74,7 +74,7 @@ Japan is the right first market for three reasons. It is the second largest reco
 
 ### Why now
 
-Three things are converging in 2027 and will not hold for long. The Japanese entity completes its formation. Two partner organisations are engaged and ready to programme work. And the bilingual catalogue is moving, with a third collaborative record in production. A market entry run in 2027 lands on all three. A market entry run later lands on none of them.
+Three things are converging in 2027 and will not hold for long. The Japanese entity completes its formation. Two Japanese partners, Ryo Suzuki and Hikaru Yamaguchi, are engaged and ready to programme work. And the bilingual catalogue is moving, with a third collaborative record in production. A market entry run in 2027 lands on all three. A market entry run later lands on none of them.
 
 ### The three year programme
 
