@@ -16,7 +16,7 @@
 
 ## Executive summary
 
-This is a fellowship for a composer, not for an organisation. For twelve months I will step out of the delivery work that runs Anamata Records and spend the year inside the practice that made the label worth starting. The work has two pillars. **Waiata Composition**: writing a body of new waiata in te reo Māori, grounded in Ngāti Kahungunu kōrero tuku iho and in whakapapa to Ngāi Tahu and Ngāti Awa, composed without an English crutch. **Taonga Pūoro Practice**: learning to compose for kōauau, pūtātara, pahū and hue with a practitioner mentor, so traditional instruments carry the lead line rather than sitting behind a synth pad as texture. One note in my working catalogue reads, next to the waiata *Kua muia e te pouritanga*, "kōauau needed for lead". Six waiata come out of the year, each with its own focus so that each can carry its own release and its own production application. That note is this fellowship in one line.
+This is a fellowship for a composer, not for an organisation. For twelve months I will step out of the delivery work that runs Anamata Records and spend the year inside the practice that made the label worth starting. The work has two pillars. **Waiata Composition**: writing a body of new waiata in te reo Māori, grounded in Ngāti Kahungunu kōrero tuku iho and in whakapapa to Ngāi Tahu and Ngāti Awa, composed without an English crutch. **Taonga Pūoro Practice**: learning to compose for kōauau, pūtātara and the wider taonga pūoro set with a practitioner mentor, so traditional instruments carry the lead line rather than sitting behind a synth pad as texture. One note in my working catalogue reads, next to the waiata *Kua muia e te pouritanga*, "kōauau needed for lead". Six waiata come out of the year, each with its own focus so that each can carry its own release and its own production application. That note is this fellowship in one line.
 
 ---
 
@@ -26,9 +26,9 @@ Two pillars, one year, and a deliberate change in how I work.
 
 **Pillar one: Waiata Composition.** I will compose a body of new waiata written in te reo Māori, drawn from Ngāti Kahungunu kōrero tuku iho, with a further strand from Ngāi Tahu and Ngāti Awa narratives. Six waiata will be complete, with three recorded to release standard, and each one carries a single focus so that it can stand as its own release and its own future production application. Four are drawn from works already in demo: *Kotahi te kaupapa* (one purpose), *Kua muia e te pouritanga* (gathered by darkness), *Tapuwae tipuna* (footsteps of ancestors) and *Mokemoke* (loneliness). Two are new bilingual waiata written with our Japanese partner Ryo Suzuki, *Te Ara Moana* (the sea road) and *Rua Reo* (two voices), each holding te reo Māori and Japanese as equal voices. The subjects are already in front of me: *Kotahi te kaupapa* (one purpose), *Mokemoke* (loneliness), *Tapuwae tipuna* (footsteps of ancestors) and *Kua muia e te pouritanga* (gathered by darkness) exist as demos, and each one is a fragment rather than a finished composition. My practice has been to produce around the edges of these ideas. The fellowship is the year I write them properly, with te reo Māori as the language of composition from the first draft rather than a translation of an English first draft.
 
-**Pillar two: Taonga Pūoro Practice.** I want to learn to compose for taonga pūoro, not to sample them. I will work with a practitioner mentor to learn the tunings, breathing and repertoire of kōauau, pūtātara, pahū and hue, then write for those instruments as lead voices inside contemporary production. A mentor will be selected within thirty days of award from practitioners connected to Ngāti Kahungunu, Ngāi Tahu and Ngāti Awa networks, so the instrument knowledge comes with the whakapapa attached to it.
+**Pillar two: Taonga Pūoro Practice.** I want to learn to compose for taonga pūoro, not to sample them. I will work with a practitioner mentor to learn the tunings, breathing and repertoire of kōauau and pūtātara, then write for those instruments as lead voices inside contemporary production. A mentor will be selected within thirty days of award from practitioners connected to Ngāti Kahungunu, Ngāi Tahu and Ngāti Awa networks, so the instrument knowledge comes with the whakapapa attached to it.
 
-Alongside both pillars I will develop a third thing that is genuinely new for me: a bilingual composition method for waiata that hold te reo Māori and Japanese as equal voices, developed with our Japanese collaborator KUROKORU and tested in a new collaborative work. Our two released collaborations, *Not over yet* and *One Voice*, were made intuitively. This fellowship is where I find out whether there is a repeatable method underneath them, and write it down.
+Alongside both pillars I will develop a third thing that is genuinely new for me: a bilingual composition method for waiata that hold te reo Māori and Japanese as equal voices, developed with our Japanese collaborator and partner Ryo Suzuki, and tested in a new collaborative work. Our two released collaborations, *Not over yet* and *One Voice*, were made intuitively. This fellowship is where I find out whether there is a repeatable method underneath them, and write it down.
 
 The output at the end of twelve months is six new waiata, three recorded works, a documented compositional method, and a composer who has stopped treating tradition as a texture and started writing for it.
 
@@ -38,7 +38,7 @@ The output at the end of twelve months is six new waiata, three recorded works, 
 
 ## Question 2: How will this build on your previous work, and why is it important that you do this now?
 
-**What it builds on.** Three waiata are released: *Te Tinihanga (The Cunning)*, *Wairua Piri Ta'i (Mita o te Hauāuru)* and *Te Whakamātautau (The Diver's Test)*, all drawn from Ngāti Kahungunu kōrero tuku iho, on Apple Music and YouTube. Our Japanese collaborations *Not over yet* and *One Voice* are in the world. Behind those releases sit four unfinished waiata that map the direction I want to take and cannot take while I am producing at the pace the label needs. In 2026 Creative New Zealand invested $10,000 through the Organizations and Groups Development Fund, which let me build the cultural and accessibility infrastructure underneath the music: a cultural reviewer engaged since 2024, a kaitiaki rōpū governance group, a registered entity, documented contracts and protocols. That investment built the container. This fellowship is for what goes in it.
+**What it builds on.** Three waiata are released: *Te Tinihanga (The Cunning)*, *Wairua Piri Ta'i (Mita o te Hauāuru)* and *Te Whakamātautau (The Diver's Test)*, all drawn from Ngāti Kahungunu kōrero tuku iho, on Apple Music and YouTube. Our Japanese collaborations *Not over yet* and *One Voice* are in the world. Behind those releases sit six waiata in development that map the direction I want to take and cannot take while I am producing at the pace the label needs. In 2026 Creative New Zealand invested $10,000 through the Organizations and Groups Development Fund, which let me build the cultural and accessibility infrastructure underneath the music: a cultural reviewer engaged since 2024, a kaitiaki rōpū governance group, a registered entity, documented contracts and protocols. That investment built the container. This fellowship is for what goes in it.
 
 **Why now.** Three reasons, and they converge this year.
 
@@ -153,7 +153,7 @@ Sharing is built into the year rather than added to it at the end, and it runs o
 | Phase | Months | Work |
 |---|---|---|
 | Phase I, Ground | 1 to 3 | Mentor selected. Taonga pūoro learning begins. Kōrero tuku iho sourced and confirmed with whānau and iwi networks. Visual and text drafts of all six waiata. |
-| Phase II, Compose and record | 4 to 9 | Waiata composed. Three recorded. Cultural review at draft stage. Bilingual method developed with KUROKORU and tested. |
+| Phase II, Compose and record | 4 to 9 | Waiata composed. Three recorded. Cultural review at draft stage. Bilingual method developed with Ryo Suzuki and tested. |
 | Phase III, Codify and share | 10 to 12 | Methodology paper published. Protocol framework released. Wānanga delivered. Mentoring completed. |
 
 ## E. If you would rather apply for $25,000
@@ -162,9 +162,11 @@ Answer questions 1 to 3 only, use a six month window, and cut the programme to: 
 
 ---
 
-## Correct these before submitting
+## Notes for proofreading
 
-1. **Composer biography.** Confirm your role wording for the form (composer, producer, researcher).
-2. **Instrument list.** This draft names kōauau, pūtātara, pahū and hue. Add or remove instruments to match what you actually intend to write for.
-3. **Waiata selected.** The draft names *Kotahi te kaupapa*, *Mokemoke*, *Tapuwae tipuna* and *Kua muia e te pouritanga*. Swap in whichever works you actually want to carry through.
-4. **The two-year timing claim.** The draft says the label has released work in 2026. Confirm the release dates.
+Two judgement calls are yours, everything else is verified and ready.
+
+1. **Your role wording.** The form wants the role you are applying in. The draft uses composer and producer in question 1 and the bio block. Change it if you would rather lead with researcher or producer.
+2. **The instrument list.** The draft names kōauau and pūtātara specifically, because the catalogue evidence points at kōauau for the lead line and pūtātara for the sea waiata. Add any other instrument you intend to write for.
+
+Already resolved and no longer needing your decision: the waiata slate (six works now named), the release record (titles verified against the catalogue), the amount ($50,000, with the $25,000 variant set out in annex E), and the composer name and spelling.
