@@ -1,53 +1,85 @@
 # Creative Fellowship Fund 2026, Round 2: submission checklist
 
 **Deadline: 1:00 PM NZ time, Thursday 24 September 2026.**
-**Where:** CNZ Portal, https://creativenz.govt.nz, register or sign in first. One application per round per applicant.
+**Where:** CNZ Portal, https://creativenz.govt.nz, sign in first. One application per round per applicant.
 **Applicant:** Ngaika Smith, as an individual.
-**Ask:** $50,000 for up to twelve months of work. The $25,000 / six month variant is annex E of the application.
+**Ask:** $50,000 for up to twelve months of work. The $25,000 ask takes three questions instead of five.
 **Activity window:** 2 December 2026 to 31 December 2027.
 **Results due:** 2 December 2026.
 
+**Project:** Ngā Wiri o te Tinana. Somatosensory composition and vibrotactile waiata.
+
 ## Before you start
 
-- **You apply as an individual.** The fund is for artists and practitioners; arts organisations and groups cannot apply. A sole trader or a company applies as an individual anyway, and if the application is funded you can ask for the grant to be paid into Anamata Kāhui Limited's bank account. That is in the fund's own guidance, so the company is not a bar.
-- **Choose the Ngā toi Māori funding pool** when the form asks. Applications in that pool are assessed by Ngā toi Māori peer assessors, which is the right panel for waiata Māori.
-- **No budget is required.** The amounts are fixed at $25,000 or $50,000 and it is up to you how you manage the grant. The budget in the application is marked as a planning annex, not submission content.
-- **Three questions for $25,000, five for $50,000.** All five are answered in `PORTAL-ANSWERS.txt`.
+- **You apply as an individual.** Arts organisations and groups cannot apply to this fund. A company can
+  still receive the payment, so Anamata Kāhui Limited is not a bar.
+- **Choose the Ngā toi Māori funding pool.** That pool is assessed by Ngā toi Māori peer assessors.
+- **No budget is required.** The $50,000 figure is fixed and how you manage it is up to you. The budget in
+  `APPLICATION.md` is marked as a planning annex, so do not paste it into the form.
+- **The project title field needs one decision.** The working title is Ngā Wiri o te Tinana. Confirm the
+  reo with Maurea or a reo advisor before it is typed into the form.
 
 ## The answers
 
-Paste from `PORTAL-ANSWERS.txt`. Plain text, no formatting marks, character counts given per answer.
+Paste from `PORTAL-ANSWERS.txt`. Plain text, no formatting marks, counts given per answer.
 
 | Field | Characters | Words |
 |---|---|---|
-| Executive summary | 945 | 150 |
-| Question 1, what you want to do | 2,504 | 400 |
-| Question 2, builds on previous work and why now | 1,961 | 310 |
-| Question 3, risk, new ideas, growth | 1,927 | 310 |
-| Question 4, sharing the learnings | 1,948 | 310 |
-| Question 5, evolving your practice, artform, community | 2,115 | 340 |
+| Executive summary | 944 | 155 |
+| Question 1, what you want to do | 2,366 | 404 |
+| Question 2, builds on previous work and why now | 2,084 | 335 |
+| Question 3, risk, new ideas, growth | 2,199 | 394 |
+| Question 4, sharing the learnings | 2,055 | 332 |
+| Question 5, evolving your practice, artform, community | 2,239 | 391 |
 
-The fund does not publish character limits for these fields. If the portal caps any of them, tell me the cap and I will cut to fit.
+The fund publishes no character limit for these fields. If the portal caps one, say which and by how much
+and the answer gets cut to fit without losing a claim.
+
+## Method annex, not for the portal
+
+The application claims a notation system, a tactile test programme and a published protocol. The working
+documents behind those claims are:
+
+- `/opt/data/anamata/somatosensory/PRACTICE-BRIEF.md` — the rig, the twelve phase one tests, the session
+  architecture, the phase alignment method, the writing rules, and the roles table.
+- `/opt/data/anamata/somatosensory/TACTILE-NOTATION.md` — notation v0.1 with fields, body channels, a
+  worked bar, reading rules and the versioning plan.
+
+These are what the protocol document and the release kit grow out of. They are also the honest answer if
+an assessor asks how the method will actually be developed.
 
 ## Support material the fund asks for
 
-The form asks for an artistic CV, samples of work, letters of support, a timeline, or other material. Status of each:
-
 | Item | Status |
 |---|---|
-| Artistic CV | **Not written.** Can be assembled from the verified record (founder and director of Anamata Kāhui Limited, iwi whakapapa, released catalogue, the 2026 Creative New Zealand development grant, the cultural review process). Needs your career facts to be complete rather than thin. |
-| Samples of work | **Exists.** Three released waiata plus two bilingual collaborations, on Apple Music and YouTube. Pick three and link them. |
-| Timeline | **Exists** as annex D of the application. Lift it into the support material if the form takes a document. |
-| Letters of support | **Not requested.** Two would strengthen this considerably: one from your cultural reviewer at Maurea, one from Ryo Suzuki. Both are people you already work with. |
+| Artistic CV | **Not written.** Assemble from the verified record: composer and producer, whakapapa to Ngāi Tahu, Ngāti Kahungunu and Ngāti Awa, released catalogue, the 2026 Creative New Zealand $10,000 development grant, the accessibility programme, the cultural review process. Needs your career facts to be complete rather than thin. |
+| Samples of work | **Exists.** Three released waiata plus two bilingual collaborations, on Apple Music and YouTube. Pick three and link them. There is no tactile work yet, so the samples show the musical practice the fellowship builds on, which is how the application frames it. |
+| Timeline | **Exists** as the annex in `APPLICATION.md`, three phases across twelve months. |
+| Letters of support | **Two worth asking for.** One from Maurea on cultural process, and one from a Deaf arts partner or Arts Access Aotearoa on the collaboration structure. The second is the one that answers the obvious assessor question about who leads this work. |
 
-## Two things to sort before you submit
+## Three things to sort before you submit
 
-1. **The eligibility question with Creative New Zealand.** You have filed the International Arts Impact Fund EOI as the company and are filing this one as an individual. CNZ's published exclusion says artists who have applied to the Creative Fellowship Fund for the same period cannot apply to the Impact Fund. Ask them to confirm the two count as separate applications, given the different applicant types and different activity. The email is in the International Arts Impact Fund folder's checklist. Send it before Thursday.
-2. **Letters of support.** If you want them in, ask this week. The fund accepts them as support material, and a letter from your cultural reviewer speaks directly to the cultural integrity that runs through answers 1 and 5.
+1. **The te reo title.** Working title Ngā Wiri o te Tinana. Sign off from your cultural reviewer, then it
+   goes in the title field. The alternative in the original outline, Ngā Tono o te Tinana, was dropped
+   because tono reads as a request or a bid rather than a sensation.
+2. **Collaborators.** No Deaf artist, NZSL poet or tāngata whaikaha Māori performer is named in the
+   answers, because none has been approached for this project yet. The draft discloses paid co-composition
+   and selection within 30 days of award from networks already in place. If any conversation has started,
+   that name strengthens the application more than any paragraph.
+3. **Whether the six waiata carry over.** The answers say six waiata in te reo Māori without naming them.
+   If a slate is set, name it and the answers get specific.
+
+## Eligibility
+
+You have filed the International Arts Impact Fund EOI as the company and are filing this as an individual.
+The confirmation email to funding@creativenz.govt.nz has been sent. The reply only has to land before
+Stage Two of the Impact Fund closes on 1 October, so it does not hold this application back.
 
 ## Filing
 
 - Folder: `/opt/data/anamata/funding/applications/2026-CNZ-CreativeFellowshipFund-R2/`
-- Proofread PDF: `CNZ-CreativeFellowship-R2-Application.pdf`
+- Application: `APPLICATION.md`
 - Portal answers: `PORTAL-ANSWERS.txt`
+- Superseded waiata and taonga pūoro version: `superseded/`
+- Practice documents: `/opt/data/anamata/somatosensory/`
 - Archive: `github.com/LaFinnix/anamata-funding`, `04-in-flight/2026-CNZ-CreativeFellowshipFund-R2/`

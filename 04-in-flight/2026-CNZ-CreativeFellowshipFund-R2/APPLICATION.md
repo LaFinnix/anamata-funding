@@ -1,172 +1,134 @@
-# Creative New Zealand: Creative Fellowship Fund 2026, Round 2
-## Application draft, $50,000
+CREATIVE NEW ZEALAND: CREATIVE FELLOWSHIP FUND 2026, ROUND 2
+SOMATOSENSORY VERSION. Paste-ready answers, plain text, no formatting marks.
+Applicant: Ngaika Smith, as an individual. Closes 1:00 PM NZ time, Thursday 24 September 2026.
+Funding pool: Ngā Toi Māori.
+Working title: Ngā Wiri o te Tinana (The Vibrations of the Body). Reo needs sign off before submission, see the end of this file.
 
-| Field | Detail |
-|---|---|
-| Funder | Creative New Zealand |
-| Fund | Creative Fellowship Fund 2026, Round 2 |
-| Amount | $50,000 for twelve months. A $25,000 / six month option is set out at the end. |
-| Closes | 1:00 PM NZ time, Thursday 24 September 2026 |
-| Results due | 2 December 2026 |
-| Project window | 2 December 2026 to 31 December 2027 |
-| Applicant | Ngaika Smith, as an individual. You apply as an individual even though you operate through a company, and Anamata Kāhui Limited's bank account can receive the grant. |
-| Questions required | Three for $25,000, five for $50,000. All five are answered below. |
+This document is the somatosensory version of the fellowship. The waiata and taonga pūoro version is still on file at APPLICATION.md and has not been changed. Read the covering note before choosing which one goes in.
 
----
+==============================================================================
+EXECUTIVE SUMMARY (paste first if the form has an intro field)
+==============================================================================
 
-## Executive summary
-
-This is a fellowship for a composer, not for an organisation. For twelve months I will step out of the delivery work that runs Anamata Records and spend the year inside the practice that made the label worth starting. The work has two pillars. **Waiata Composition**: writing a body of new waiata in te reo Māori, grounded in Ngāti Kahungunu kōrero tuku iho and in whakapapa to Ngāi Tahu and Ngāti Awa, composed without an English crutch. **Taonga Pūoro Practice**: learning to compose for kōauau, pūtātara and the wider taonga pūoro set with a practitioner mentor, so traditional instruments carry the lead line rather than sitting behind a synth pad as texture. One note in my working catalogue reads, next to the waiata *Kua muia e te pouritanga*, "kōauau needed for lead". Six waiata come out of the year, each with its own focus so that each can carry its own release and its own production application. That note is this fellowship in one line.
+For twelve months I will compose waiata for touch first. Not recorded music with an accessibility layer added afterwards, but waiata written so that the primary version is felt: vibration, pressure and rhythm against the body. The method is developed in the studio with Deaf artists, NZSL poets and tāngata whaikaha Māori performers, who are paid collaborators rather than consulted after the fact. Six new waiata are composed in te reo Māori. Three are recorded and released with English, te reo Māori and New Zealand Sign Language assets, and with a tactile score that records how each work is felt. The year produces an open protocol as well as a body of work: tactile notation, crossover points, phase alignment, and low frequency management that keeps a polyrhythm legible through vibration rather than through mud. The question underneath is simple. If a waiata can be complete without being heard, what changes about how it gets written?
 
 ---
 
-## Question 1: What do you want to do in your creative practice with this funding?
+[944 characters, 155 words]
 
-Two pillars, one year, and a deliberate change in how I work.
+==============================================================================
+QUESTION 1: What do you want to do in your creative practice with this funding?
+==============================================================================
 
-**Pillar one: Waiata Composition.** I will compose a body of new waiata written in te reo Māori, drawn from Ngāti Kahungunu kōrero tuku iho, with a further strand from Ngāi Tahu and Ngāti Awa narratives. Six waiata will be complete, with three recorded to release standard, and each one carries a single focus so that it can stand as its own release and its own future production application. Four are drawn from works already in demo: *Kotahi te kaupapa* (one purpose), *Kua muia e te pouritanga* (gathered by darkness), *Tapuwae tipuna* (footsteps of ancestors) and *Mokemoke* (loneliness). Two are new bilingual waiata written with our Japanese partner Ryo Suzuki, *Te Ara Moana* (the sea road) and *Rua Reo* (two voices), each holding te reo Māori and Japanese as equal voices. The subjects are already in front of me: *Kotahi te kaupapa* (one purpose), *Mokemoke* (loneliness), *Tapuwae tipuna* (footsteps of ancestors) and *Kua muia e te pouritanga* (gathered by darkness) exist as demos, and each one is a fragment rather than a finished composition. My practice has been to produce around the edges of these ideas. The fellowship is the year I write them properly, with te reo Māori as the language of composition from the first draft rather than a translation of an English first draft.
+I want to stop treating touch as an output of my music and start treating it as a material I compose with.
 
-**Pillar two: Taonga Pūoro Practice.** I want to learn to compose for taonga pūoro, not to sample them. I will work with a practitioner mentor to learn the tunings, breathing and repertoire of kōauau and pūtātara, then write for those instruments as lead voices inside contemporary production. A mentor will be selected within thirty days of award from practitioners connected to Ngāti Kahungunu, Ngāi Tahu and Ngāti Awa networks, so the instrument knowledge comes with the whakapapa attached to it.
+Pillar one: tactile composition. I will build a tactile monitoring rig in the studio, with bass transducers mounted on a platform and a chair, a wearable haptic vest, and bone conduction transducers. None of that gear is unusual. What is unusual is composing through it. For the first months I will work only in the range where touch does the work, roughly 20 Hz to 250 Hz, and map how attack, decay, sustain and release read as pressure rather than as pitch. I will find out what a melodic hook, a haka cadence and a mōteatea line feel like when the mids are gone, and I will write a tactile score notation that records duration, intensity, location on the body, and rhythm, so a piece can be rehearsed and performed from it by someone who is not reading the audio.
 
-Alongside both pillars I will develop a third thing that is genuinely new for me: a bilingual composition method for waiata that hold te reo Māori and Japanese as equal voices, developed with our Japanese collaborator and partner Ryo Suzuki, and tested in a new collaborative work. Our two released collaborations, *Not over yet* and *One Voice*, were made intuitively. This fellowship is where I find out whether there is a repeatable method underneath them, and write it down.
+Pillar two: waiata composed with Deaf and tāngata whaikaha Māori artists. Closed studio wānanga with Deaf artists, NZSL poets and tāngata whaikaha Māori performers, all paid for their time. These are co-compositions, not consultations. Six waiata will be written in te reo Māori, and for each one the tactile layer is composed alongside the vocal line rather than after it. Lyrical meter will be tested against NZSL cadence, so phrasing that carries in the hands and on the body informs how the line is written and where the rhythm sits. Three of the six will be recorded to release standard with trilingual assets in English, te reo Māori and New Zealand Sign Language, and with the tactile score published alongside the work.
 
-The output at the end of twelve months is six new waiata, three recorded works, a documented compositional method, and a composer who has stopped treating tradition as a texture and started writing for it.
+Pillar three: the open protocol. Every technical decision in the year gets documented: crossover points, phase alignment between tactile and audible output, compression and limiting choices so that a low frequency hit stays crisp instead of smearing into rumble, and how the notation works. That becomes a Somatosensory Composition Protocol published openly, with a mixing template, so another composer in Aotearoa can start where I finish rather than from nothing.
 
-*Roughly 400 words. Trim or extend to fit the portal's field.*
-
----
-
-## Question 2: How will this build on your previous work, and why is it important that you do this now?
-
-**What it builds on.** Three waiata are released: *Te Tinihanga (The Cunning)*, *Wairua Piri Ta'i (Mita o te Hauāuru)* and *Te Whakamātautau (The Diver's Test)*, all drawn from Ngāti Kahungunu kōrero tuku iho, on Apple Music and YouTube. Our Japanese collaborations *Not over yet* and *One Voice* are in the world. Behind those releases sit six waiata in development that map the direction I want to take and cannot take while I am producing at the pace the label needs. In 2026 Creative New Zealand invested $10,000 through the Organizations and Groups Development Fund, which let me build the cultural and accessibility infrastructure underneath the music: a cultural reviewer engaged since 2024, a kaitiaki rōpū governance group, a registered entity, documented contracts and protocols. That investment built the container. This fellowship is for what goes in it.
-
-**Why now.** Three reasons, and they converge this year.
-
-The first is that the infrastructure is finally in place. For the first time I can hand a draft waiata to a cultural reviewer, record it under a proper contract, and release it knowing the cultural decisions are documented. Attempting this body of work two years ago would have meant doing it without any of that.
-
-The second is momentum that will not wait. The label has released work in 2026, has an international collaboration running, and is carrying a public platform where the work is documented. That activity will continue with or without me as a composer. If the composer's practice does not deepen at the same rate as the label's output, the label becomes a publisher of my old ideas. That is the honest risk, and it is the reason the fellowship is timed now rather than after the next release cycle.
-
-The third is that the material is ready and I am not. *Kua muia e te pouritanga* has carried the note "kōauau needed for lead" for months. I cannot write that line yet. Twelve months of dedicated composition practice is what changes that.
-
-*Roughly 350 words.*
+Running through all three pillars is the work I already do on every release: cultural review at draft stage, with our cultural reviewer engaged since 2024, and kaitiaki rōpū governance over the programme. The tactile layer changes how I compose. It does not change who holds mana over the work.
 
 ---
 
-## Question 3: How will this allow you to take risks, develop new ideas, and contribute to the growth of your arts practice?
+[2366 characters, 404 words]
 
-The fellowship buys the one thing an independent Māori label owner does not have, which is uninterrupted time inside the practice.
+==============================================================================
+QUESTION 2: How will this build on your previous work, and why is it important that you do this now?
+==============================================================================
 
-**The risks I intend to take.** Composing in te reo Māori without an English first draft. Giving taonga pūoro the lead line rather than the background, which means the composition stands or falls on instrument writing I am still learning. Treating Japanese and te reo Māori as equal voices in one waiata rather than one carrying the other. Mixing for haptic and vibrotactile playback so that tāngata whaikaha Māori can access the same work by touch, which changes how low frequency and transient content has to be written. And publishing the failures: the drafts that did not work, and why, as part of the documented method.
+What it builds on. Three waiata are released: Te Tinihanga, Wairua Piri Ta'i and Te Whakamātautau, all drawn from Ngāti Kahungunu kōrero tuku iho, on Apple Music and YouTube. Our Japanese collaborations Not over yet and One Voice are in the world. In 2026 Creative New Zealand invested $10,000 through the Organizations and Groups Development Fund to build the cultural and accessibility infrastructure underneath the music: a cultural reviewer engaged since 2024, a kaitiaki rōpū governance group, a registered entity, documented contracts and protocols, trilingual release assets, and haptic and vibrotactile mixing guidance for our releases. That work established what the label's releases are. This fellowship is about what the music itself can be.
 
-**The new ideas.** A compositional method for waiata built on taonga pūoro lead lines is a genuine gap in the sector. Plenty of contemporary Māori music uses taonga pūoro as atmosphere. Very little of it is written for the instruments idiomatically. I want to write waiata that a kōauau player would recognise as written for the kōauau, and then document how that is done so the method is available to other composers.
+Why now. Three things converge this year.
 
-**Growth in practice.** I would move from producer to composer-practitioner, which is a different discipline and a different confidence. I would come out of the year with a body of work rather than a catalogue of singles, with an instrument practice I did not have, and with a written method that says what I know and how I know it.
+The first is that the accessibility infrastructure already exists. Two years ago I could not have run a paid co-composition wānanga with Deaf artists without inventing the cultural process from scratch. Now the cultural review, the contracting, and the trilingual asset pipeline are in place, and Deaf and disability partners are already working with us: Arts Access Aotearoa, Access Advisors on digital and haptic accessibility, WordsWorth Interpreting on NZSL, and Maurea on cultural review.
 
-**What I will do with the risk.** Every phase will be reviewed. Cultural integrity is checked with our cultural reviewer as drafts complete rather than at the end, so a wrong path is caught in weeks rather than after a year. Taonga pūoro learning is supervised by a mentor rather than self taught. The bilingual work is developed jointly with our Japanese collaborator so that neither side is guessing at the other's language.
+The second is that the sector is leaving people behind while it celebrates immersion. Production has moved to spatial formats, and every one of them is built for listeners. There is no documented method in Aotearoa for composing waiata where touch is a primary channel rather than an accommodation, and almost no Māori work written that way at all. If this method is going to exist, someone has to build it in te ao Māori terms, with Deaf and tāngata whaikaha Māori artists at the table for the whole year rather than at the end.
 
-*Roughly 340 words.*
+The third is that the hardware is finally reachable for a small label. Transducers and haptic wearables that were lab equipment a decade ago are now affordable and documented. The barrier is no longer access to the technology. It is dedicated time and a method.
 
 ---
 
-## Question 4: How will you share the learnings, discoveries, or reflections you experience through this process with others?
+[2084 characters, 335 words]
+
+==============================================================================
+QUESTION 3: How will this allow you to take risks, develop new ideas, and contribute to the growth of your arts practice?
+==============================================================================
+
+The risk is that I am a hearing composer working in a sensory register I cannot verify with my own ears.
+
+Normally a mix is confirmed by listening. For a year, the reference will be what my hands and sternum register, what a Deaf collaborator tells me, and what a tactile score says. That means writing without the cues I have relied on: no treble detail to place a line, no stereo image to create depth, no sense of whether a hook is memorable without asking someone who cannot hear it. I will get things wrong in the first half of the year, and the protocol will record those failures rather than hide them.
+
+The other risks are technical and they are real. Low frequency is where definition goes to die. A taiko pattern and a bass line that read as two separate events through speakers will smear into one rumble through a transducer if the envelopes are not managed, so I have to learn how to keep polyrhythmic definition intact under 120 Hz. Writing te reo Māori vocal meter against a tactile rhythm is a second unknown, because the phrasing has to work in three registers at once: heard, signed, and felt.
+
+The new idea is the one I am most interested in. Tactile notation for waiata does not exist in this form. Percussion has historical notation, film has cue sheets, and haptics research has coding schemes for effects. None of that tells a composer how to write a waiata that carries meaning through pressure and location. If the notation works, a Deaf performer can take the score, rehearse the piece, and perform it without the audible version existing at all. That is a different kind of work, not a better-accessible version of the same work.
+
+Growth in practice. The year changes what I am: less a producer who adds haptics at the end, more a composer who writes for touch and for hearing at the same time. I would come out of it with a method I can hand to another composer, including a Deaf composer, and have it work. The wider contribution is that the sector gains a documented, Māori-led approach to composing for touch, which is currently a research question in universities and an engineering problem in labs, and not yet a musical practice anyone in Aotearoa has written down.
+
+---
+
+[2199 characters, 394 words]
+
+==============================================================================
+QUESTION 4: How will you share the learnings, discoveries, or reflections you experience through this process with others?
+==============================================================================
 
 Sharing is built into the year rather than added to it at the end, and it runs on surfaces that already exist.
 
-**One: a published methodology paper.** Our public platform at anamatakahui.co.nz already publishes methodology papers on how the work is made, and they are read by other practitioners and by funders. In the final quarter I will publish a paper documenting the compositional method: how a waiata is built from a kōrero tuku iho, how taonga pūoro parts are written, how cultural review is applied at draft stage, and what did not work. The failures section will be real.
+One: the Somatosensory Composition Protocol. A published document covering tactile notation, frequency ranges and crossover points, phase alignment, dynamic control for tactile clarity, and the composition method for waiata written this way, released openly with a mixing template, and accompanied by the failures and the dead ends. The platform already publishes methodology papers and they are read by other practitioners and by funders.
 
-**Two: an open protocol framework for cross Indigenous collaboration.** The written protocol that governs language use, cultural review, rights division and mana over the work will be published so that other Māori artists entering Japanese or other international collaborations can start from it rather than from scratch. I will offer it directly to the Māori Music Industry Collective and SoundCheck Aotearoa for distribution through their networks.
+Two: the works and their scores. Three recorded waiata, each released with English, te reo Māori and New Zealand Sign Language assets, and each with its tactile score published alongside it. That means a Deaf performer or another composer can take the score and perform or reinterpret the work. The scores are the transferable part; the recordings are the demonstration.
 
-**Three: wānanga and mentoring.** Two composition wānanga will be held, one in Te Waipounamu and one in Te Matau-a-Māui, open to emerging Māori composers and delivered with the taonga pūoro mentor. Three emerging composers will be mentored individually across the year, with their work developed alongside mine.
+Three: wānanga and mentoring. Two composition wānanga, one in Te Waipounamu and one in Te Matau-a-Māui, delivered with NZSL interpretation, open to emerging Māori composers and to Deaf and tāngata whaikaha Māori composers and performers. Three emerging composers will be mentored individually across the year, and at least one of those places will be held for a Deaf composer. Their work develops alongside mine rather than after it.
 
-**Four: the recordings themselves.** Three recorded waiata will be released with trilingual assets, in English, te reo Māori and New Zealand Sign Language, so the work is accessible to Deaf audiences as well as listeners, and with haptic mixing guidance for venue playback. Every release carries the cultural review sign off and the reasoning behind it, so the decisions are visible rather than asserted.
+Four: sector presentation. I will present the method and the protocol at a Māori Music Industry Collective or SoundCheck Aotearoa hui, and take it to Arts Access Aotearoa and Access Advisors for distribution through the accessibility and disability arts networks, which is where a method like this either gets used or does not. The protocol will also be offered to Creative New Zealand as an example of practice.
 
-**Five: sector presentation.** I will present the method at a Māori Music Industry Collective or SoundCheck Aotearoa hui, and make the paper available to Creative New Zealand for use as an example of practice.
-
-*Roughly 350 words.*
+Five: the people in the room. The collaborators who build this with me will be named on the work and in the documentation, with their role and their contribution stated, so the method is credited to the people who developed it and not only to the composer who holds the fellowship.
 
 ---
 
-## Question 5: How do you think this will evolve your creative practice, artform, or your community?
+[2055 characters, 332 words]
 
-**My practice.** The shift is from someone who produces waiata to someone who composes them, in te reo Māori, for specific instruments, with a method that can be explained to another person. A year of protected time converts an instinct into a craft and a craft into something teachable. I expect the second half of the year to be materially different from the first, because the taonga pūoro learning will change what I am able to imagine writing before I write it.
+==============================================================================
+QUESTION 5: How do you think this will evolve your creative practice, artform, or your community?
+==============================================================================
 
-**The artform.** The gap I am trying to fill is idiomatic composition for taonga pūoro inside contemporary Māori music. If the method works, it produces a body of waiata that a kōauau or pūtātara player would recognise as written for them, and a written account of how to do it again. That is a contribution to te reo Māori composition as a craft rather than to a release schedule. Bilingual composition with Japanese adds a second, narrower contribution: a documented approach to holding two Indigenous languages as equal voices in one work, which neither language community has much of.
+My practice. The shift is from composing for ears and adding haptics afterwards to composing in two registers at once, and treating the tactile version as the primary one. A year of protected time converts that from an intention into a craft with a notation, a vocabulary and a workflow. I expect the second half of the year to sound different from the first, because once I can predict how a low frequency envelope will read on a body, that starts to shape what I write before I write it.
 
-**The community.** Te reo Māori outcomes are direct: new waiata composed in te reo Māori, released with reo Māori text and te reo Māori as the language of composition rather than a translation layer. For tāngata whaikaha Māori, the accessibility commitments continue from our 2026 Creative New Zealand programme: trilingual release assets, haptic and vibrotactile mixing guidance, and a Deaf accessible version of every release. For emerging composers, the wānanga and mentoring put three more Māori composers into the taonga pūoro and bilingual space with a method to work from, and the protocol framework means the next artist entering an international collaboration does not pay the tuition I paid.
+The artform. The contribution is a documented method for composing in te ao Māori where touch is a primary channel, and a notation that makes it teachable. If it works, waiata exist that a Deaf audience does not need a translation of, because the work was made for them at the point of composition. That is the part I care about most. International practice in haptic music is mostly engineering-led, coming out of labs and hardware companies rather than from composers. A Māori-led musical practice with a notation, a cultural process and released work is a different contribution, and it is one that the sector here can adopt quickly because it is written for our instruments, our languages and our audiences.
 
-**The movement.** Anamata exists to drive the Māori futurism movement in Aotearoa's music industry. Māori futurism is not a genre, it is a position: te reo Māori and taonga pūoro as living contemporary instruments, not heritage objects. A composer who can write for those instruments, publish the method, and hand it on is what that position looks like in practice.
+The community. For tāngata whaikaha Māori and Deaf audiences, the outcome is work composed for them rather than adapted for them: six new waiata in te reo Māori, three released with te reo Māori and NZSL assets, and a tactile score that lets the work be performed physically. For Deaf artists, the outcome is paid co-composition, a credit, and a route into a practice that currently has no established path here. For emerging Māori composers, the wānanga and mentoring put three more composers into this space with a method to work from, one of whom is Deaf. For the sector, an open protocol means the next person does not pay the tuition I am about to pay.
 
-*Roughly 370 words.*
-
----
-
-## Closing
-
-> The strategic development of this practice through the Creative Fellowship Fund represents a commitment to a future where indigenous knowledge and contemporary production coexist seamlessly. A label can release a catalogue. A composer builds a method, and a method outlives the year it was made in.
-
-> "He aha te mea nui o te ao? He tāngata, he tāngata, he tāngata."
->
-> What is the greatest thing in the world? It is people, it is people, it is people.
+The movement. Anamata exists to drive the Māori futurism movement in Aotearoa's music industry. Māori futurism is a position, not a genre: te reo Māori, taonga pūoro and the body as living contemporary instruments rather than heritage objects. A composer who can write for touch, publish the method, and hand it to a Deaf composer is what that position looks like in practice.
 
 ---
 
-# Submission annexes
-*(Not part of the application. The fund does not require a budget. These are for your own planning and for the Stage Two style reporting if you are awarded.)*
+[2239 characters, 391 words]
 
-## A. How the $50,000 will be used
+==============================================================================
+PLANNING ANNEX: BUDGET (not part of the portal submission)
+==============================================================================
 
-| Use | $ | Note |
+The Fellowship application does not require a budget. This is the plan for the $50,000 so the allocation is defensible and reusable at acquittal.
+
+| Category | Detail | NZD |
 |---|---|---|
-| Composition and studio time, twelve months | $26,500 | The core of the fellowship: protected time, this is the point of the fund |
-| Taonga pūoro tuition and mentor engagement | $6,000 | Mentor selected within 30 days of award |
-| Recording and engineering, three waiata | $8,000 | Studio, engineering, mixing, mastering |
-| Bilingual collaboration costs | $3,500 | Japanese collaborator recording and translation review |
-| Cultural review and accessibility production | $4,000 | Maurea cultural review, NZSL assets, haptic mix guidance |
-| Materials, instruments, resources | $2,000 | Kōauau and related instruments, reference recordings |
-| **Total** | **$50,000** | |
+| Artist time | 12 months at a part time research rate of $600 per week. A contribution to living costs, not a full time wage. | $31,200 |
+| Specialist hardware | Bass transducers and mounting, tactile exciter, wearable haptic vest, bone conduction transducers, tactile monitoring. | $6,800 |
+| Collaborator fees and koha | Deaf artists, NZSL poets and tāngata whaikaha Māori performers across the wānanga, taonga pūoro mentor, cultural review at draft stage. | $7,500 |
+| Access and interpretation | Qualified NZSL interpreters for every collaborative studio wānanga session. | $3,000 |
+| Documentation and release | Tactile notation guide, protocol publication, mixing template, web archive. | $1,500 |
+| **Total** | | **$50,000** |
 
-## B. Evaluation
+==============================================================================
+CORRECT THESE BEFORE SUBMITTING (Do not paste this section)
+==============================================================================
 
-| Measure | Target |
-|---|---|
-| New waiata completed | 6 |
-| Waiata recorded to release standard | 3 |
-| Taonga pūoro mentor engaged and instrument practice documented | 1, within 30 days of award |
-| Methodology paper published on anamatakahui.co.nz | 1, by month 11 |
-| Cross Indigenous protocol framework published | 1, by month 12 |
-| Wānanga delivered | 2, one Te Waipounamu, one Te Matau-a-Māui |
-| Emerging composers mentored | 3 |
-| Every release culturally reviewed and signed off | 100% |
-
-## C. Risk register
-
-| Risk | Mitigation |
-|---|---|
-| Mentor unavailable or the relationship does not work | Two further practitioners identified before selection; instrument practice continues with recorded tuition material |
-| Cultural review raises an objection late | Review runs at draft stage throughout, not at release stage |
-| Japanese collaborator's availability shifts | Protocol agreement sets expectations; the method work is not dependent on a single recording session |
-| Health or whānau demands interrupt the year | The fellowship is structured in three phases so a missed month does not collapse the programme |
-| Composing in te reo Māori without an English draft slows output | Expected, and budgeted for in the timeline; this is the risk the fellowship is for |
-
-## D. Timeline
-
-| Phase | Months | Work |
-|---|---|---|
-| Phase I, Ground | 1 to 3 | Mentor selected. Taonga pūoro learning begins. Kōrero tuku iho sourced and confirmed with whānau and iwi networks. Visual and text drafts of all six waiata. |
-| Phase II, Compose and record | 4 to 9 | Waiata composed. Three recorded. Cultural review at draft stage. Bilingual method developed with Ryo Suzuki and tested. |
-| Phase III, Codify and share | 10 to 12 | Methodology paper published. Protocol framework released. Wānanga delivered. Mentoring completed. |
-
-## E. If you would rather apply for $25,000
-
-Answer questions 1 to 3 only, use a six month window, and cut the programme to: one focused body of three waiata, taonga pūoro mentor engagement, one recorded work, and the methodology paper. Drop the wānanga, the mentoring, and the bilingual method development to a later year. The three answers above stand up with the six month version by deleting the bilingual paragraph in question 1 and the mentoring and wānanga items in question 4. Given the twelve month project window that the round allows, and that the two extra questions are answered above, $50,000 is the stronger ask.
-
----
-
-## Notes for proofreading
-
-Two judgement calls are yours, everything else is verified and ready.
-
-1. **Your role wording.** The form wants the role you are applying in. The draft uses composer and producer in question 1 and the bio block. Change it if you would rather lead with researcher or producer.
-2. **The instrument list.** The draft names kōauau and pūtātara specifically, because the catalogue evidence points at kōauau for the lead line and pūtātara for the sea waiata. Add any other instrument you intend to write for.
-
-Already resolved and no longer needing your decision: the waiata slate (six works now named), the release record (titles verified against the catalogue), the amount ($50,000, with the $25,000 variant set out in annex E), and the composer name and spelling.
+1. **The te reo title needs sign off.** The working title is Ngā Wiri o te Tinana (the vibrations of the body). Send it to Maurea or a reo advisor before it goes in the form. I did not use the alternative title Ngā Tono o te Tinana because tono reads as a request or a bid rather than a sensation, which would be a wrong note at the top of the application. Flagging rather than asserting: te reo naming is yours and the reviewer's call.
+2. **Which waiata carry the programme.** The draft says six waiata without naming them. The previous version named a slate (Kotahi te kaupapa, Kua muia e te pouritanga, Tapuwae tipuna, Mokemoke, plus two new bilingual works). Confirm whether those six carry this version too.
+3. **Collaborators are TBC on purpose.** No Deaf artist, NZSL poet or tāngata whaikaha Māori performer is named, because none has been approached for this project yet. The draft discloses a paid co-composition structure and a selection within 30 days of award from networks we already work with (Arts Access Aotearoa, WordsWorth Interpreting, Maurea). If any of those conversations have already happened, send the names and I will put them in.
+4. **The equipment line is not specified to the model.** $6,800 assumes a transducer rig plus a vest and bone conduction transducers. If there is a specific vest or transducer you already have your eye on, send it and the annex gets exact.
+5. **The taonga pūoro strand.** This version keeps the tactile work as the spine and does not give taonga pūoro its own pillar, although the instruments are the natural low frequency sources for tactile writing. Say if you want it named explicitly as a fourth element.
+6. **Platform URL.** I cited the platform without a domain in the draft, because anamatakahui.co.nz does not currently resolve. If that domain is being fixed, tell me and I will put the link in. kahuianamata.co.nz resolves and works.
+7. **Release years.** Apple Music dates Te Tinihanga, Wairua Piri Ta'i and Te Whakamātautau to early 2026. The label's own data file says 2025. Confirm the years before they go into any answer.
