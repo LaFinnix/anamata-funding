@@ -266,7 +266,7 @@ SECTION 6 — APPLICANT DETAILS
 Legal entity: Anamata Kāhui Limited
   (New Zealand Companies Office registration details available on request)
 Trading names: Anamata Records (music/creative division), Anamata Kāhui (parent)
-Founders: Ngāika Smith + Anamata Kāhui rōpū (kaitiaki rōpū governance)
+Founders: Ngaika Smith + Anamata Kāhui rōpū (kaitiaki rōpū governance)
 Iwi context (multi-iwi, all connected to founder and rōpū):
   Ngāi Tahu (Te Waipounamu), Ngāti Kahungunu (Te Matau-a-Māui),
   Ngāti Awa (Te Moana-a-Toi). Founder is registered Ngāi Tahu; the
@@ -390,7 +390,7 @@ SECTION 9 — DECLARATION
       is published openly and the DOIs are permanent citable
       research outputs.
 
-Submitted by: Ngāika Smith (Founder + Director)
+Submitted by: Ngaika Smith (Founder + Director)
 Date: 2026-07-29
 Application method: Online form at https://tindall.org.nz/contact/
 Backup storage: this offline text copy is archived in

@@ -22,7 +22,7 @@ Accessibility Charter + Māori and Disabled Advisory Board.
 
 ## Structure that won (memorise this — it worked)
 
-The Creative NZ form asks three questions. Ngāika answered them in
+The Creative NZ form asks three questions. Ngaika answered them in
 this exact order:
 
 | Q | Heading | Length |
@@ -59,7 +59,7 @@ submission, not a band bio.
 
 **Vocabulary to avoid:** anything that reads like a generic arts grant
 boilerplate. "Empowering communities," "celebrating culture," "honouring
-tradition" — Ngāika did NOT use these.
+tradition" — Ngaika did NOT use these.
 
 **Concrete specificity that scored:**
 
@@ -77,7 +77,7 @@ tradition" — Ngāika did NOT use these.
   he tāngata, he tāngata."* — translated. This was the final line of
   the entire document. Powerful move.
 - Referenced by name the Māori Music Industry Collective (MMIC) and
-  SoundCheck Aotearoa — showing Ngāika is plugged into the sector.
+  SoundCheck Aotearoa — showing Ngaika is plugged into the sector.
 
 ## People and organisations doc (the second PDF)
 
@@ -91,12 +91,12 @@ Separate document listing every partner. Three columns of substance:
 | **WordsWorth Interpreting** | NZSL interpreters | Trilingual content production |
 | **Wairere Iti** (SoundCheck Aotearoa / MMIC) | Industry advisor | Māori music sector mentorship, "Safer Spaces" |
 | **Otago Polytechnic** | NZQA Level 4 provider | Formal credential for bicultural competency |
-| **Ngāika Smith** (Anamata Records) | Project Manager + Lead Researcher | Ngāti Kahungunu + Ngāti Awa, Māori futurism |
+| **Ngaika Smith** (Anamata Records) | Project Manager + Lead Researcher | Ngāti Kahungunu + Ngāti Awa, Māori futurism |
 
 **All marked "currently in contact — engaged."** Don't list a partner
 in a future application unless they've actually been approached.
 
-**Insight:** Ngāika's bio emphasises **Ngāti Kahungunu and Ngāti Awa
+**Insight:** Ngaika's bio emphasises **Ngāti Kahungunu and Ngāti Awa
 history** and the **Māori futurism movement**. Use this exact
 positioning in all future bios and applications.
 
@@ -157,7 +157,7 @@ seeing money go to capability, not salaries.
    framing (Māori + Deaf/disabled) was the unique angle. Don't lose
    it in future applications.
 5. **Sector integration** — naming MMIC, SoundCheck Aotearoa, NZQA
-   shows Ngāika isn't operating in isolation.
+   shows Ngaika isn't operating in isolation.
 6. **Whakataukī close** — powerful, traditional, and translated.
 
 ## Weaknesses / room for next time

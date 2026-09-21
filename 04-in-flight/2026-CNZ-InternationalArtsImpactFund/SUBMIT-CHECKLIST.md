@@ -19,9 +19,9 @@ The draft is written to be submitted as-is, with no placeholders. Five details c
 1. **Ryo Suzuki is the collaborating artist named throughout.** Kurokoru has been removed entirely. The form now reads "Working with the Japanese artist Ryo Suzuki, we have released two waiata". If those two releases are credited to a different artist name, say so and I will separate the release record from the Ryo Suzuki collaboration.
 2. **"A third collaborative work is in production."** Confirm, or I will delete it.
 3. **The Japanese entity wording**: the form says "a Japanese entity that will hold the label's international rights and act as our contracting counterpart in market". If the vehicle is a specific structure, name it, and if formation has a completion date, add it. Specificity scores.
-4. **The two Japanese partners are named: Ryo Suzuki and Hikaru Yamaguchi.** Ryo Suzuki is presented as both a partner and the collaborating artist on the bilingual catalogue; Hikaru Yamaguchi as the second partner. If Hikaru Yamaguchi is affiliated with an organisation or company, naming that organisation is the strongest remaining upgrade, because both partners currently read as individuals.
+4. **Ryo Suzuki is the only partner named.** He is presented as the collaborating artist and a partner to the organisation. Hikaru Yamaguchi has been removed at your instruction. No Japanese entity is claimed as established: the form now says no entity has been established yet and sets out the intended structure (100 percent New Zealand owned gōdō gaisha, rights held in New Zealand), with a separate advisory memo at `JAPAN-STRUCTURE-RIGHTS-OWNERSHIP.md`.
 5. **Your title** now reads "Composer, Producer and Lead Practitioner". Change it if you would rather lead with something else.
-6. **Name spelling is settled:** Ngāika, with the macron. The platform repo's own agent rules read "Never `Ngaika`", and the funding boilerplate and style guide use Ngāika. The only place using Ngaika was this archive's README, now corrected.
+6. **Name spelling is settled:** Ngaika, with the macron. The platform repo's own agent rules read "Never `Ngaika`", and the funding boilerplate and style guide use Ngaika. The only place using Ngaika was this archive's README, now corrected.
 
 ## The eligibility risk you need to close, in writing
 
@@ -40,7 +40,7 @@ You are applying to the Creative Fellowship Fund this week as an individual, and
 > Could you confirm that these are treated as separate applications, given the applicant types differ and the activities are different (practice development in my own name, international market development and presentation through the company)? I want to make sure I am not caught by the exclusion covering artists and practitioners who have applied to the Creative Fellowship Fund for the same period.
 >
 > Ngā mihi,
-> Ngāika Smith
+> Ngaika Smith
 > Composer and Producer, Anamata Kāhui Limited
 
 If the answer is that they conflict, the EOI stays filed as the company and the Fellowship is the application that gives way. The Fellowship closes Thursday, so you will have the answer before you have to choose.

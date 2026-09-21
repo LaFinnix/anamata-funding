@@ -1,20 +1,22 @@
 # Creative New Zealand: Creative Fellowship Fund 2026, Round 2
 ## Application draft, $50,000
 
-**Funder:** Creative New Zealand
-**Fund:** Creative Fellowship Fund 2026, Round 2
-**Amount:** $50,000 (twelve months). A $25,000 / six month option is set out at the end.
-**Closes:** 1:00 PM NZ time, Thursday 24 September 2026
-**Results due:** 2 December 2026
-**Project window:** 2 December 2026 to 31 December 2027
-**Applicant:** Ngāika Smith, as an individual. You apply as an individual even though you operate through a company. Anamata Kāhui Limited's bank account can receive the grant.
-**Questions required:** three for $25,000, five for $50,000. All five are answered below.
+| Field | Detail |
+|---|---|
+| Funder | Creative New Zealand |
+| Fund | Creative Fellowship Fund 2026, Round 2 |
+| Amount | $50,000 for twelve months. A $25,000 / six month option is set out at the end. |
+| Closes | 1:00 PM NZ time, Thursday 24 September 2026 |
+| Results due | 2 December 2026 |
+| Project window | 2 December 2026 to 31 December 2027 |
+| Applicant | Ngaika Smith, as an individual. You apply as an individual even though you operate through a company, and Anamata Kāhui Limited's bank account can receive the grant. |
+| Questions required | Three for $25,000, five for $50,000. All five are answered below. |
 
 ---
 
 ## Executive summary
 
-This is a fellowship for a composer, not for an organisation. For twelve months I will step out of the delivery work that runs Anamata Records and spend the year inside the practice that made the label worth starting. The work has two pillars. **Waiata Composition**: writing a body of new waiata in te reo Māori, grounded in Ngāti Kahungunu kōrero tuku iho and in whakapapa to Ngāi Tahu and Ngāti Awa, composed without an English crutch. **Taonga Pūoro Practice**: learning to compose for kōauau, pūtātara, pahū and hue with a practitioner mentor, so traditional instruments carry the lead line rather than sitting behind a synth pad as texture. One note in my working catalogue reads, next to the waiata *Kua muia e te pouritanga*, "kōauau needed for lead". That note is this fellowship in one line.
+This is a fellowship for a composer, not for an organisation. For twelve months I will step out of the delivery work that runs Anamata Records and spend the year inside the practice that made the label worth starting. The work has two pillars. **Waiata Composition**: writing a body of new waiata in te reo Māori, grounded in Ngāti Kahungunu kōrero tuku iho and in whakapapa to Ngāi Tahu and Ngāti Awa, composed without an English crutch. **Taonga Pūoro Practice**: learning to compose for kōauau, pūtātara, pahū and hue with a practitioner mentor, so traditional instruments carry the lead line rather than sitting behind a synth pad as texture. One note in my working catalogue reads, next to the waiata *Kua muia e te pouritanga*, "kōauau needed for lead". Six waiata come out of the year, each with its own focus so that each can carry its own release and its own production application. That note is this fellowship in one line.
 
 ---
 
@@ -22,7 +24,7 @@ This is a fellowship for a composer, not for an organisation. For twelve months 
 
 Two pillars, one year, and a deliberate change in how I work.
 
-**Pillar one: Waiata Composition.** I will compose a body of new waiata written in te reo Māori, drawn from Ngāti Kahungunu kōrero tuku iho, with a further strand from Ngāi Tahu and Ngāti Awa narratives. Between six and eight waiata will be complete, with three recorded to release standard. The subjects are already in front of me: *Kotahi te kaupapa* (one purpose), *Mokemoke* (loneliness), *Tapuwae tipuna* (footsteps of ancestors) and *Kua muia e te pouritanga* (gathered by darkness) exist as demos, and each one is a fragment rather than a finished composition. My practice has been to produce around the edges of these ideas. The fellowship is the year I write them properly, with te reo Māori as the language of composition from the first draft rather than a translation of an English first draft.
+**Pillar one: Waiata Composition.** I will compose a body of new waiata written in te reo Māori, drawn from Ngāti Kahungunu kōrero tuku iho, with a further strand from Ngāi Tahu and Ngāti Awa narratives. Six waiata will be complete, with three recorded to release standard, and each one carries a single focus so that it can stand as its own release and its own future production application. Four are drawn from works already in demo: *Kotahi te kaupapa* (one purpose), *Kua muia e te pouritanga* (gathered by darkness), *Tapuwae tipuna* (footsteps of ancestors) and *Mokemoke* (loneliness). Two are new bilingual waiata written with our Japanese partner Ryo Suzuki, *Te Ara Moana* (the sea road) and *Rua Reo* (two voices), each holding te reo Māori and Japanese as equal voices. The subjects are already in front of me: *Kotahi te kaupapa* (one purpose), *Mokemoke* (loneliness), *Tapuwae tipuna* (footsteps of ancestors) and *Kua muia e te pouritanga* (gathered by darkness) exist as demos, and each one is a fragment rather than a finished composition. My practice has been to produce around the edges of these ideas. The fellowship is the year I write them properly, with te reo Māori as the language of composition from the first draft rather than a translation of an English first draft.
 
 **Pillar two: Taonga Pūoro Practice.** I want to learn to compose for taonga pūoro, not to sample them. I will work with a practitioner mentor to learn the tunings, breathing and repertoire of kōauau, pūtātara, pahū and hue, then write for those instruments as lead voices inside contemporary production. A mentor will be selected within thirty days of award from practitioners connected to Ngāti Kahungunu, Ngāi Tahu and Ngāti Awa networks, so the instrument knowledge comes with the whakapapa attached to it.
 

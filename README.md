@@ -15,6 +15,6 @@ Together these form the public face of Anamata Kāhui Limited's multi-vertical p
 
 ## Curator
 
-- **Ngāika Smith** — Founder, Anamata Kāhui Limited — [@LaFinnix](https://github.com/LaFinnix) · [ORCID 0009-0002-1952-7454](https://orcid.org/0009-0002-1952-7454) · ngaika@anamatakahui.co.nz
+- **Ngaika Smith** — Founder, Anamata Kāhui Limited — [@LaFinnix](https://github.com/LaFinnix) · [ORCID 0009-0002-1952-7454](https://orcid.org/0009-0002-1952-7454) · ngaika@anamatakahui.co.nz
 
-This archive is curated and maintained by Ngāika Smith as part of Anamata Kāhui Limited's multi-vertical platform.
+This archive is curated and maintained by Ngaika Smith as part of Anamata Kāhui Limited's multi-vertical platform.

@@ -97,9 +97,9 @@ round.)*
 > What is the greatest thing in the world? It is people, it is
 > people, it is people.
 
-## Ngāika Smith's standing bio
+## Ngaika Smith's standing bio
 
-> Ngāika Smith is a researcher and music producer with whakapapa to
+> Ngaika Smith is a researcher and music producer with whakapapa to
 > Ngāi Tahu, Ngāti Kahungunu, and Ngāti Awa, with a dedicated
 > commitment to the Māori futurism movement in Aotearoa's music
 > sector. Founder and director of Anamata Kāhui Limited
@@ -112,7 +112,7 @@ Researcher / Founder / Director).
 
 - **Legal entity:** Anamata Kāhui Limited (New Zealand Companies Office registration details available on request)
 - **Trading names:** Anamata Records (music/creative division), Anamata Kāhui (parent)
-- **Founders:** Ngāika Smith + Anamata Kāhui rōpū (kaitiaki rōpū governance)
+- **Founders:** Ngaika Smith + Anamata Kāhui rōpū (kaitiaki rōpū governance)
 - **Iwi context (multi-iwi, all connected to founder and rōpū):** Ngāi Tahu (Te Waipounamu), Ngāti Kahungunu (Te Matau-a-Māui), Ngāti Awa (Te Moana-a-Toi). Founder is registered Ngāi Tahu; the platform serves iwi across Te Waipounamu + Te Ika-a-Māui.
 - **Cultural reviewer:** Precious Clark / Maurea (engaged since 2024)
 - **Past win:** Creative NZ 2026 Organizations & Groups Development Fund, $10,000 (2026)

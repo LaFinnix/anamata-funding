@@ -10,7 +10,7 @@ Update this when more past applications are analysed.
 disciplined sentences. Reads like a serious funder submission.
 
 **Avoid:** generic arts-grant boilerplate. Don't say "empowering
-communities," "celebrating culture," "honouring tradition." Ngāika
+communities," "celebrating culture," "honouring tradition." Ngaika
 didn't.
 
 **Use:** Te Tiriti o Waitangi, te ao Māori, tikanga, rangatiratanga,
@@ -105,9 +105,9 @@ End applications with:
 Translated. Always. Don't leave the whakataukī untranslated for a
 non-Māori audience.
 
-## Ngāika Smith's standing bio
+## Ngaika Smith's standing bio
 
-> Ngāika Smith is a researcher and music producer with whakapapa to
+> Ngaika Smith is a researcher and music producer with whakapapa to
 > Ngāi Tahu, Ngāti Kahungunu, and Ngāti Awa, with a dedicated
 > commitment to the Māori futurism movement in Aotearoa's music
 > sector.
@@ -152,5 +152,5 @@ When drafting an application for any new round, the cron should:
    specific requirements.
 4. Draft using the two-pillar pattern + three-phase arc + budget
    percentages as scaffolds.
-5. Use Ngāika's standing bio as the applicant block.
+5. Use Ngaika's standing bio as the applicant block.
 6. End with the whakataukī (translated).

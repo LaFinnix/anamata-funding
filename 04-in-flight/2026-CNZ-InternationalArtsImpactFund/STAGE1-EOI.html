@@ -16,7 +16,7 @@
     margin: 0;
     -webkit-font-smoothing: antialiased;
   }
-  .jp { font-family: "IPAGothic", "IPAPGothic", "IPAGothic", sans-serif; font-size: 0.96em; }
+  .jp { font-family: "IPAGothic", "IPAPGothic", sans-serif; font-size: 0.96em; }
 
   /* ---------- letterhead ---------- */
   .letterhead {
@@ -25,67 +25,48 @@
   }
   .brand { display: flex; align-items: center; gap: 9px; }
   .brand img { height: 30px; width: auto; display: block; }
-  .brand-text .name {
-    font-size: 13.5pt; line-height: 1.1; color: #9E2A2B; letter-spacing: 0.005em;
-  }
-  .brand-text .entity {
-    font-size: 8.4pt; font-style: italic; color: #6f6f6f; line-height: 1.35; margin-top: 1px;
-  }
-  .letterhead .right {
-    text-align: right; font-size: 8.4pt; font-style: italic; color: #6f6f6f; line-height: 1.4;
-  }
+  .brand-text .name { font-size: 13.5pt; line-height: 1.1; color: #9E2A2B; }
+  .brand-text .entity { font-size: 8.4pt; font-style: italic; color: #6f6f6f; line-height: 1.35; margin-top: 1px; }
+  .letterhead .right { text-align: right; font-size: 8.4pt; font-style: italic; color: #6f6f6f; line-height: 1.4; }
 
   /* ---------- title block ---------- */
-  .kicker {
-    font-size: 9.4pt; color: #9E2A2B; margin: 20px 0 5px 0; letter-spacing: 0.01em;
-  }
-  h1 {
-    font-size: 20pt; line-height: 1.14; font-weight: normal;
-    margin: 0 0 7px 0; color: #111; max-width: 88%;
-  }
+  .kicker { font-size: 9.4pt; color: #9E2A2B; margin: 20px 0 5px 0; }
+  h1 { font-size: 20pt; line-height: 1.14; font-weight: normal; margin: 0 0 7px 0; color: #111; max-width: 92%; }
   .deck { font-size: 10.4pt; font-style: italic; color: #5c5c5c; margin: 0 0 4px 0; }
 
   /* ---------- headings ---------- */
   h2 {
     font-size: 11.6pt; font-weight: bold; color: #111;
     margin: 20px 0 8px 0; padding-top: 8px;
-    border-top: 1px solid #dcdcdc;
-    page-break-after: avoid;
+    border-top: 1px solid #dcdcdc; page-break-after: avoid;
   }
   h2.first { margin-top: 20px; }
-  h3 {
-    font-size: 10.6pt; font-weight: bold; color: #2b2b2b;
-    margin: 11px 0 5px 0; page-break-after: avoid;
-  }
+  h3 { font-size: 10.6pt; font-weight: bold; color: #2b2b2b; margin: 11px 0 5px 0; page-break-after: avoid; }
 
   p { margin: 0 0 6px 0; }
   .lead-para { font-size: 11.3pt; }
 
-  /* ---------- details block (booktabs-ish, no box) ---------- */
+  /* ---------- details block ---------- */
   dl { margin: 4px 0 12px 0; border-top: 1px solid #dcdcdc; border-bottom: 1px solid #dcdcdc; padding: 7px 0; }
   dl div { display: flex; padding: 2.6px 0; page-break-inside: avoid; }
   dt { width: 33%; font-style: italic; color: #6f6f6f; font-size: 9.9pt; padding-right: 12px; }
   dd { width: 67%; margin: 0; font-size: 10.3pt; }
 
-  /* ---------- goals table: rules top, under head, bottom. no row lines ---------- */
-  table { width: 100%; border-collapse: collapse; margin: 6px 0 9px 0; font-size: 9.3pt; }
+  /* ---------- tables: rules top, under head, bottom ---------- */
+  table { width: 100%; border-collapse: collapse; margin: 6px 0 9px 0; font-size: 9.3pt; border-top: 1.1px solid #1a1a1a; }
+  thead { display: table-header-group; }
   thead th {
     text-align: left; vertical-align: bottom; padding: 0 12px 4px 0;
     font-weight: bold; font-style: italic; color: #4a4a4a; font-size: 9.4pt;
     border-bottom: 1px solid #1a1a1a; white-space: nowrap;
   }
-  thead { display: table-header-group; }
   tbody td { padding: 2.2px 12px 2.2px 0; vertical-align: top; border: 0; }
   tbody td:first-child { white-space: nowrap; }
   tbody tr:last-child td { border-bottom: 1.1px solid #1a1a1a; padding-bottom: 3px; }
-  table { border-top: 1.1px solid #1a1a1a; }
   tr { page-break-inside: avoid; }
 
   /* ---------- pull quote ---------- */
-  .whakatauki {
-    margin: 16px 0 6px 0; padding: 2px 0 2px 15px;
-    border-left: 2px solid #9E2A2B; page-break-inside: avoid;
-  }
+  .whakatauki { margin: 16px 0 6px 0; padding: 2px 0 2px 15px; border-left: 2px solid #9E2A2B; page-break-inside: avoid; }
   .whakatauki .reo { font-size: 12.4pt; font-style: italic; color: #9E2A2B; line-height: 1.34; margin: 0 0 4px 0; }
   .whakatauki .trans { font-size: 9.9pt; font-style: italic; color: #5c5c5c; margin: 0; }
 
@@ -109,16 +90,16 @@
 </div>
 
 <p class="kicker">Stage One: Expression of Interest · Submitted 21 September 2026</p>
-<h1>Building a permanent Māori presence in the Japanese music market</h1>
-<p class="deck">Filed by Anamata Kāhui Limited, trading as Anamata Records, with Ngāika Smith as Composer, Producer and Lead Practitioner.</p>
+<h1>Establishing a New Zealand owned Māori presence in the Japanese music market</h1>
+<p class="deck">Filed by Anamata Kāhui Limited, trading as Anamata Records, part of Te Kāhui Anamata, with Ngaika Smith as Composer, Producer and Lead Practitioner.</p>
 
 <h2 class="first">Applicant details</h2>
 <dl>
   <div><dt>Applicant</dt><dd>Anamata Kāhui Limited, trading as Anamata Records</dd></div>
   <div><dt>NZBN</dt><dd>9429052960734 (company 9350922)</dd></div>
   <div><dt>Applicant type</dt><dd>New Zealand based arts organisation</dd></div>
-  <div><dt>Lead practitioner</dt><dd>Ngāika Smith, Composer, Producer and Lead Practitioner</dd></div>
-  <div><dt>Location</dt><dd>Aotearoa New Zealand, with a Japanese presence in formation</dd></div>
+  <div><dt>Lead practitioner</dt><dd>Ngaika Smith, Composer, Producer and Lead Practitioner</dd></div>
+  <div><dt>Location</dt><dd>Aotearoa New Zealand, with a Japanese market programme in development</dd></div>
   <div><dt>Artform</dt><dd>Music: waiata Māori, bilingual te reo Māori and Japanese</dd></div>
   <div><dt>Funding pool</dt><dd>Ngā toi Māori</dd></div>
   <div><dt>Amount requested</dt><dd>$75,000 per year for three calendar years, $225,000 in total</dd></div>
@@ -127,72 +108,78 @@
 
 <h2>Eligibility check and declaration</h2>
 
-<div class="declaration">
 <h3>New Zealand based arts organisation</h3>
 <p>Anamata Kāhui Limited is a registered New Zealand company, NZBN 9429052960734, trading as Anamata Records. The label is Māori led, governed with a kaitiaki rōpū, and works to a documented cultural review process with Precious Clark of Maurea, who has worked with us since 2024.</p>
-</div>
 
-<div class="declaration">
 <h3>International experience and capability</h3>
-<p>Our international practice runs artist to artist rather than through agency representation. Two bilingual waiata, <span class="jp">まだ終わっちゃいない</span> (Not over yet) and <span class="jp">ただ声一つ</span> (One Voice), hold te reo Māori and Japanese inside the same recording and are released to international platforms. Our collaborating artist is Ryo Suzuki. The catalogue also carries <em>Te Tinihanga (The Cunning)</em>, <em>Wairua Piri Ta'i (Mita o te Hauāuru)</em> and <em>Te Whakamātautau (The Diver’s Test)</em>, each composed from Ngāti Kahungunu kōrero tuku iho. A third collaborative work is in production.</p>
-</div>
+<p>Our international practice runs artist to artist rather than through agency representation. Two bilingual waiata, <span class="jp">まだ終わっちゃいない</span> (Not over yet) and <span class="jp">ただ声一つ</span> (One Voice), hold te reo Māori and Japanese inside the same recording and are released to international platforms. Our collaborating artist is Ryo Suzuki. The catalogue also carries <em>Te Tinihanga (The Cunning)</em>, <em>Wairua Piri Ta'i (Mita o te Hauāuru)</em> and <em>Te Whakamātautau (The Diver's Test)</em>, each composed from Ngāti Kahungunu kōrero tuku iho.</p>
 
-<div class="declaration">
 <h3>Evidence of international demand</h3>
-<p>Demand shows up in three places. A Japanese collaborator who has stayed across repeat releases rather than one session. A Japanese entity now in formation, which gives the label a contracting counterpart in market and the standing to hold its own international rights. And two Japanese partners, Ryo Suzuki and Hikaru Yamaguchi, already working with us across recording and live presentation. We are building the structure in Japan that this programme will run through, and we are doing it ahead of any funding decision.</p>
-</div>
+<p>Demand shows up in three places. A Japanese collaborator, Ryo Suzuki, who has stayed with us across repeat releases rather than one session, and who is now a partner to the organisation. A catalogue that already travels in two languages. And a market structure being built deliberately rather than borrowed: we are working through the establishment of a Japanese vehicle that we would own outright, so the label can contract, release and collect in Japan without handing over any part of the catalogue. We are doing that work ahead of any funding decision, and the structure is set out below.</p>
 
-<div class="declaration">
 <h3>Current international strategy</h3>
-<p>Our international strategy is written as the three year programme set out below: a Japanese market built on bilingual waiata, a formal entity, named partners, a live pathway, and a published cross Indigenous creative protocol. A standalone strategy document with market analysis, partner detail and a full budget accompanies our Stage Two application.</p>
-</div>
+<p>Our international strategy is the three year programme set out below: a Japanese market built on bilingual waiata, a wholly owned Japanese vehicle, named partners, a live pathway, and a published cross Indigenous creative protocol. A standalone strategy document with market analysis, partner detail and a full budget accompanies our Stage Two application.</p>
 
-<div class="declaration">
 <h3>Prior Creative New Zealand investment</h3>
 <p>In 2026 Creative New Zealand invested $10,000 through the Organizations and Groups Development Fund for a twelve month programme embedding cultural competency and accessibility into our operations. That programme produced the cultural review process and the accessibility standards this application stands on. It is why we can run an international programme now rather than in five years.</p>
-</div>
 
-<div class="declaration">
 <h3>Declarations</h3>
 <p>Anamata Kāhui Limited has not been offered funding for 2027 through the Arts Organisations and Groups Fund. No application has been made to the Creative Impact Fund for this activity.</p>
-</div>
 
 <h2>A summary of your international experience and goals</h2>
 
-<p class="lead-para">Anamata Records is the music division of Anamata Kāhui Limited, a Māori led label in Aotearoa New Zealand driving the Māori futurism movement in Aotearoa’s music industry. The label was founded by Ngāika Smith, a composer, producer and researcher with whakapapa to Ngāi Tahu, Ngāti Kahungunu and Ngāti Awa, and is governed with a kaitiaki rōpū. Our waiata are composed in te reo Māori, arranged around taonga pūoro and contemporary production, and reviewed for cultural integrity before release.</p>
+<p class="lead-para">Anamata Records is the music division of Anamata Kāhui Limited, part of Te Kāhui Anamata, a Māori led label in Aotearoa New Zealand driving the Māori futurism movement in Aotearoa's music industry. The label was founded by Ngaika Smith, a composer, producer and researcher with whakapapa to Ngāi Tahu, Ngāti Kahungunu and Ngāti Awa, and is governed with a kaitiaki rōpū. Our waiata are composed in te reo Māori, arranged around taonga pūoro and contemporary production, and reviewed for cultural integrity before release.</p>
 
 <h3>What we have built internationally</h3>
-<p>Our international work started with a single collaboration and has grown into a relationship. Working with the Japanese artist Ryo Suzuki, we have released two waiata that hold te reo Māori and Japanese as equal voices in one recording rather than as a translation of one another: <span class="jp">まだ終わっちゃいない</span> (Not over yet) and <span class="jp">ただ声一つ</span> (One Voice). A third collaborative work is in production.</p>
+<p>Our international work started with a single collaboration and has grown into a partnership. Working with the Japanese artist Ryo Suzuki, we have released two waiata that hold te reo Māori and Japanese as equal voices in one recording rather than as a translation of one another: <span class="jp">まだ終わっちゃいない</span> (Not over yet) and <span class="jp">ただ声一つ</span> (One Voice). A third collaborative work is in production.</p>
 <p>Making those records taught us what international collaboration actually costs a small Indigenous language label. Coordinating across time zones. Splitting rights across two jurisdictions. Holding two sets of cultural protocols inside one studio session so that neither becomes decoration. We learned it by trial, at our own expense, and we would rather the next Māori label did not have to.</p>
 
-<h3>What we are building in Japan now</h3>
-<p>Anamata Kāhui Limited is establishing a formal Japanese presence. I am in Japan as this Expression of Interest is filed, working through the formation of a Japanese entity that will hold the label’s international rights and act as our contracting counterpart in market. Alongside the entity, two Japanese partners are working with us across recording and live presentation: Ryo Suzuki, our collaborating artist on the bilingual catalogue, and Hikaru Yamaguchi. Those partnerships are the route by which our catalogue reaches Japanese audiences, rooms and release channels.</p>
-<p>That is the difference between this application and a proposal on paper. The entity, the partners and the working relationship exist. We are building the structure with our own resources, ahead of any funding decision, because the music only travels as far as the structure allows it to.</p>
+<h3>What we are building in Japan</h3>
+<p>Te Kāhui Anamata is establishing a Japanese market presence through Anamata Records. No Japanese entity has been established yet. The structure is being worked through now, deliberately, and the design is that ownership and control stay in Aotearoa New Zealand. I am in Japan as this Expression of Interest is filed, working through the formation of the vehicle and the partnership terms that will sit around it.</p>
 
-<h3>The goal</h3>
-<p>To make Anamata Records a permanent Māori presence in the Japanese music market. That means an entity that can contract in Japan, a catalogue that moves in two languages, a live pathway that repeats each year, and a written protocol for cross Indigenous collaboration that other Māori artists can take up and use without repeating our tuition.</p>
-<p>Japan is the right first market for three reasons. It is the second largest recorded music market in the world. It rewards craft led records and long relationships over short campaigns, which is the shape of our practice. And we already have the collaborator, the language pairing and now the entity to enter it properly rather than as a visitor.</p>
+<h3>Structure, rights and ownership</h3>
+<p>The vehicle will be a single member gōdō gaisha (<span class="jp">合同会社</span>), the Japanese limited liability company, held 100 percent by Anamata Kāhui Limited. Japan permits full foreign ownership of a gōdō gaisha, and recorded music is not a restricted sector, so a New Zealand company can hold the entire entity with no Japanese co-member and no local shareholder requirement. It is also the lighter vehicle: one member, an executive manager appointed by that member, and articles of incorporation that can require the member's consent for any transfer of interest, which locks ownership in place.</p>
+<p>The rights stay here. The Japanese entity will hold no master rights and no publishing. Master recordings and compositions remain owned in Aotearoa New Zealand by Anamata Kāhui Limited, or by the writers and producers with an exclusive licence to it. The Japanese entity operates under an exclusive licence for the Japan territory: it books, markets, releases into the Japanese market and administers local collection, and it remits licence fees back to New Zealand. Ownership of the catalogue therefore never leaves the country, and if the Japanese operation ever stopped trading, the catalogue would not be inside it.</p>
+<p>Ryo Suzuki is our collaborating artist and a partner to the organisation, and that partnership is contractual rather than equity: a defined share of Japan territory revenue and a named creative role. Market access, introductions, studio relationships, translation and language work can all be contracted and paid for honestly. A joint venture would hand over a permanent share of the masters in exchange for services that are worth a fee, which is why we are not proposing one.</p>
+<p>Still being worked through: the registered address and resident representative, the corporate bank account, the articles of incorporation, and confirmation of the royalty position under the New Zealand and Japan double tax agreement with our accountant before the first licence fee is invoiced.</p>
 
-<h3>Why now</h3>
-<p>Three things are converging in 2027 and will not hold for long. The Japanese entity completes its formation. Two Japanese partners, Ryo Suzuki and Hikaru Yamaguchi, are engaged and ready to programme work. And the bilingual catalogue is moving, with a third collaborative record in production. A market entry run in 2027 lands on all three. A market entry run later lands on none of them.</p>
+<h3>The waiata</h3>
+<p>Eight waiata carry the programme. Two are released and six are in development. Each has its own focus, so that every waiata can stand as its own release, reach its own audience, and carry its own future production application: an NZ On Air New Music Single in most cases, or Waiata Takitahi where the waiata is te reo Māori led. The album is funded song by song rather than as one lump.</p>
+<table>
+  <thead>
+    <tr><th style="width:30%">Waiata</th><th style="width:44%">Focus</th><th style="width:26%">Language and status</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Not over yet <span class="jp">まだ終わっちゃいない</span></td><td>Persistence. The first bilingual record, and the proof the collaboration works.</td><td>te reo Māori and Japanese. Released.</td></tr>
+    <tr><td>One Voice <span class="jp">ただ声一つ</span></td><td>A single voice carried by many. The second record, written for two audiences at once.</td><td>te reo Māori and Japanese. Released.</td></tr>
+    <tr><td>Kotahi te kaupapa<br><span class="jp">一つの目的</span></td><td>The kaupapa itself: why these two traditions work together. The manifesto waiata and the Japan launch single.</td><td>Balanced bilingual. In development.</td></tr>
+    <tr><td>Kua muia e te pouritanga<br><span class="jp">闇に包まれて</span></td><td>The flute song. Kōauau and shakuhachi in dialogue, grief and the passage through it. Carries the note "kōauau needed for lead" from the 2026 demo.</td><td>te reo Māori led with Japanese response lines. In development.</td></tr>
+    <tr><td>Tapuwae tipuna<br><span class="jp">祖先の足跡</span></td><td>Intergenerational transmission: what is handed down, and what is lost if it is not.</td><td>te reo Māori led. In development.</td></tr>
+    <tr><td>Mokemoke<br><span class="jp">孤独</span></td><td>The intimate one. Loneliness and language loss across distance. Voice and piano, no percussion.</td><td>Minimal te reo Māori and Japanese. In development.</td></tr>
+    <tr><td>Te Ara Moana<br><span class="jp">海の道</span></td><td>The oldest connection. Voyaging between the Pacific and Japan. Pūtātara and taiko.</td><td>te reo Māori led with a Japanese verse. Proposed.</td></tr>
+    <tr><td>Rua Reo<br><span class="jp">二つの声</span></td><td>What two language communities owe each other. Revitalisation as shared ground, and the waiata that closes the album.</td><td>Balanced bilingual. Proposed.</td></tr>
+  </tbody>
+</table>
 
 <h3>The three year programme</h3>
-<p><strong>Year one, 2027: Build and record.</strong> Formalise the Japanese entity and the partnership relationships into written agreements covering language use, cultural review, rights division and mana over the work. Compose and record a bilingual EP of four waiata in te reo Māori and Japanese, with taonga pūoro written into lead roles. Register the works with APRA and their Japanese counterparts. Publish the international strategy as a standing document.</p>
-<p><strong>Year two, 2028: Present.</strong> Take the programme into the Japanese market in person: two performances for Japanese industry in Tokyo and one regional centre, six or more meetings with Japanese labels, publishers and festival programmers, and a co-writing residency in Aotearoa hosting our Japanese partners on Kahungunu and Ngāi Tahu whenua. Release two further waiata.</p>
-<p><strong>Year three, 2029: Consolidate.</strong> Release a full length collaborative album in both markets. Present at a major international festival. Publish the cross Indigenous creative protocol framework openly and hand the model to a second Māori act, so the pathway outlives this grant and stops depending on us.</p>
+<p><strong>Year one, 2027: Build and record.</strong> Establish the Japanese vehicle and formalise the partnership into written agreements covering language use, cultural review, rights division and mana over the work. Compose and record four waiata from the slate: <em>Kotahi te kaupapa</em>, <em>Kua muia e te pouritanga</em>, <em>Te Ara Moana</em> and <em>Tapuwae tipuna</em>. Release <em>Kotahi te kaupapa</em> into the Japanese market as the launch single with a bilingual campaign. Register the works with APRA and their Japanese counterparts. Publish the international strategy as a standing document.</p>
+<p><strong>Year two, 2028: Present.</strong> Release <em>Rua Reo</em> and <em>Mokemoke</em>. Take the programme into the Japanese market in person: two performances for Japanese industry in Tokyo and one regional centre, six or more meetings with Japanese labels, publishers and festival programmers, and a co-writing residency in Aotearoa hosting Ryo Suzuki and the wider partner network on Kahungunu and Ngāi Tahu whenua.</p>
+<p><strong>Year three, 2029: Consolidate.</strong> Release the full length collaborative album gathering the slate. Present at a major international festival. Publish the cross Indigenous creative protocol framework openly and hand the model to a second Māori act, so the pathway outlives this grant and stops depending on us.</p>
 
 <h3>Goals and measures</h3>
 <table>
   <thead>
-    <tr><th style="width:9%">Year</th><th style="width:45%">Goal</th><th style="width:46%">Measure</th></tr>
+    <tr><th style="width:11%">Year</th><th style="width:45%">Goal</th><th style="width:44%">Measure</th></tr>
   </thead>
   <tbody>
-    <tr><td>2027</td><td>Japanese entity formed and partnerships formalised</td><td>Entity registered, agreements signed, filed and publishable</td></tr>
-    <tr><td>2027</td><td>First bilingual EP recorded</td><td>Four waiata recorded, registered with APRA and their Japanese counterparts</td></tr>
-    <tr><td>2027</td><td>International strategy published</td><td>Standing strategy document with named partners, markets, budget and targets</td></tr>
+    <tr><td>2027</td><td>Japanese vehicle established and wholly owned by Anamata Kāhui Limited</td><td>Entity registered at 100 percent New Zealand ownership, agreements signed, articles filed</td></tr>
+    <tr><td>2027</td><td>Rights position documented</td><td>Masters and publishing confirmed in New Zealand, exclusive Japan territory licence executed</td></tr>
+    <tr><td>2027</td><td>Four waiata composed and recorded</td><td>Four finished recordings registered with APRA and their Japanese counterparts</td></tr>
+    <tr><td>2027</td><td>Japan launch single released</td><td><em>Kotahi te kaupapa</em> released with a bilingual campaign and local collection in place</td></tr>
     <tr><td>2028</td><td>Live presence established in Japan</td><td>Two or more performances, six or more industry meetings</td></tr>
+    <tr><td>2028</td><td>Two further waiata released</td><td><em>Rua Reo</em> and <em>Mokemoke</em> released in both markets</td></tr>
     <tr><td>2028</td><td>Inbound residency hosted in Aotearoa</td><td>One residency, three or more Japanese practitioners hosted on whenua</td></tr>
-    <tr><td>2029</td><td>International release in both markets</td><td>Full length collaborative album released</td></tr>
+    <tr><td>2029</td><td>Album released in both markets</td><td>Full length collaborative album released</td></tr>
     <tr><td>2029</td><td>Pathway published and transferred</td><td>Protocol framework published, adopted by one or more other Māori acts</td></tr>
     <tr><td>All years</td><td>Cultural integrity held</td><td>Every release reviewed and signed off before release</td></tr>
   </tbody>
@@ -200,10 +187,10 @@
 
 <div class="closing">
 <h3>What this investment changes</h3>
-<p>It turns a relationship built on instinct into an institution with a paper trail, so the collaboration survives a change of personnel on either side. It moves us from releasing waiata into Japan to building a Japanese audience for them, which is a different job and needs people on the ground. And it publishes the method, so the next Māori label enters an international market with a protocol rather than a guess.</p>
+<p>It turns a relationship built on instinct into an institution we own, so the collaboration survives a change of personnel on either side. It moves us from releasing waiata into Japan to holding the structure that reaches Japanese audiences, which is the difference between visiting a market and being in one. And it publishes the method, so the next Māori label enters an international market with a protocol and an ownership position rather than a guess.</p>
 
 <div class="whakatauki">
-  <p class="reo"><span class="jp">“He aha te mea nui o te ao? He tāngata, he tāngata, he tāngata.”</span></p>
+  <p class="reo"><span class="jp">"He aha te mea nui o te ao? He tāngata, he tāngata, he tāngata."</span></p>
   <p class="trans">What is the greatest thing in the world? It is people, it is people, it is people.</p>
 </div>
 </div>
