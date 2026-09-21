@@ -86,19 +86,23 @@ tactile layer changes how I compose. It does not change who holds mana over the 
 What it builds on. Three waiata are released: Te Tinihanga, Wairua Piri Ta'i and Te Whakamātautau, all
 drawn from Ngāti Kahungunu kōrero tuku iho, on Apple Music and YouTube. Our Japanese collaborations Not
 over yet and One Voice are in the world. In 2026 Creative New Zealand invested $10,000 through the
-Organizations and Groups Development Fund to build the cultural and accessibility infrastructure
-underneath the music: a cultural reviewer engaged since 2024, a kaitiaki rōpū governance group, a
-registered entity, documented contracts and protocols, trilingual release assets, and haptic and
-vibrotactile mixing guidance for our releases. That work established what the label's releases are. This
-fellowship is about what the music itself can be.
+Organizations and Groups Development Fund in a twelve month programme of bicultural capability and
+universal accessibility, running to June 2027. That programme is putting the baseline accessibility audit,
+NZSL capability and a trilingual production standard in place with Arts Access Aotearoa, Access Advisors,
+WordsWorth Interpreting and Maurea, and it carries a vibrotactile production trial in December 2026 and a
+mix protocol prototype in February 2027. It is capability work for the organisation. This fellowship is the
+artistic research that runs alongside it: the trial and the prototype give my test programme a starting
+rig and a starting protocol, and the composing then goes where a capability programme is not designed
+to reach.
 
 Why now. Three things converge this year.
 
-The first is that the accessibility infrastructure already exists. Two years ago I could not have run a
-paid co-composition wānanga with Deaf artists without inventing the cultural process from scratch. Now the
-cultural review, the contracting, and the trilingual asset pipeline are in place, and Deaf and disability
-partners are already working with us: Arts Access Aotearoa, Access Advisors on digital and haptic
-accessibility, WordsWorth Interpreting on NZSL, and Maurea on cultural review.
+The first is that the groundwork lands in the same window. The cultural reviewer has been engaged since
+2024 and the kaitiaki rōpū governs the work. Two years ago I could not have run a paid co-composition
+wānanga with Deaf artists without inventing the cultural process from scratch. By the time this fellowship
+starts, that process, the contracting and the interpreted wānanga practice will be established through the
+programme now under way, with the partners named in it: Arts Access Aotearoa, Access Advisors, WordsWorth
+Interpreting and Maurea.
 
 The second is that the sector is leaving people behind while it celebrates immersion. Production has moved
 to spatial formats, and every one of them is built for listeners. There is no documented method in Aotearoa
@@ -148,8 +152,9 @@ exist.
 One: the Somatosensory Composition Protocol. A published document covering tactile notation, frequency
 ranges and crossover points, phase alignment, dynamic control for tactile clarity, and the composition
 method for waiata written this way, released openly with a mixing template, and accompanied by the
-failures and the dead ends. The platform already publishes methodology papers and they are read by other
-practitioners and by funders.
+failures and the dead ends. The platform already publishes its methods publicly, including the cultural
+review process and the data governance changelog behind its reported counts, and those surfaces are read
+by practitioners and by funders.
 
 Two: the works and their scores. Three recorded waiata, each released with English, te reo Māori and New
 Zealand Sign Language assets, and each with its tactile score published alongside it. That means a Deaf
@@ -304,7 +309,7 @@ rather than dressed up as a settled team.
 |---|---|---|
 | Executive summary | 944 | 155 |
 | Question 1 | 2,366 | 404 |
-| Question 2 | 2,084 | 335 |
+| Question 2 | 2,436 | 397 |
 | Question 3 | 2,199 | 394 |
-| Question 4 | 2,055 | 332 |
+| Question 4 | 2,162 | 347 |
 | Question 5 | 2,239 | 391 |
