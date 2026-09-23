@@ -28,12 +28,12 @@ Paste from `PORTAL-ANSWERS.txt`. Plain text, no formatting marks, counts given p
 
 | Field | Characters | Words |
 |---|---|---|
-| Executive summary | 944 | 155 |
-| Question 1, what you want to do | 2,366 | 404 |
-| Question 2, builds on previous work and why now | 2,436 | 397 |
-| Question 3, risk, new ideas, growth | 2,199 | 394 |
-| Question 4, sharing the learnings | 2,162 | 347 |
-| Question 5, evolving your practice, artform, community | 2,248 | 393 |
+| Executive summary | 1,167 | 198 |
+| Question 1, what you want to do | 2,485 | 416 |
+| Question 2, builds on previous work and why now | 2,437 | 398 |
+| Question 3, risk, new ideas, growth | 2,494 | 436 |
+| Question 4, sharing the learnings | 2,476 | 399 |
+| Question 5, evolving your practice, artform, community | 2,499 | 436 |
 
 The fund publishes no character limit for these fields. If the portal caps one, say which and by how much
 and the answer gets cut to fit without losing a claim.
@@ -55,11 +55,11 @@ an assessor asks how the method will actually be developed.
 
 ## Evidence and annexes prepared
 
-- `ACCESSIBILITY-PROGRAMME-EVIDENCE.md` — what the 2026 Creative New Zealand Development Fund programme is,
+- `ACCESSIBILITY-PROGRAMME-EVIDENCE.md`: what the 2026 Creative New Zealand Development Fund programme is,
   what is verifiable publicly today with links, what is still in flight with dates, and what does not exist
   yet. This is the document that makes the application's accessibility claims checkable.
 - `../2026-CNZ-CreativeFellowshipFund-R2/CNZ-CreativeFellowship-R2-Somatosensory.pdf` — the application.
-- `/opt/data/anamata/somatosensory/PRACTICE-BRIEF.md` and `TACTILE-NOTATION.md` — the method, if the form
+- `/opt/data/anamata/somatosensory/PRACTICE-BRIEF.md` and `TACTILE-NOTATION.md`: the method, if the form
   takes a further document.
 
 ## Support material the fund asks for
