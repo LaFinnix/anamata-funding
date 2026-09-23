@@ -146,17 +146,32 @@ def convert(md: str, title: str, kicker: str, subtitle: str, logo_uri: str, enti
 
         if re.match(r"^[-*]\s+", stripped):
             buf = []
-            while i < len(lines) and re.match(r"^[-*]\s+", lines[i].strip()):
-                buf.append(re.sub(r"^[-*]\s+", "", lines[i].strip()))
-                i += 1
+            while i < len(lines):
+                cur = lines[i]
+                if re.match(r"^[-*]\s+", cur.strip()):
+                    buf.append(re.sub(r"^[-*]\s+", "", cur.strip()))
+                    i += 1
+                elif buf and cur.strip() and cur[:1] in (" ", "\t") and not re.match(r"^\s*(?:[-*]|\d+\.)\s+", cur):
+                    # an indented line continues the item above it, so the list stays one list
+                    buf[-1] += " " + cur.strip()
+                    i += 1
+                else:
+                    break
             out.append("<ul>" + "".join(f"<li>{inline(b)}</li>" for b in buf) + "</ul>")
             continue
 
         if re.match(r"^\d+\.\s+", stripped):
             buf = []
-            while i < len(lines) and re.match(r"^\d+\.\s+", lines[i].strip()):
-                buf.append(re.sub(r"^\d+\.\s+", "", lines[i].strip()))
-                i += 1
+            while i < len(lines):
+                cur = lines[i]
+                if re.match(r"^\d+\.\s+", cur.strip()):
+                    buf.append(re.sub(r"^\d+\.\s+", "", cur.strip()))
+                    i += 1
+                elif buf and cur.strip() and cur[:1] in (" ", "\t") and not re.match(r"^\s*(?:[-*]|\d+\.)\s+", cur):
+                    buf[-1] += " " + cur.strip()
+                    i += 1
+                else:
+                    break
             out.append("<ol>" + "".join(f"<li>{inline(b)}</li>" for b in buf) + "</ol>")
             continue
 

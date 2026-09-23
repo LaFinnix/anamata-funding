@@ -23,20 +23,23 @@ Every event carries seven fields. Nothing is optional except duration on an inst
 
 ## Body location codes
 
-| Code | Location | Delivered by |
-|---|---|---|
-| CH1 | sternum and chest | platform, standing close |
-| CH2 | upper back | chair back, upper transducer |
-| CH3 | lower back and hips | chair back, lower transducer |
-| CH4 | left thigh | seat transducer left |
-| CH5 | right thigh | seat transducer right |
-| CH6 | feet and legs | platform shaker |
-| CH7 | palms and forearms | vest arm channels, or a held transducer |
-| CH8 | skull | bone conduction path |
+| Code | Location | Delivered by | Te reo, proposed |
+|---|---|---|---|
+| CH1 | sternum and chest | platform, standing close | uma, poho |
+| CH2 | upper back | chair back, upper transducer | tuara |
+| CH3 | lower back and hips | chair back, lower transducer | hope |
+| CH4 | left thigh | seat transducer left | to be confirmed |
+| CH5 | right thigh | seat transducer right | to be confirmed |
+| CH6 | feet and legs | platform shaker | waewae |
+| CH7 | palms and forearms | vest arm channels, or a held transducer | ringa |
+| CH8 | skull | bone conduction path | upoko, or angaanga, to confirm |
 
-Bilingual labels for each location are an open item. Te reo names for the body areas should come from the
-cultural reviewer rather than from me, and then sit alongside the codes rather than replacing them, so the
-notation stays readable to performers outside te ao Māori.
+The te reo column is a proposal, not a decision. These are the everyday words a listener would use for a
+body area rather than clinical anatomy, and three entries are deliberately left open instead of guessed:
+there is no single everyday term in wide use for the thigh or the forearm, and the skull is better settled
+with the reviewer than inferred. Every term is confirmed or replaced by the cultural reviewer before
+version 0.2, and the confirmed word then sits alongside the code rather than replacing it, so the notation
+stays readable to performers working outside te ao Māori.
 
 ## Worked example, one bar of 4/4
 
@@ -57,11 +60,21 @@ that opens the next bar. The melodic contour of the bar is CH2 to CH6 to CH7 to 
 
 1. A line is followed by channel, not by pitch. Movement between channels is the contour.
 2. Two events that share a channel and a band merge into one sensation. They must be re-notated to
-   different channels or different bands, and the separation figures come from tests T4 and T5.
-3. Intensity 0 is written, not omitted. Knowing where nothing happens is part of the score.
-4. Characters are established by test, not by taste. If T3 says a slow attack reads as tension rather
+   different channels or different bands, and the separation figures come from tests T4 and T5. The rule
+   is per channel, so two events on different channels never merge and never need separating.
+3. Simultaneous lines across channels are written on one beat. Where more than one channel carries an
+   event at the same beat, the beat is written once and each channel reads in its own field on that row,
+   so a bar reads as a grid of locations against time rather than as a single line. A 3:2 written across
+   CH2 and CH6 is six events over two bars, three on the back and two on the feet, and it stays two
+   rhythms for as long as the separation figures from T4 and T5 hold.
+4. The group bracket is the only mark that claims two events are one gesture. Two simultaneous events on
+   different channels are left unbracketed, because bracketing them would tell a performer to treat what
+   the composer intends as two rhythms as one physical event. Where the intent is a single gesture across
+   two locations, the bracket goes over the group and the field values stay separate.
+5. Intensity 0 is written, not omitted. Knowing where nothing happens is part of the score.
+6. Characters are established by test, not by taste. If T3 says a slow attack reads as tension rather
    than as swell, the vocabulary changes.
-5. The performance test for the notation: hand the score to a performer who cannot hear the recording. If
+7. The performance test for the notation: hand the score to a performer who cannot hear the recording. If
    they cannot rehearse from it, the notation has failed and the fields are wrong, not the performer.
 
 ## Versioning
@@ -69,6 +82,7 @@ that opens the next bar. The melodic contour of the bar is CH2 to CH6 to CH7 to 
 | Version | Trigger | Changes |
 |---|---|---|
 | 0.1 | drafted 2026-09-21 | fields, channels, characters, worked example |
+| 0.1a | revised 2026-09-24 | cross-channel simultaneity rules and a proposed te reo column. Both await cultural review before 0.2 |
 | 0.2 | after T1, T2, T3 | band boundaries, working level, character vocabulary |
 | 0.3 | after T7 | location codes confirmed against the body map |
 | 0.4 | after the first waiata is scored | grouping, phrase marks, whatever the first real work exposes |
