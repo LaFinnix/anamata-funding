@@ -153,3 +153,11 @@ if __name__ == "__main__":
            "Supplementary evidence · accessibility programme · ongoing")
     render("CNZ-CreativeFellowship-R2-Method-Annex", method_annex_source(),
            "Practice brief and tactile notation · supporting method · September 2026")
+    # authored sources, not generated: the support material that goes in as separate uploads
+    for name, subtitle in [
+            ("CV-Ngaika-Smith", "Artistic CV · Ngaika Smith · September 2026"),
+            ("People-and-Organisations", "Participation record · Creative Fellowship Fund 2026, Round 2"),
+    ]:
+        src = f"{BUILD}/{name}-source.md"
+        render(f"CNZ-CreativeFellowship-R2-{name}",
+               open(src, encoding="utf-8").read(), subtitle)

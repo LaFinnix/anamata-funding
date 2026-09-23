@@ -16,6 +16,13 @@
 | 04 | `04-CNZ-CreativeFellowship-R2-Accessibility-Evidence.pdf` | 4 | What the 2026 Development Fund programme is, what is publicly verifiable, what is ongoing, what independent corroboration exists, how it relates to this fellowship, what does not exist yet | Support material for the accessibility claims |
 | 05 | `05-CNZ-CreativeFellowship-R2-Method-Annex.pdf` | 8 | The practice brief (rig, twelve phase one tests, participant care, session architecture, alignment method) and tactile notation v0.1 | Support material for the method the application claims |
 
+Support material added 24 September:
+
+| # | PDF | Pages | What it is |
+|---|---|---|---|
+| 14 | `14-CNZ-CreativeFellowship-R2-CV-Ngaika-Smith.pdf` | 2 | Artistic CV, built from the verified record: practice, recorded work, funding and programme leadership, cultural practice, accessibility practice, sector relationships. No education or earlier roles because those are not verified, so add them and it regenerates |
+| 15 | `15-CNZ-CreativeFellowship-R2-People-and-Organisations.pdf` | 2 | The participation records entered in the portal, formatted for upload if the form asks for the same thing as a document |
+
 Working files behind them: `06-PORTAL-ANSWERS.txt` (raw paste text), `07-APPLICATION-full.md` (answers plus timeline, budget and collaborator annexes and the internal correct-these list), `08-SUBMIT-CHECKLIST.md`, `09-FIRST-CONTACT-EMAILS.md`, `10-COLLABORATOR-SHORTLIST.md`, `11-ACCESSIBILITY-PROGRAMME-EVIDENCE.md`, `12-PRACTICE-BRIEF.md`, `13-TACTILE-NOTATION.md`.
 
 All four PDFs render through one design system: A4, Liberation Serif, crescent letterhead with the entity line, kōkōwai used for the wordmark and kicker only, booktabs tables with hairline rules, page numbers in the footer. No em dashes, no emoji, no sans-serif body. Rebuild with `build/build_pdfs.py`, which writes both the source markdown and the PDF. The paste-ready answers are regenerated from `APPLICATION.md` with `build/build_portal_answers.py`, so the counts in the PDF are computed from the text that is pasted.
@@ -57,7 +64,7 @@ Every field is under 2,500. The fund publishes no limit, so these are targets ra
 
 | Item | State |
 |---|---|
-| **Artistic CV** | Not written. The fund asks for it. It can be drafted from the verified record inside an hour, but the training, roles, awards and dates are yours |
+| **Artistic CV** | Written from the verified record and in the package as document 14. It carries no education or earlier roles, because none is verified. Send those and it regenerates in minutes |
 | **Samples of work** | Exist, not picked. Three links need choosing from the released catalogue |
 | **Letters of support** | None obtained. Two are worth asking for: Maurea on cultural process, and a Deaf arts partner or Arts Access Aotearoa on the collaboration structure |
 | **Te reo title sign-off** | Outstanding. Recommendation stands: Ngā Wiri o te Tinana, subtitle stopping at vibrotactile waiata |
