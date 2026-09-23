@@ -58,7 +58,7 @@ an assessor asks how the method will actually be developed.
 - `ACCESSIBILITY-PROGRAMME-EVIDENCE.md`: what the 2026 Creative New Zealand Development Fund programme is,
   what is verifiable publicly today with links, what is still in flight with dates, and what does not exist
   yet. This is the document that makes the application's accessibility claims checkable.
-- `../2026-CNZ-CreativeFellowshipFund-R2/CNZ-CreativeFellowship-R2-Somatosensory.pdf` — the application.
+- `../2026-CNZ-CreativeFellowshipFund-R2/CNZ-CreativeFellowship-R2-Somatosensory.pdf`: the application.
 - `/opt/data/anamata/somatosensory/PRACTICE-BRIEF.md` and `TACTILE-NOTATION.md`: the method, if the form
   takes a further document.
 
