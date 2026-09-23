@@ -79,6 +79,20 @@ Every field is under 2,500. The fund publishes no limit, so these are targets ra
 1. **The Maurea relationship.** The application, the platform accessibility page and the funded programme's partner file all describe cultural review with Maurea dating from 2024. If the first contact email is genuinely first contact, that wording is wrong in three places and needs changing today.
 2. **Programme end date. Resolved 2026-09-24.** The programme runs to the end of 2027, and the application and the annex now cite the re-baselined dates. The fellowship answered the review by stating the two programmes share no cost line and no hour.
 
+## Final upload names
+
+`final/` holds byte-identical copies of the built PDFs under the names that go into the portal. Rebuild with
+`build/build_pdfs.py`, then re-publish with `build/publish_final.py`.
+
+| Final name | Internal source | Document |
+|---|---|---|
+| `Ngaika-Smith-CNZ-Creative-Fellowship-Fund-2026-R2-Application.pdf` | `CNZ-CreativeFellowship-R2-Somatosensory.pdf` | The application (the proposal) |
+| `Ngaika-Smith-CNZ-Creative-Fellowship-Fund-2026-R2-Portal-Answers.pdf` | `CNZ-CreativeFellowship-R2-Portal-Answers.pdf` | Paste-ready answers, reference copy |
+| `Ngaika-Smith-CNZ-Creative-Fellowship-Fund-2026-R2-Method-Annex.pdf` | `CNZ-CreativeFellowship-R2-Method-Annex.pdf` | Method annex |
+| `Ngaika-Smith-CNZ-Creative-Fellowship-Fund-2026-R2-Accessibility-Evidence.pdf` | `CNZ-CreativeFellowship-R2-Accessibility-Evidence.pdf` | Accessibility evidence |
+| `Ngaika-Smith-CNZ-Creative-Fellowship-Fund-2026-R2-Arts-CV.pdf` | `CNZ-CreativeFellowship-R2-CV-Ngaika-Smith.pdf` | Artistic CV |
+| `Ngaika-Smith-CNZ-Creative-Fellowship-Fund-2026-R2-Participation-Records.pdf` | `CNZ-CreativeFellowship-R2-People-and-Organisations.pdf` | Participation records |
+
 ## Archive
 
 `github.com/LaFinnix/anamata-funding` → `04-in-flight/2026-CNZ-CreativeFellowshipFund-R2/`. The repo gitignores `*.pdf`, so the markdown sources and both build scripts are committed and every PDF is reproducible from them.
