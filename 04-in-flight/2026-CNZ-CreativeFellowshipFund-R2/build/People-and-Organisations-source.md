@@ -1,14 +1,14 @@
-# People and organisations involved in your activities
+# People and organisations involved in the activity
 
 ## Participation record, Creative Fellowship Fund 2026 Round 2
 
-This document mirrors the participation records entered in the portal: the people and organisations
-involved in the proposed activity, with the role each one plays.
+This document sets out the people and organisations involved in the proposed activity, and the role each
+one plays. It mirrors the participation records entered in the portal.
 
 ## 1. Ngaika Smith
 
 Composer and producer, applying as an individual. Whakapapa to Ngāi Tahu, Ngāti Kahungunu and Ngāti Awa.
-Leads Te Kāhui Anamata, trading as Anamata Records, where he wrote and produced the released catalogue
+Leads Te Kāhui Anamata, trading as Anamata Records, where the released catalogue was written and produced
 including Te Tinihanga, Wairua Piri Ta'i and Te Whakamātautau, and the bilingual collaborations Not over yet
 and One Voice. Recipient of a 2026 Creative New Zealand Organizations and Groups Development Fund grant of
 $10,000 for a programme of bicultural capability and universal accessibility, and project manager and lead

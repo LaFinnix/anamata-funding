@@ -1,4 +1,4 @@
-PORTAL FIELD: People and organisations involved in your activities
+PORTAL FIELD: People and organisations involved in the activity
 Creative Fellowship Fund 2026, Round 2 · prepared 24 September 2026
 
 Create one record per person or organisation below, nine in total. Paste the About text as it stands.
@@ -11,7 +11,7 @@ Ngaika Smith
 
 ABOUT
 Composer and producer, applying as an individual. Whakapapa to Ngāi Tahu, Ngāti Kahungunu and Ngāti Awa.
-Leads Te Kāhui Anamata, trading as Anamata Records, where he wrote and produced the released catalogue
+Leads Te Kāhui Anamata, trading as Anamata Records, where the released catalogue was written and produced
 including Te Tinihanga, Wairua Piri Ta'i and Te Whakamātautau, and the bilingual collaborations Not over yet
 and One Voice. Recipient of a 2026 Creative New Zealand Organizations and Groups Development Fund grant of
 $10,000 for a programme of bicultural capability and universal accessibility. Project manager and lead
@@ -107,7 +107,7 @@ Role in this project: presentation of the method and the open protocol to the se
 it through their networks so other composers can use it.
 
 
-BEFORE YOU SAVE
+BEFORE THESE ARE ENTERED
 
 The application currently says the cultural reviewer has been engaged since 2024. If that is accurate,
 record 3 stands as written. If the first contact email is genuinely the first contact, say so and the

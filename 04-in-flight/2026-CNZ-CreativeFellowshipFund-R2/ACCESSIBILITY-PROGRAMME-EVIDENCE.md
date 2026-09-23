@@ -180,8 +180,8 @@ All links checked 21 September 2026.
    separate source. This annex says so in the assessor's language: different outputs, no shared line, no
    shared hours.
 4. **Time partition is stated qualitatively, not in hours.** The sentence says coordination and reporting
-   rather than research, without inventing a weekly figure. If Ngaika wants numbers in it, he needs to give
-   the real hours and the sentence takes them.
+   rather than research, without inventing a weekly figure. If numbers are wanted in it, the real hours are
+   needed and the sentence takes them.
 5. **Contract and letter status is honest.** Contracts target 30 October 2026. Support letters have been
    requested, not received. Neither is claimed as done.
 6. **The GitHub links behind the methodology papers are still dead.** `github.com/LaFinnix/anamata-kahui`
