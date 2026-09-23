@@ -1,6 +1,6 @@
 # People and organisations involved in the activity
 
-## Participation record, Creative Fellowship Fund 2026 Round 2
+## Nine participation records, with the role each person or organisation plays
 
 This document sets out the people and organisations involved in the proposed activity, and the role each
 one plays. It mirrors the participation records entered in the portal.
