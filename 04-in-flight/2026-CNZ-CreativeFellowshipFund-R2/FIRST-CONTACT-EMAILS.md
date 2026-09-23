@@ -85,7 +85,8 @@ BEFORE YOU SEND: TWO THINGS TO CHECK
    relationship with Maurea dating from 2024. The fellowship application, the platform's accessibility
    page and the funded programme's partner file all describe an existing relationship. If this email is
    genuinely the first contact, that wording has to change in all three places before Thursday.
-2. Confirm the programme end date. Our delivery schedule has the final report and financial acquittal in
-   June 2027. You said the fund runs to the end of 2027. If the end date is later, the deliverable dates in
-   the programme file need updating, because the fellowship application cites the December 2026
-   vibrotactile trial and the February 2027 protocol prototype as things it builds on.
+2. Programme end date. RESOLVED 2026-09-24. The programme runs to the end of 2027 (eighteen months,
+   July 2026 to December 2027, single final report and acquittal on 2027-12-17). The fellowship application
+   has been corrected to match: it previously cited a December 2026 vibrotactile trial and a February 2027
+   protocol prototype, and now cites the re-baselined dates, April 2027 and June 2027, and states that the
+   two programmes share no cost line. Nothing in either email depends on the old dates.

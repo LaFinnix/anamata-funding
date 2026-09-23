@@ -30,7 +30,7 @@ Paste from `PORTAL-ANSWERS.txt`. Plain text, no formatting marks, counts given p
 |---|---|---|
 | Executive summary | 1,167 | 198 |
 | Question 1, what you want to do | 2,485 | 416 |
-| Question 2, builds on previous work and why now | 2,437 | 398 |
+| Question 2, builds on previous work and why now | 2,425 | 395 |
 | Question 3, risk, new ideas, growth | 2,494 | 436 |
 | Question 4, sharing the learnings | 2,476 | 399 |
 | Question 5, evolving your practice, artform, community | 2,499 | 436 |

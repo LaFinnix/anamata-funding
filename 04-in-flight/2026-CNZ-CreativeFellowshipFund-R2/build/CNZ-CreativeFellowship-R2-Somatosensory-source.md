@@ -69,24 +69,13 @@ tactile layer changes how I compose. It does not change who holds mana over the 
 
 What it builds on. Three waiata are released: Te Tinihanga, Wairua Piri Ta'i and Te Whakamātautau, all
 drawn from Ngāti Kahungunu kōrero tuku iho, on Apple Music and YouTube. Our Japanese collaborations Not
-over yet and One Voice are in the world. In 2026 Creative New Zealand invested $10,000 through the
-Organizations and Groups Development Fund in a twelve month programme of bicultural capability and
-universal accessibility, running to June 2027. That programme is putting the baseline accessibility audit,
-NZSL capability and a trilingual production standard in place with Arts Access Aotearoa, Access Advisors,
-WordsWorth Interpreting and Maurea, and it carries a vibrotactile production trial in December 2026 and a
-mix protocol prototype in February 2027. It is capability work for the organisation. This fellowship is the
-artistic research that runs alongside it: the trial and the prototype give my test programme a starting
-rig and a starting protocol, and the composing then goes where a capability programme is not designed
-to reach.
+over yet and One Voice are in the world. In 2026 Creative New Zealand invested $10,000 through the Organizations and Groups Development Fund in an eighteen month programme of bicultural capability and universal accessibility, running to December 2027. That programme puts the baseline accessibility audit, NZSL capability and a trilingual production standard in place with Arts Access Aotearoa, Access Advisors, WordsWorth Interpreting and Maurea. It is capability work for the organisation, and its vibrotactile production trial in April 2027 and mix protocol prototype in June 2027 are framed as protocol development rather than music production. This fellowship is the artistic research that runs alongside it, with no cost in both ledgers: the programme funds audit, training and protocol work, and the fellowship funds the rig, the research time and the composing, then goes where a capability programme is not designed to reach.
 
 Why now. Three things converge this year.
 
 The first is that the groundwork lands in the same window. The cultural reviewer has been engaged since
 2024 and the kaitiaki rōpū governs the work. Two years ago I could not have run a paid co-composition
-wānanga with Deaf artists without inventing the cultural process from scratch. By the time this fellowship
-starts, that process, the contracting and the interpreted wānanga practice will be established through the
-programme now under way, with the partners named in it: Arts Access Aotearoa, Access Advisors, WordsWorth
-Interpreting and Maurea.
+wānanga with Deaf artists without inventing the cultural process from scratch. By the time this fellowship starts, that process, the contracting and the interpreted wānanga practice will be established through the programme now under way.
 
 The second is that the sector is leaving people behind while it celebrates immersion. Production has moved
 to spatial formats, and every one of them is built for listeners. There is no documented method in Aotearoa

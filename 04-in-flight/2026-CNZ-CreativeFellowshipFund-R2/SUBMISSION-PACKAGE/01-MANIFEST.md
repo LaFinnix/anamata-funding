@@ -13,7 +13,7 @@
 |---|---|---|---|---|
 | 02 | `02-CNZ-CreativeFellowship-R2-Portal-Answers.pdf` | 5 | The executive summary and the five answers, with character and word counts per field | Paste into the portal fields. The `.txt` version is the raw paste source |
 | 03 | `03-CNZ-CreativeFellowship-R2-Somatosensory.pdf` | 7 | The application as a document: at a glance, the five answers, twelve month timeline, budget ledger, collaborators | Support material, if the form takes an upload |
-| 04 | `04-CNZ-CreativeFellowship-R2-Accessibility-Evidence.pdf` | 3 | What the 2026 Development Fund programme is, what is publicly verifiable, what is ongoing, what does not exist yet | Support material for the accessibility claims |
+| 04 | `04-CNZ-CreativeFellowship-R2-Accessibility-Evidence.pdf` | 4 | What the 2026 Development Fund programme is, what is publicly verifiable, what is ongoing, what independent corroboration exists, how it relates to this fellowship, what does not exist yet | Support material for the accessibility claims |
 | 05 | `05-CNZ-CreativeFellowship-R2-Method-Annex.pdf` | 8 | The practice brief (rig, twelve phase one tests, participant care, session architecture, alignment method) and tactile notation v0.1 | Support material for the method the application claims |
 
 Working files behind them: `06-PORTAL-ANSWERS.txt` (raw paste text), `07-APPLICATION-full.md` (answers plus timeline, budget and collaborator annexes and the internal correct-these list), `08-SUBMIT-CHECKLIST.md`, `09-FIRST-CONTACT-EMAILS.md`, `10-COLLABORATOR-SHORTLIST.md`, `11-ACCESSIBILITY-PROGRAMME-EVIDENCE.md`, `12-PRACTICE-BRIEF.md`, `13-TACTILE-NOTATION.md`.
@@ -26,7 +26,7 @@ All four PDFs render through one design system: A4, Liberation Serif, crescent l
 |---|---|---|
 | Executive summary | 1,167 | 198 |
 | Question 1 | 2,485 | 416 |
-| Question 2 | 2,437 | 398 |
+| Question 2 | 2,425 | 395 |
 | Question 3 | 2,494 | 436 |
 | Question 4 | 2,476 | 399 |
 | Question 5 | 2,499 | 436 |
@@ -36,6 +36,8 @@ Every field is under 2,500. The fund publishes no limit, so these are targets ra
 ## Revision, 24 September, after two review passes
 
 **Method annex.** Vest routing and latency (analog or USB path, Bluetooth not accepted as the scored path, latency measured and logged), vibration exposure referenced to ISO 2631-1 and ISO 5349-1 with accelerometer measurement, participant care (screening, informed consent, opt out at any point, fees for time, CARE-based data sovereignty, cultural review of the protocol before the first session), a hardware quote plan, a specific phase alignment method with a five millisecond residual target, a cross-channel simultaneity rule in the notation, and a proposed te reo column on the body location codes.
+
+**Evidence annex.** Revised after the programme files were re-baselined. The annex had been carrying the pre-re-baseline schedule: a July 2026 to June 2027 window, a September 2026 baseline report, a December 2026 vibrotactile trial, a February 2027 prototype, and a March 2027 mid-programme report to Creative New Zealand that does not exist and is not owed. Every date now comes from the programme's own DELIVERABLES.md and TIMELINE.md: eighteen months to December 2027, trial 30 April 2027, prototype 30 June 2027, single report and acquittal 17 December 2027. Added: an "independent corroboration" section separating what is self-published from what a third party can check (award letter on file, named partner contacts, letters of support requested not received, contracts not signed), an explicit no-double-funding paragraph on the two vibrotactile lines, a time partition sentence, and a reframed non-engagement line that treats not asking disabled artists to work unpaid before funding exists as the protocol rather than a gap.
 
 **Application.** Four changes:
 1. **Scope discipline.** The method, the notation and three recorded works are now named as the core deliverable in the executive summary, Question 1 and Question 5. The public wānanga and the mentoring sit inside the same year and are stated as what flexes first if the year runs behind.
@@ -68,7 +70,7 @@ Every field is under 2,500. The fund publishes no limit, so these are targets ra
 ## Integrity checks before this goes in
 
 1. **The Maurea relationship.** The application, the platform accessibility page and the funded programme's partner file all describe cultural review with Maurea dating from 2024. If the first contact email is genuinely first contact, that wording is wrong in three places and needs changing today.
-2. **Programme end date.** The delivery schedule puts final report and acquittal in June 2027; the application cites December 2026 and February 2027 work from that programme.
+2. **Programme end date. Resolved 2026-09-24.** The programme runs to the end of 2027, and the application and the annex now cite the re-baselined dates. The fellowship answered the review by stating the two programmes share no cost line and no hour.
 
 ## Archive
 

@@ -9,7 +9,7 @@ the counts below are given so any field that caps can be trimmed deliberately ra
 |---|---|---|
 | Executive summary | 1,162 | 197 |
 | Question 1: What do you want to do in your creative practice with this funding? | 2,485 | 416 |
-| Question 2: How will this build on your previous work, and why is it important that you do this now? | 2,437 | 398 |
+| Question 2: How will this build on your previous work, and why is it important that you do this now? | 2,425 | 395 |
 | Question 3: How will this allow you to take risks, develop new ideas, and contribute to the growth of your arts practice? | 2,494 | 436 |
 | Question 4: How will you share the learnings, discoveries, or reflections you experience through this process with others? | 2,476 | 399 |
 | Question 5: How do you think this will evolve your creative practice, artform, or your community? | 2,494 | 435 |
@@ -71,14 +71,15 @@ compose. It does not change who holds mana over the work.
 What it builds on. Three waiata are released: Te Tinihanga, Wairua Piri Ta'i and Te Whakamātautau,
 all drawn from Ngāti Kahungunu kōrero tuku iho, on Apple Music and YouTube. Our Japanese
 collaborations Not over yet and One Voice are in the world. In 2026 Creative New Zealand invested
-$10,000 through the Organizations and Groups Development Fund in a twelve month programme of
-bicultural capability and universal accessibility, running to June 2027. That programme is putting
-the baseline accessibility audit, NZSL capability and a trilingual production standard in place with
-Arts Access Aotearoa, Access Advisors, WordsWorth Interpreting and Maurea, and it carries a
-vibrotactile production trial in December 2026 and a mix protocol prototype in February 2027. It is
-capability work for the organisation. This fellowship is the artistic research that runs alongside
-it: the trial and the prototype give my test programme a starting rig and a starting protocol, and
-the composing then goes where a capability programme is not designed to reach.
+$10,000 through the Organizations and Groups Development Fund in an eighteen month programme of
+bicultural capability and universal accessibility, running to December 2027. That programme puts the
+baseline accessibility audit, NZSL capability and a trilingual production standard in place with
+Arts Access Aotearoa, Access Advisors, WordsWorth Interpreting and Maurea. It is capability work for
+the organisation, and its vibrotactile production trial in April 2027 and mix protocol prototype in
+June 2027 are framed as protocol development rather than music production. This fellowship is the
+artistic research that runs alongside it, with no cost in both ledgers: the programme funds audit,
+training and protocol work, and the fellowship funds the rig, the research time and the composing,
+then goes where a capability programme is not designed to reach.
 
 Why now. Three things converge this year.
 
@@ -86,8 +87,7 @@ The first is that the groundwork lands in the same window. The cultural reviewer
 since 2024 and the kaitiaki rōpū governs the work. Two years ago I could not have run a paid co-
 composition wānanga with Deaf artists without inventing the cultural process from scratch. By the
 time this fellowship starts, that process, the contracting and the interpreted wānanga practice will
-be established through the programme now under way, with the partners named in it: Arts Access
-Aotearoa, Access Advisors, WordsWorth Interpreting and Maurea.
+be established through the programme now under way.
 
 The second is that the sector is leaving people behind while it celebrates immersion. Production has
 moved to spatial formats, and every one of them is built for listeners. There is no documented
