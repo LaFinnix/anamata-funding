@@ -1,5 +1,7 @@
 # Accessibility programme evidence
 
+## Supplementary evidence for the Creative Fellowship Fund 2026, Round 2 application
+
 Compiled 21 September 2026. Every link in this document was fetched and returned a live page on that date.
 This annex is written for an assessor who wants to check the application's accessibility claims rather than
 take them on trust.
@@ -101,28 +103,3 @@ Stated plainly, because the fellowship is the answer to it.
 - Catalogue: https://www.kahuianamata.co.nz/records
 
 All links checked 21 September 2026.
-
----
-
-# INTERNAL NOTES, NOT FOR THE ASSESSOR
-
-1. **The Development Fund programme is behind, and that is the biggest risk to this evidence.** The last
-   internal status (7 September 2026) has Phase I failing to start: partner contracts unsigned and past
-   their 31 August due date, no budget spent, and the baseline gap analysis due 30 September 2026 which
-   cannot proceed without contracts. This document does not claim progress it cannot support, which is why
-   the section above says "in flight, with dates" rather than "delivered". But two of the fellowship's
-   claims get materially stronger if the contracts are signed and the baseline report lands this month:
-   the accessibility audit (Chandra Harrison) and the baseline (Stace Robertson and Precious Clark) are
-   both cited in the application's why-now reasoning.
-2. **The GitHub links behind the methodology papers are dead.** `github.com/LaFinnix/anamata-kahui` returns
-   404 to an anonymous request, as do the raw doc paths on both `main` and `feat/viper-kokowai`. The
-   platform's own `/transparency` page describes three citable methodology papers as living in "the
-   platform's public docs" and links to them there. If that repo is private, every paper link on the live
-   site is broken for an assessor. Fixes: make the repo public, or mirror the three papers to a public
-   surface on the site.
-3. **anamatakahui.co.nz does not resolve** (no A record, no MX). All links in this document therefore use
-   kahuianamata.co.nz, which serves the same platform. If the platform domain is meant to be the canonical
-   one, that needs a DNS fix before any funder-facing document cites it.
-4. The programme title, amount, partners and deliverables above are taken from
-   `/opt/data/anamata/projects/creative-nz-2026/`. If any of it has changed since 7 September, update the
-   programme files first and this document follows.

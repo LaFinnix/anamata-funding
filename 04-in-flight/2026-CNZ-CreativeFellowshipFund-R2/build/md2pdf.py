@@ -192,7 +192,7 @@ async def render(html_path: Path, pdf_path: Path) -> None:
     footer = (
         '<div style="width:100%; font-family:\'Liberation Serif\',serif; font-size:7.8pt;'
         ' color:#8a8a8a; padding:0 24mm; display:flex; justify-content:space-between;">'
-        '<span>Anamata K&#257;hui Limited &#183; Te K&#257;hui Anamata</span>'
+        '<span>Te K&#257;hui Anamata &#183; Anamata Records</span>'
         '<span>Page <span class="pageNumber"></span> of <span class="totalPages"></span></span></div>'
     )
     async with async_playwright() as p:
@@ -216,7 +216,7 @@ def main() -> None:
     ap.add_argument("--title", default="Anamata Records")
     ap.add_argument("--kicker", default="")
     ap.add_argument("--subtitle", default="")
-    ap.add_argument("--entity-line", default="Anamata Kāhui Limited · NZBN 9429052960734 · Aotearoa New Zealand")
+    ap.add_argument("--entity-line", default="Te Kāhui Anamata · Aotearoa New Zealand")
     args = ap.parse_args()
 
     src = Path(args.input).resolve()

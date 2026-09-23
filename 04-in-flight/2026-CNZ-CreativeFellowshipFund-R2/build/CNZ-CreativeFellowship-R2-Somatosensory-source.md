@@ -1,36 +1,18 @@
-CREATIVE NEW ZEALAND: CREATIVE FELLOWSHIP FUND 2026, ROUND 2
-Ngā Tono o te Tinana: Somatosensory Composition, Vibrotactile Waiata, and the Decoupling of Sound from Hearing
+# Ngā Tono o te Tinana: Somatosensory Composition, Vibrotactile Waiata, and the Decoupling of Sound from Hearing
 
-Applicant: Ngaika Smith (lead artist and researcher), applying as an individual.
-Ask: $50,000 for up to twelve months of work.
-Funding pool: Ngā Toi Māori, with a multidisciplinary panel fit.
-Activity window: 2 December 2026 to 31 December 2027. Results due 2 December 2026.
-Deadline: 1:00 PM NZ time, Thursday 24 September 2026.
+## Application to Creative New Zealand, Creative Fellowship Fund 2026, Round 2
 
-This document is the submission content plus the annexes the portal does not ask for. Paste from
-PORTAL-ANSWERS.txt, which carries the same text with character counts per field.
+## At a glance
 
----
-
-# SECTION 1: PROJECT METADATA AND EXECUTIVE SUMMARY
-
-**Project title:** Ngā Tono o te Tinana: Somatosensory Composition, Vibrotactile Waiata, and the
-Decoupling of Sound from Hearing
-
-**Applicant:** Ngaika Smith, composer and producer, whakapapa to Ngāi Tahu, Ngāti Kahungunu and Ngāti Awa.
-Trading as Anamata Records, a trading brand of Anamata Kāhui Limited.
-
-**Grant tier:** $50,000, twelve month tenure.
-
-**Funding pool:** Ngā Toi Māori.
-
-**What this is:** an artist's research year. Not an album campaign and not a marketing programme. Twelve
-months of laboratory work in the studio, in partnership with Deaf and tāngata whaikaha Māori artists, to
-find out how a waiata is written when the primary version of it is felt rather than heard.
-
-**Elevator pitch (44 words):** A twelve month artistic research fellowship composing waiata for touch
-first: low frequency pressure, timing and location on the body as the primary material, developed with
-Deaf and tāngata whaikaha Māori artists, and documented as an open method other composers can use.
+| | |
+|---|---|
+| Applicant | Ngaika Smith, applying as an individual |
+| Practice | Composer and producer, trading as Anamata Records, a trading brand of Anamata Kāhui Limited |
+| Whakapapa | Ngāi Tahu, Ngāti Kahungunu, Ngāti Awa |
+| Ask | $50,000, twelve month tenure |
+| Pool | Ngā Toi Māori, with a multidisciplinary panel fit |
+| Activity window | 2 December 2026 to 31 December 2027 |
+| Results due | 2 December 2026 |
 
 ## Executive summary
 
@@ -46,8 +28,6 @@ underneath is simple. If a waiata can be complete without being heard, what chan
 written?
 
 ---
-
-# SECTION 2: THE PORTAL QUESTIONS, $50,000 TIER
 
 ## Question 1: What do you want to do in your creative practice with this funding?
 
@@ -207,7 +187,7 @@ it to a Deaf composer is what that position looks like in practice.
 
 ---
 
-# SECTION 3: TWELVE MONTH RESEARCH TIMELINE AND MILESTONES
+## Twelve month research timeline and milestones
 
 The tenure is twelve months inside a window that opens 2 December 2026. Month numbers below assume a
 January start; if the tenure begins in December the same sequence holds, shifted one month earlier.
@@ -237,7 +217,7 @@ template. Two public wānanga and three mentored composers. A published paper, a
 
 ---
 
-# SECTION 4: BUDGET ALLOCATION
+## Budget allocation
 
 The fund does not require a budget; the $50,000 figure is fixed. This ledger exists so the allocation is
 defensible at acquittal and reusable in the next round.
@@ -257,7 +237,7 @@ the application should not claim otherwise.
 
 ---
 
-# SECTION 5: COLLABORATORS AND SUPPORT NETWORK
+## Collaborators and support network
 
 | Role | Who | Engagement model |
 |---|---|---|
@@ -274,42 +254,3 @@ Nothing in this table is pledged by a person or organisation who has not been sp
 review is a live relationship since 2024. The accessibility partners are live relationships from the 2026
 programme. The collaborator and mentor roles are selected after award, which is disclosed in the answers
 rather than dressed up as a settled team.
-
----
-
-# CORRECT THESE BEFORE SUBMITTING (do not paste this section)
-
-1. **The title.** The title above is the one specified. My recommendation, recorded on 2026-09-21, was
-   Ngā Wiri o te Tinana (the vibrations of the body), for two reasons. *Tono* reads as a request or a bid
-   rather than a sensation, so "Ngā Tono o te Tinana" reads as the requests of the body. And "the
-   decoupling of sound from hearing" describes something that does not exist, because sound is vibration.
-   If the title stays as specified, get the reo checked by Maurea or a reo advisor first, and expect at
-   least one assessor to notice the physics claim. One line each to change.
-2. **Which waiata carry the programme.** Six are referenced without names. If a slate is set, send it and
-   the answers get specific.
-3. **Collaborators.** No Deaf artist, NZSL poet or tāngata whaikaha Māori performer is named, because none
-   has been approached for this project. If a conversation has started, that name strengthens the
-   application more than any paragraph.
-4. **Hardware quotes.** The $6,800 line has no purchase quotes behind it yet. NZ retailer sites block
-   automated price checks from this machine, so the numbers wait on either your suppliers or a quote
-   request.
-5. **The vest model.** Confirm the current model, its latency, whether it accepts an external transducer
-   feed, and its software support before buying.
-6. **The platform link.** No domain is cited in the answers because anamatakahui.co.nz does not currently
-   resolve. If that domain is being fixed, the link can go in. kahuianamata.co.nz resolves.
-7. **Release years.** Apple Music dates Te Tinihanga, Wairua Piri Ta'i and Te Whakamātautau to early 2026.
-   The label's own data file says 2025.
-8. **Delivery tiers.** The $25,000 tier takes three questions. The five answers above are the $50,000 tier.
-
----
-
-# CHARACTER COUNTS (for paste-verification only)
-
-| Field | Characters | Words |
-|---|---|---|
-| Executive summary | 944 | 155 |
-| Question 1 | 2,366 | 404 |
-| Question 2 | 2,436 | 397 |
-| Question 3 | 2,199 | 394 |
-| Question 4 | 2,162 | 347 |
-| Question 5 | 2,248 | 393 |

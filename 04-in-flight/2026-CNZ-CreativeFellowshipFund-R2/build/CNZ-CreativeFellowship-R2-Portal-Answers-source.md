@@ -1,36 +1,18 @@
-CREATIVE NEW ZEALAND: CREATIVE FELLOWSHIP FUND 2026, ROUND 2
-Ngā Tono o te Tinana: Somatosensory Composition, Vibrotactile Waiata, and the Decoupling of Sound from Hearing
+# Portal answers
 
-Applicant: Ngaika Smith (lead artist and researcher), applying as an individual.
-Ask: $50,000 for up to twelve months of work.
-Funding pool: Ngā Toi Māori, with a multidisciplinary panel fit.
-Activity window: 2 December 2026 to 31 December 2027. Results due 2 December 2026.
-Deadline: 1:00 PM NZ time, Thursday 24 September 2026.
+## Reference copy of the paste-ready text, Creative Fellowship Fund 2026, Round 2
 
-This document is the submission content plus the annexes the portal does not ask for. Paste from
-PORTAL-ANSWERS.txt, which carries the same text with character counts per field.
+Paste from this document into the portal fields. The portal sets no published character limit;
+the counts below are given so any field that caps can be trimmed deliberately rather than by guess.
 
----
-
-# SECTION 1: PROJECT METADATA AND EXECUTIVE SUMMARY
-
-**Project title:** Ngā Tono o te Tinana: Somatosensory Composition, Vibrotactile Waiata, and the
-Decoupling of Sound from Hearing
-
-**Applicant:** Ngaika Smith, composer and producer, whakapapa to Ngāi Tahu, Ngāti Kahungunu and Ngāti Awa.
-Trading as Anamata Records, a trading brand of Anamata Kāhui Limited.
-
-**Grant tier:** $50,000, twelve month tenure.
-
-**Funding pool:** Ngā Toi Māori.
-
-**What this is:** an artist's research year. Not an album campaign and not a marketing programme. Twelve
-months of laboratory work in the studio, in partnership with Deaf and tāngata whaikaha Māori artists, to
-find out how a waiata is written when the primary version of it is felt rather than heard.
-
-**Elevator pitch (44 words):** A twelve month artistic research fellowship composing waiata for touch
-first: low frequency pressure, timing and location on the body as the primary material, developed with
-Deaf and tāngata whaikaha Māori artists, and documented as an open method other composers can use.
+| Field | Characters | Words |
+|---|---|---|
+| Executive summary | 944 | 155 |
+| Question 1: What do you want to do in your creative practice with this funding? | 2,366 | 404 |
+| Question 2: How will this build on your previous work, and why is it important that you do this now? | 2,436 | 397 |
+| Question 3: How will this allow you to take risks, develop new ideas, and contribute to the growth of your arts practice? | 2,199 | 394 |
+| Question 4: How will you share the learnings, discoveries, or reflections you experience through this process with others? | 2,162 | 347 |
+| Question 5: How do you think this will evolve your creative practice, artform, or your community? | 2,248 | 393 |
 
 ## Executive summary
 
@@ -44,10 +26,6 @@ protocol as well as a body of work: tactile notation, crossover points, phase al
 management that keeps a polyrhythm legible through vibration rather than through mud. The question
 underneath is simple. If a waiata can be complete without being heard, what changes about how it gets
 written?
-
----
-
-# SECTION 2: THE PORTAL QUESTIONS, $50,000 TIER
 
 ## Question 1: What do you want to do in your creative practice with this funding?
 
@@ -204,112 +182,3 @@ The movement. Te Kāhui Anamata exists to drive the Māori futurism movement in 
 futurism is a position, not a genre: te reo Māori, taonga pūoro and the body as living contemporary
 instruments rather than heritage objects. A composer who can write for touch, publish the method, and hand
 it to a Deaf composer is what that position looks like in practice.
-
----
-
-# SECTION 3: TWELVE MONTH RESEARCH TIMELINE AND MILESTONES
-
-The tenure is twelve months inside a window that opens 2 December 2026. Month numbers below assume a
-January start; if the tenure begins in December the same sequence holds, shifted one month earlier.
-
-| Month | Phase | Work | Milestone |
-|---|---|---|---|
-| M1 | 1 | Studio build. Transducer rig, tactile chair and tactile platform, amplification, measurement path, vest and bone conduction. | Rig running and measured. Programme scope through cultural review. |
-| M2 | 1 | Tests T1 to T3: usable range per surface, perceptibility thresholds, envelope vocabulary. | Working band, working level and the six character words established. Test log open. |
-| M3 | 1 | Tests T4 to T6: polyrhythm legibility, masking distance, onset markers. | The separation figures that make two rhythmic lines stay two lines. Notation v0.2. |
-| M4 | 1 | Tests T7 to T9: body map, vest against platform, bone conduction crossover. | Location vocabulary and the two-channel split. Notation v0.3. Phase one review with Access Advisors. |
-| M5 | 2 | Collaborator selection complete. First co-composition wānanga. Test T10, te reo prosody. | Four closed studio wānanga scheduled and the first one held, all interpreted. |
-| M6 | 2 | Second wānanga. Test T11, NZSL cadence against sung meter. | First waiata scored as a tactile prototype. |
-| M7 | 2 | Third wānanga. Tactile-first drafting across the slate. | Three waiata in tactile-first draft. DAW template v0.1 with the three buses routed. |
-| M8 | 2 | Fourth wānanga. Scoring and revision. | Six waiata complete in draft. Tactile scores v0.4. Midpoint cultural review. |
-| M9 | 3 | Recording sessions for three works. Trilingual asset production. | Three works recorded. Tactile score publication prepared. Protocol drafting begins. |
-| M10 | 3 | Protocol document. Toolkit assembly. Demonstration wānanga planning. | Protocol first draft, tested against the phase one and two logs. |
-| M11 | 3 | Industry demonstration wānanga. Mentoring sessions. | Protocol and notation v1.0 published openly. Mentoring delivered to three composers. |
-| M12 | 3 | Final cultural review, documentation, acquittal evidence. | Open release kit, tactile score archive, and the final report. |
-
-**R&D check-ins.** Monthly written log against the test programme. Phase reviews at the end of M4 and M8
-with the cultural reviewer and Access Advisors. Cultural review at draft stage on every waiata rather than
-at the end of the slate. If a phase is running behind, the log says so rather than the acquittal.
-
-**Deliverables at the end of the tenure.** Six waiata in te reo Māori with tactile scores. Three recorded
-works with trilingual assets. Tactile notation v1.0. The Somatosensory Composition Protocol with a mixing
-template. Two public wānanga and three mentored composers. A published paper, and the test log behind it.
-
----
-
-# SECTION 4: BUDGET ALLOCATION
-
-The fund does not require a budget; the $50,000 figure is fixed. This ledger exists so the allocation is
-defensible at acquittal and reusable in the next round.
-
-| Category | Detail | NZD |
-|---|---|---|
-| Lead artist research stipend | Twelve months at a part time research rate of $600 per week. A contribution to living costs and dedicated research time, and the largest single line because the fellowship is the time itself. | $31,200 |
-| Specialist hardware | Bass transducers and mounting for chair and platform, tactile exciter, wearable haptic vest, bone conduction transducers, dedicated amplification, calibrated measurement microphone and contact measurement. | $6,800 |
-| Collaborator fees and koha | Deaf artists, NZSL poets and tāngata whaikaha Māori performers across four wānanga, the taonga pūoro mentor, and cultural review at draft stage. | $7,500 |
-| Access support | Qualified NZSL interpreters for every collaborative studio wānanga session, and interpretation for the public wānanga. | $3,000 |
-| Documentation and knowledge sharing | Tactile notation guide, protocol publication, mixing template, web archive of the tactile scores. | $1,500 |
-| **Total** | | **$50,000** |
-
-Note on the stipend: the fellowship funds dedicated time, so the stipend is the research. It is described
-as a contribution to living costs rather than a full time wage, because at $600 per week it is not one, and
-the application should not claim otherwise.
-
----
-
-# SECTION 5: COLLABORATORS AND SUPPORT NETWORK
-
-| Role | Who | Engagement model |
-|---|---|---|
-| Lead artist, researcher, composer | Ngaika Smith | Fellowship holder |
-| Cultural review at draft stage | Maurea, Precious Clark. Engaged since 2024. | Contracted per waiata at draft stage, and for programme scope |
-| Deaf artists, NZSL poets, tāngata whaikaha Māori performers | Selected within 30 days of award from networks already in place: Arts Access Aotearoa, WordsWorth Interpreting, and the Deaf arts community | Paid co-composition, credited on the work |
-| Accessibility and haptic advice | Access Advisors, Dr Chandra Harrison, and Arts Access Aotearoa, Stace Robertson | Existing relationship, advisory input at phase reviews |
-| NZSL interpretation | WordsWorth Interpreting | Contracted per session |
-| Taonga pūoro mentor | Selected with the cultural reviewer from Ngāti Kahungunu, Ngāi Tahu and Ngāti Awa networks | Contracted, supervised instrument practice |
-| Mentored composers | Three emerging Māori composers, at least one Deaf, selected through the wānanga | Paid mentoring over the year |
-| Sector distribution | Māori Music Industry Collective and SoundCheck Aotearoa | Presentation of the protocol, distribution through their networks |
-
-Nothing in this table is pledged by a person or organisation who has not been spoken to. The cultural
-review is a live relationship since 2024. The accessibility partners are live relationships from the 2026
-programme. The collaborator and mentor roles are selected after award, which is disclosed in the answers
-rather than dressed up as a settled team.
-
----
-
-# CORRECT THESE BEFORE SUBMITTING (do not paste this section)
-
-1. **The title.** The title above is the one specified. My recommendation, recorded on 2026-09-21, was
-   Ngā Wiri o te Tinana (the vibrations of the body), for two reasons. *Tono* reads as a request or a bid
-   rather than a sensation, so "Ngā Tono o te Tinana" reads as the requests of the body. And "the
-   decoupling of sound from hearing" describes something that does not exist, because sound is vibration.
-   If the title stays as specified, get the reo checked by Maurea or a reo advisor first, and expect at
-   least one assessor to notice the physics claim. One line each to change.
-2. **Which waiata carry the programme.** Six are referenced without names. If a slate is set, send it and
-   the answers get specific.
-3. **Collaborators.** No Deaf artist, NZSL poet or tāngata whaikaha Māori performer is named, because none
-   has been approached for this project. If a conversation has started, that name strengthens the
-   application more than any paragraph.
-4. **Hardware quotes.** The $6,800 line has no purchase quotes behind it yet. NZ retailer sites block
-   automated price checks from this machine, so the numbers wait on either your suppliers or a quote
-   request.
-5. **The vest model.** Confirm the current model, its latency, whether it accepts an external transducer
-   feed, and its software support before buying.
-6. **The platform link.** No domain is cited in the answers because anamatakahui.co.nz does not currently
-   resolve. If that domain is being fixed, the link can go in. kahuianamata.co.nz resolves.
-7. **Release years.** Apple Music dates Te Tinihanga, Wairua Piri Ta'i and Te Whakamātautau to early 2026.
-   The label's own data file says 2025.
-8. **Delivery tiers.** The $25,000 tier takes three questions. The five answers above are the $50,000 tier.
-
----
-
-# CHARACTER COUNTS (for paste-verification only)
-
-| Field | Characters | Words |
-|---|---|---|
-| Executive summary | 944 | 155 |
-| Question 1 | 2,366 | 404 |
-| Question 2 | 2,436 | 397 |
-| Question 3 | 2,199 | 394 |
-| Question 4 | 2,162 | 347 |
-| Question 5 | 2,248 | 393 |
