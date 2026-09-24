@@ -3,6 +3,23 @@
 Fill in and return as a document. Every field here ends up in the application's organisation profile, its
 international strategy, or the budget, and none of it can be written on your behalf.
 
+## 0. First, which of these apply to you
+
+Answer this before the rest, because it decides what the panel actually needs.
+
+| Situation | Fill in | Skip |
+|---|---|---|
+| **Individual artist, no registered company** (the likely case here) | Sections 1 (name, artist name, contact, channels), 3, 4, 5, 6, 7, 8, 9, 10 | Corporate number, registered company address, representative, seal certificate |
+| **Sole trader with a trading name (屋号)** | All of the above, plus the trading name and, if registered, the corporate number | Seal certificate unless a contract is sealed |
+| **Registered company (株式会社 or 合同会社)** | Everything, including corporate number, registered address, representative, and seal certificate or signature basis | Nothing |
+
+**Not having a registered studio is not a problem and needs no workaround.** A studio is a facility you book,
+not a qualification you hold. If the work is recorded at a commercial studio, that studio appears in the
+budget through its estimate and, if it wants to be named as a partner, through a role letter in
+`THIRD-PARTY-ROLE-LETTER-DRAFT.md`. The same applies to a venue, a label, a publisher or an arts body: each is
+its own party with its own letter, its own estimate and its own registration details, and each one strengthens
+the application independently of the collaborating artist's own status.
+
 ## 1. Identity
 
 | Field | Answer |
@@ -10,9 +27,9 @@ international strategy, or the budget, and none of it can be written on your beh
 | Full legal name, as registered or as printed on ID | |
 | Trading name or artist name | |
 | Type: company, sole trader, or individual artist | |
-| Representative or principal, and their title | |
-| Corporate number (法人番号), if there is one | |
-| Registered address | |
+| Representative or principal and title, entity only (for an individual, his own name and 'principal') | |
+| Corporate number (法人番号), entity only | |
+| Registered address, entity only | |
 | Website | |
 | Instagram, X, YouTube, TikTok | |
 | Streaming profiles (Spotify, Apple Music) | |
@@ -74,10 +91,23 @@ a label, a collaborator, or an institution. Ask them first, and tell us who has 
 |---|---|
 | Will you or your entity invoice us? Under which name? | |
 | Registered for Japanese consumption tax? Qualified invoice number (T plus 13 digits) | |
+| If not registered for consumption tax, confirm you can still invoice in your own name as an individual or sole trader (英文インボイス可) | |
 | Bank details for future payments (only if you are comfortable sending them now) | |
 | What you need from us for your own tax treatment | |
 | Your proposed share of Japan territory revenue, stated as a percentage or a formula | |
 | Your fees for services, separate from the revenue share | |
+
+## 7b. Other parties you want named
+
+If a studio, venue, presenter, label, publisher or arts body is going to take part, list them here. Each one
+gets its own letter and its own estimate, using the templates in `THIRD-PARTY-ROLE-LETTER-DRAFT.md`, and each
+one appears in the strategy and the budget.
+
+| Organisation | Role | Contact person and email | Letter requested? | Estimate requested? | Registration details held? |
+|---|---|---|---|---|---|
+| | | | | | |
+| | | | | | |
+| | | | | | |
 
 ## 8. Your contribution
 
